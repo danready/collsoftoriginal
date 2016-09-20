@@ -1,0 +1,99 @@
+
+SOFTWARE/FIRMWARE Driver motori collimatore / altre movimentazioni
+
+
+Il firmware di controllo delle slitte e' strutturato in modo che ogni 
+operazione e' pilotata dal software di controllo. La sequenza per l'impostazione 
+di uno stato e' rigida e la successione dei sottostati e' pensata in modo 
+che non si possa interrompere uno stato in esecuzione, a meno di allarmi. 
+Per pilotare il driver il software di controllo deve monitorare sostanzialmente sulla  
+variabile del firmware STATUS_STATE.
+Gli stati di movimentazione sono due:
+- HOME: che porta in chiusura le slitte e azzera tutte le variabili di misura della posizione.
+- MOVEREL: esegue una movimentazione nella posizione desiderata, solo se lo stato HOME e' stato eseguito 
+con successo, almeno una volta.
+ 
+La sequenza che deve eseguire il software per far eseguire una certa azione al driver e' la seguente:
+
+1. check STATUS_STATE = 0 (oppure = 4 o 5). Se la variabile e' 0 allora il firmware e' in standby, 
+nessuno stato e' in esecuzione e si puo' procedere a richiedere il nuovo stato.
+Se STATUS_STATE = 4 o 5 significa che l'ultimo stato richiesto e' concluso, 
+ma il software non ha azzerato la variabile. Per impostare un nuovo stato e' meglio accertarsi di 
+essere nelle condizioni di poterlo eseguire, anche se e' consigliabile in questo caso azzerare STATUS_STATE e 
+rieseguire lo stato HOME.
+
+2. richiedere lo stato da eseguire impostando la variabile REQUEST_STATE al valore desiderato.
+- per HOME impostare 4
+- per MOVEREL impostare 17
+- per RESETPOS impostare 6   
+- per SETCONFIG impostare ???? (con SETCONFIG si possono cambiare anche questi valori)
+La regola da seguire per questa numerazione di stati e' la seguente:
+- per gli stati che possono essere eseguiti senza che sia stato fatto l'homing si possono 
+usare tutti i numeri pari compresi tra 0 e 15 
+- per gli stati che possono essere eseguiti solo a seguito di un homing avvenuto con successo si possono 
+usare tutti i numeri dispari maggiori di 15 ( e inferiori a 255).
+
+--> STATUS_STATE = 1 (start dello stato) se lo stato puo' essere eseguito.
+
+--> STATUS_STATE = 2 (running dello stato) indica che lo stato e' in esecuzione.
+
+--> STATUS_STATE = 3 (stopping dello stato) lo stato sta eseguendo le funzioni di conclusione dello stato, per esempio stop del motore.
+
+--> STATUS_STATE = 4 o 5 (stato concluso) indica che lo stato e' concluso. 5 concluso con successo, 4 concluso con errori 
+(per esempio non si e' raggiunta la posizione desiderata, oppure il numero di conteggi dell'encoder non corrispondono alla posizione richiesta)
+
+3. il software deve quindi controllare che STATUS_STATE assuma il valore 4 o 5 entro un timeout che sara' opportunamente impostato.
+
+--> se STATUS_STATE = 5, lo stato richiesto si e' concluso con successo, quindi bisogna impostare STATUS_STATE = 0
+--> se STATUS_STATE = 4, lo stato richiesto non si e' concluso con successo, per ripetere o controllare o eseguire altri stati impostare comunque STATUS_STATE = 0
+--> se STATUS_STATE ! 4 o 5 dopo il timeout, bisogna eseguire uno stop forzato del motore e una operazione di ripristino di tutte le variabili che controllano gli 
+stati in modo da poter ripartire con i comandi. Indagare cosa ha causato il timeout (per esempio un allarme temperatura o un allarme guasto).
+
+
+
+- 09/02/2016 - Firmware revisione 3.1
+
+Questa versione del firmware e' caratterizzata da queste funzioni:
+
+1. INIT_DEFAULT_VAR. Inizializza tutte le variabili a valori di default hardcoded.
+
+2. T_CHECK. costante controllo della temperatura. In caso di temperatura oltre il limite esegue uno StopMotor, ma non esegue nessun ripristino 
+dell'eventuale stato interrotto dopo un rientro della temperatura al di sotto dei limiti. Con temperatura regolare e' comunque possibile 
+operare qualsiasi stato, prestando attenzione (da software) di eventuali stati interrotti.
+
+3. STATE_EXEC. esegue gli stati richiesti con la successione descritta sopra.
+e' possibile salvare su flash i valori di tutte le variabili a seguito di un SETCONFIG, anche se poi quando si fa ripartire il firmware esegue 
+sempre un INIT_DEFAULT_VAR, quindi al momento il SETCONFIG non ha effetti dopo un riavvio del driver.
+
+- DA FARE  
+Le funzionalita' che rimangono da implementare in questo firmware sono:
+
+1. INIT_VAR_FROM_FLASH
+se c'e' stato un precedente SETCONFIG, caricare i valori delle variabili dalla memoria flash ed eseguire un controllo sulla corretta lettura dalla flash.
+
+2. ALARM_CHECK. oltre alla temperatura bisogna implementare insieme a questa un controllo sulle variabili di guasto/stato del driver. Per un controllo 
+rapido si puo' far riferimento al registro bFault, il quale indica un qualsiasi fault. In questo caso sara' opera del software leggere il registro Fault 
+che racchiude le informazioni dei vari fault.
+- In caso di allarme mettere il motore in sicurezza. 
+- In caso di rientro allarme valutare se ripristinare automaticamente lo stato precedente oppure no. Forse bisognerebbe valutare se ripristinare o meno in 
+base al fault. Si potrebbe anche pensare ad un sequenza gestita dal software di ripristino delle variabili -> homing -> riesecuzione dell'ultimo stato.
+
+3. STATE_EXEC. implementare nello stato MOVEREL un check della posizione raggiunta usando le informazioni dell'encoder. Questo si puo' implementare sia nel driver che nel software.
+
+DB 06-09-2016
+Per eseguire i test senza encoder mantenendo la struttura logica del driver, l'ho un po' modificato.
+1. Ho reso prev_AnalogInput0 più capiente (cioè 4 bytes invece di 2)
+2. ho modificato la funzione checkrotation in modo tale che in caso di movimento relativo si fermi quando a raggiunto la target position e che in caso di homing si fermi subito.
+Chiaramente un driver così non ha senso di esistere in una situazione reale: serve, appunto, per fare test senza encoder....
+
+
+
+
+
+
+
+
+
+
+
+

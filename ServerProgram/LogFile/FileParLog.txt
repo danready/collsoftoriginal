@@ -1,0 +1,284 @@
+Log 1
+Date: Tue Jun  7 12:02:04 2016
+DrvNum	MaxVel	Acceleration	Deceleration
+1	1111	1111	1111
+2	1111	1111	1111
+3	1111	1111	1111
+
+Log 2
+Date: Tue Jun  7 12:02:04 2016
+DrvNum	MaxVel	Acceleration	Deceleration
+1	1112	1112	1112
+2	1112	1112	1112
+3	1112	1112	1112
+
+Log 3
+Date: Tue Jun  7 12:02:04 2016
+DrvNum	MaxVel	Acceleration	Deceleration
+1	1113	1113	1113
+2	1123	1123	1123
+3	1133	1133	1133
+
+Log 4 
+Date: Wed Jun  8 10:51:36 2016
+
+Log 5 
+Date: Wed Jun  8 10:52:17 2016
+
+Log 6 
+Date: Wed Jun  8 10:53:22 2016
+1	240
+1	10000
+1	10000
+2	240
+2	10000
+2	10000
+
+Log 7 
+Date: Wed Jun  8 10:54:20 2016
+1	240
+1	10000
+1	10000
+2	240
+2	10000
+2	10000
+
+Log 8 
+Date: Wed Jun  8 11:01:36 2016
+MaxVel	Acceleration	Deceleration
+1	240	10000	10000
+2	240	10000	10000
+
+Log 9 
+Date: Wed Jun  8 11:05:57 2016
+DrvNum	MaxVel	Acceleration	Deceleration
+1	240	10000	10000
+2	240	10000	10000
+
+Log 10 
+Date: Wed Jun  8 11:10:20 2016
+DrvNum	MaxVel	Acceleration	Deceleration
+
+Log 11 
+Date: Wed Jun  8 11:52:16 2016
+DrvNum	MaxVel	Acceleration	Deceleration
+
+Log 12 
+Date: Wed Jun  8 12:01:56 2016
+DrvNum	MaxVel	Acceleration	Deceleration
+
+Log 13 
+Date: Wed Jun  8 16:24:19 2016
+DrvNum	MaxVel	Acceleration	Deceleration
+1	240	10000	10000
+2	240	10000	10000
+
+Log 14 
+Date: Wed Jun  8 16:27:26 2016
+DrvNum	MaxVel	Acceleration	Deceleration
+1	240	10000	10000
+2	240	10000	10000
+
+Log 15 
+Date: Wed Jun  8 16:32:11 2016
+DrvNum	MaxVel	Acceleration	Deceleration
+1	240	10000	10000
+2	240	10000	10000
+
+Log 16 
+Date: Wed Jun  8 16:36:43 2016
+DrvNum	MaxVel	Acceleration	Deceleration
+1	240	10000	10000
+2	240	10000	10000
+
+Log 17 
+Date: Wed Jun  8 16:41:58 2016
+DrvNum	MaxVel	Acceleration	Deceleration
+1	240	10000	10000
+2	240	10000	10000
+
+Log 18 
+Date: Wed Jun  8 17:46:52 2016
+DrvNum	MaxVel	Acceleration	Deceleration
+1	240	10000	10000
+2	240	10000	10000
+
+Log 19 
+Date: Wed Jun  8 17:47:30 2016
+DrvNum	MaxVel	Acceleration	Deceleration
+1	241	10001	10001
+2	240	10000	10000
+
+Log 20 
+Date: Wed Jun  8 17:48:04 2016
+DrvNum	MaxVel	Acceleration	Deceleration
+1	241	10001	10001
+2	240	10000	10000
+
+Log 21 
+Date: Fri Jun 10 10:44:14 2016
+DrvNum	MaxVel	Acceleration	Deceleration	PhaseCurrent
+1	241	10001	1000111
+2	240	10000	1000012
+
+Log 22 
+Date: Fri Jun 10 10:45:01 2016
+DrvNum	MaxVel	Acceleration	Deceleration	PhaseCurrent
+1	241	10001	1000111
+2	240	10000	1000012
+
+Log 23 
+Date: Fri Jun 10 13:06:55 2016
+DrvNum	MaxVel	Acceleration	Deceleration	PhaseCurrent
+1	240	10000	10000	10
+2	240	10000	10000	12
+
+Log 24 
+Date: Fri Jun 10 13:07:32 2016
+DrvNum	MaxVel	Acceleration	Deceleration	PhaseCurrent
+1	240	10000	10000	10
+2	240	10000	10000	12
+
+Log 25 
+Date: Fri Jun 10 13:12:12 2016
+DrvNum	MaxVel	Acceleration	Deceleration	PhaseCurrent	AnalogOutput0
+
+Log 26 
+Date: Mon Jun 13 10:30:18 2016
+DrvNum	MaxVel	Acceleration	Deceleration	PhaseCurrent	AnalogOutput0
+1	240	10000	10000	10	0
+2	240	10000	10000	10	0
+
+Log 27 
+Date: Mon Jun 13 10:34:12 2016
+DrvNum	MaxVel	Acceleration	Deceleration	PhaseCurrent	AnalogOutput0
+1	240	10000	10000	10	0
+2	240	10000	10000	10	0
+
+Log 28 
+Date: Mon Jun 13 10:34:52 2016
+DrvNum	MaxVel	Acceleration	Deceleration	PhaseCurrent	AnalogOutput0
+1	240	10000	10000	10	0
+2	240	10000	10000	10	0
+
+Log 29 
+Date: Mon Jun 13 10:36:26 2016
+DrvNum	MaxVel	Acceleration	Deceleration	PhaseCurrent	AnalogOutput0
+1	240	10000	10000	10	0
+2	240	10000	10000	10	0
+
+Log 30 
+Date: Mon Jun 13 11:30:27 2016
+DrvNum	MaxVel	Acceleration	Deceleration	PhaseCurrent	AnalogOutput0
+1	240	10000	10000	12	0
+2	240	10000	10000	12	0
+
+Log 31 
+Date: Mon Jun 13 11:31:33 2016
+DrvNum	MaxVel	Acceleration	Deceleration	PhaseCurrent	AnalogOutput0
+
+Log 32 
+Date: Thu Jun 16 15:20:20 2016
+DrvNum	MaxVel	Acceleration	Deceleration	PhaseCurrent	AnalogOutput0
+1	60	1000	1000	12	1023
+2	60	1000	1000	12	1023
+
+Log 33 
+Date: Thu Jun 16 16:03:38 2016
+DrvNum	MaxVel	Acceleration	Deceleration	PhaseCurrent	AnalogOutput0
+1	60	1000	1000	12	1023
+2	60	1000	1000	12	1023
+
+Log 34 
+Date: Thu Jun 16 16:04:03 2016
+DrvNum	MaxVel	Acceleration	Deceleration	PhaseCurrent	AnalogOutput0
+1	60	1000	1000	12	1023
+2	60	1000	1000	12	1023
+
+Log 35 
+Date: Mon Jun 20 11:16:48 2016
+DrvNum	MaxVel	Acceleration	Deceleration	PhaseCurrent	AnalogOutput0
+1	240	1000	1000	12	0
+2	240	1000	1000	12	1023
+
+Log 36 
+Date: Mon Jun 20 13:48:02 2016
+DrvNum	MaxVel	Acceleration	Deceleration	PhaseCurrent	AnalogOutput0
+1	240	1000	1000	10	1023
+2	240	1000	1000	10	1023
+
+Log 37 
+Date: Mon Jun 20 13:48:02 2016
+DrvNum	MaxVel	VelHome	Acceleration	Deceleration	PhaseCurrent	AnalogOutput0
+1	240	240	1000	1000	10	1023
+2	240	240	1000	1000	10	1023
+
+Log 38 
+Date: Mon Jun 20 16:58:06 2016
+DrvNum	MaxVel	VelHome	Acceleration	Deceleration	PhaseCurrent	AnalogOutput0
+1	240	240	1000	1000	12	0
+2	240	240	1000	1000	12	0
+
+Log 39 
+Date: Mon Jun 20 16:58:20 2016
+DrvNum	MaxVel	VelHome	Acceleration	Deceleration	PhaseCurrent	AnalogOutput0
+1	240	240	1000	1000	12	0
+2	240	240	1000	1000	12	0
+
+Log 40 
+Date: Tue Jun 21 13:18:34 2016
+DrvNum	MaxVel	VelHome	Acceleration	Deceleration	PhaseCurrent	AnalogOutput0
+1	240	240	1000	1000	12	0
+2	240	240	1000	1000	12	0
+
+Log 41 
+Date: Tue Jun 21 14:19:06 2016
+DrvNum	MaxVel	VelHome	Acceleration	Deceleration	PhaseCurrent	AnalogOutput0
+1	240	240	1000	1000	12	0
+2	240	240	1000	1000	12	0
+
+Log 42 
+Date: Tue Jun 21 16:37:21 2016
+DrvNum	MaxVel	VelHome	Acceleration	Deceleration	PhaseCurrent	AnalogOutput0
+
+Log 43 
+Date: Tue Jun 21 16:43:44 2016
+DrvNum	MaxVel	VelHome	Acceleration	Deceleration	PhaseCurrent	AnalogOutput0
+
+Log 44 
+Date: Thu Jun 23 10:15:17 2016
+DrvNum	MaxVel	VelHome	Acceleration	Deceleration	PhaseCurrent	AnalogOutput0
+
+Log 45 
+Date: Mon Jun 27 10:57:30 2016
+DrvNum	MaxVel	VelHome	Acceleration	Deceleration	PhaseCurrent	AnalogOutput0
+1	240	240	1000	1000	12	0
+2	240	240	1000	1000	12	0
+
+Log 46 
+Date: Mon Jun 27 11:02:47 2016
+DrvNum	MaxVel	VelHome	Acceleration	Deceleration	PhaseCurrent	AnalogOutput0
+1	240	240	1000	1000	12	0
+2	240	240	1000	1000	12	0
+
+Log 47 
+Date: Mon Jun 27 11:17:04 2016
+DrvNum	MaxVel	VelHome	Acceleration	Deceleration	PhaseCurrent	AnalogOutput0
+1	240	240	1000	1000	12	0
+2	240	240	1000	1000	12	0
+
+Log 48 
+Date: Mon Jun 27 11:43:08 2016
+DrvNum	MaxVel	VelHome	Acceleration	Deceleration	PhaseCurrent	AnalogOutput0
+1	240	240	1000	1000	12	0
+2	240	240	1000	1000	12	0
+
+Log 49 
+Date: Mon Jun 27 11:50:11 2016
+DrvNum	MaxVel	VelHome	Acceleration	Deceleration	PhaseCurrent	AnalogOutput0
+1	240	240	1000	1000	12	0
+2	240	240	1000	1000	12	0
+
+Log 50 
+Date: Mon Sep  5 15:46:41 2016
+DrvNum	MaxVel	VelHome	Acceleration	Deceleration	PhaseCurrent	AnalogOutput0

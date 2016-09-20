@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Driver.jpg</file>
+        <file>world.png</file>
+        <file>worldbig.png</file>
+        <file>webBlue.png</file>
+        <file>txtIcon.jpg</file>
+        <file>txtIconNoBackground.png</file>
+        <file>MultiDriver.jpg</file>
+        <file>ExpertIcon.png</file>
+    </qresource>
+</RCC>

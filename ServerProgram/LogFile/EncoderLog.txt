@@ -1,0 +1,72 @@
+Log 1
+Date: Tue Jun  7 12:02:04 2016
+Slope Intercept Coefficient
+1	0.904273	3.46212	0.808257
+2	0.904271	3.46211	0.808253
+3	0.904272	3.46213	1
+
+Log 2 
+Date: Mon Jun 20 10:41:53 2016
+Slope	Intercept	Coefficient
+1	0.000000	306.000000	1.000000
+2	-0.004174	154.941176	-0.999982
+
+Log 3 
+Date: Mon Jun 20 10:46:48 2016
+Slope	Intercept	Coefficient
+1	0.000000	305.941176	0.000000
+2	-0.004170	154.764706	-0.999978
+
+Log 4 
+Date: Mon Jun 20 10:50:24 2016
+Slope	Intercept	Coefficient
+1	0.000000	306.000000	1.000000
+2	-0.004174	154.686275	-0.999984
+
+Log 5 
+Date: Mon Jun 20 10:53:13 2016
+Slope	Intercept	Coefficient
+1	0.000000	306.000000	1.000000
+2	-0.004164	155.039216	-0.999981
+
+Log 6 
+Date: Mon Jun 20 11:17:17 2016
+DrvNum	Slope	Intercept	Coefficient
+1	0.000000	307.000000	1.000000
+2	-0.004171	154.490196	-0.999984
+
+Log 7 
+Date: Mon Jun 20 12:16:15 2016
+DrvNum	Slope	Intercept	Coefficient
+1	0.000000	307.000000	1.000000
+2	-0.004166	155.039216	-0.999976
+
+Log 8 
+Date: Mon Jun 20 12:20:40 2016
+DrvNum	Slope	Intercept	Coefficient
+1	0.000000	307.000000	1.000000
+2	-0.004162	154.941176	-0.999986
+
+Log 9 
+Date: Mon Jun 20 12:24:25 2016
+DrvNum	Slope	Intercept	Coefficient
+1	0.000000	307.000000	1.000000
+2	-0.004157	154.901961	-0.999979
+
+Log 10 
+Date: Mon Jun 20 13:20:04 2016
+DrvNum	Slope	Intercept	Coefficient
+1	0.000002	306.980392	0.186339
+2	-0.004159	155.039216	-0.999981
+
+Log 11 
+Date: Mon Jun 20 13:48:47 2016
+DrvNum	Slope	Intercept	Coefficient
+1	-0.000003	305.784314	-0.408248
+2	-0.004159	155.058824	-0.999982
+
+Log 12 
+Date: Tue Aug 30 11:58:18 2016
+DrvNum	Slope	Intercept	Coefficient
+1	0.000000	307.000000	1.000000
+2	-0.004162	4.235294	-0.999836

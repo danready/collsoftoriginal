@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="Disable.png">Resource/Disable.png</file>
+        <file alias="Enable.png">Resource/Enable.png</file>
+        <file alias="LockIcon.jpeg">Resource/LockIcon.jpeg</file>
+        <file alias="LockIcon.jpg">Resource/LockIcon.jpg</file>
+        <file alias="Update_icon.jpeg">Resource/Update_icon.jpeg</file>
+        <file alias="Collimator.png">Resource/Collimator.png</file>
+        <file alias="OperatorGUI_Icon.png">Resource/OperatorGUI_Icon.png</file>
+        <file alias="angle.png">Resource/angle.png</file>
+        <file alias="Gears.png">Resource/Gears.png</file>
+        <file alias="Square.png">Resource/Square.png</file>
+        <file alias="octagon.png">Resource/octagon.png</file>
+        <file alias="led_green.png">Resource/led_green.png</file>
+        <file alias="led_orange.png">Resource/led_orange.png</file>
+        <file alias="led_red.png">Resource/led_red.png</file>
+        <file alias="led_yellow.png">Resource/led_yellow.png</file>
+        <file alias="octagon_green.png">Resource/octagon_green.png</file>
+        <file alias="octagon_orange.png">Resource/octagon_orange.png</file>
+        <file alias="octagon_red.png">Resource/octagon_red.png</file>
+        <file alias="octagon_yellow.png">Resource/octagon_yellow.png</file>
+        <file alias="Square_green.png">Resource/Square_green.png</file>
+        <file alias="Square_orange.png">Resource/Square_orange.png</file>
+        <file alias="Square_red.png">Resource/Square_red.png</file>
+        <file alias="Square_yellow.png">Resource/Square_yellow.png</file>
+        <file alias="danger-hi.png">Resource/danger-hi.png</file>
+        <file alias="home.png">Resource/home.png</file>
+        <file alias="lock_red.png">Resource/lock_red.png</file>
+        <file alias="lock_green.png">Resource/lock_green.png</file>
+        <file alias="play_icon.png">Resource/play_icon.png</file>
+    </qresource>
+</RCC>

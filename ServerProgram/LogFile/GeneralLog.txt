@@ -1,0 +1,4549 @@
+Welcome! CollSoft software start in date Wed Jun 22 11:45:14 2016
+
+Assigned socket id 14 to client with ip 127.0.0.1 in date Wed Jun 22 11:45:18 2016
+
+Command 'connect /dev/ttyUSB0' sent via tcp/ip in date Wed Jun 22 11:45:24 2016 by user 14
+
+User with socket id 14 disconnected in date Wed Jun 22 11:45:30 2016
+
+Wed Jun 22 12:04:40 2016: Welcome! CollSoft software start
+
+Wed Jun 22 12:04:46 2016: Assigned socket id 15 to client with ip 127.0.0.1
+
+Wed Jun 22 12:04:52 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 15
+
+Wed Jun 22 12:04:55 2016: Command 'read_log' sent via tcp/ip by user 15
+
+Wed Jun 22 12:04:58 2016: Command 'read_log' sent via tcp/ip by user 15
+
+Wed Jun 22 12:05:02 2016: Command 'read_encoder_log' sent via tcp/ip by user 15
+
+Wed Jun 22 12:05:02 2016: Command 'read_encoder_log' sent via tcp/ip by user 15
+
+Wed Jun 22 12:05:04 2016: Command 'read_encoder_log' sent via tcp/ip by user 15
+
+Wed Jun 22 12:05:04 2016: Command 'read_par_log' sent via tcp/ip by user 15
+
+Wed Jun 22 12:05:05 2016: Command 'read_par_log' sent via tcp/ip by user 15
+
+Wed Jun 22 12:05:06 2016: Command 'read_par_log' sent via tcp/ip by user 15
+
+Wed Jun 22 12:05:07 2016: Command 'read_serial_log' sent via tcp/ip by user 15
+
+Wed Jun 22 12:05:07 2016: Command 'read_serial_log' sent via tcp/ip by user 15
+
+Wed Jun 22 12:05:08 2016: Command 'read_serial_log' sent via tcp/ip by user 15
+
+Wed Jun 22 12:05:08 2016: Command 'read_serial_log' sent via tcp/ip by user 15
+
+Wed Jun 22 12:05:08 2016: Command 'read_serial_log' sent via tcp/ip by user 15
+
+Wed Jun 22 12:05:12 2016: Command 'check_internal_status' sent via tcp/ip by user 15
+
+Wed Jun 22 12:05:14 2016: Command 'read_encoder_log' sent via tcp/ip by user 15
+
+Wed Jun 22 12:05:18 2016: Command 'read_log' sent via tcp/ip by user 15
+
+Wed Jun 22 12:05:46 2016: User with socket id 15 disconnected
+
+Wed Jun 22 12:08:56 2016: Welcome! CollSoft software start
+
+Wed Jun 22 12:09:00 2016: Assigned socket id 16 to client with ip 127.0.0.1
+
+Wed Jun 22 12:09:07 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 16
+
+Wed Jun 22 12:09:24 2016: Command 'help' sent via tcp/ip by user 16
+
+Wed Jun 22 12:09:26 2016: Command 'read_encoder_log' sent via tcp/ip by user 16
+
+Wed Jun 22 12:09:27 2016: Command 'read_log' sent via tcp/ip by user 16
+
+Wed Jun 22 12:09:28 2016: Command 'read_log' sent via tcp/ip by user 16
+
+Wed Jun 22 12:09:29 2016: Command 'read_log' sent via tcp/ip by user 16
+
+Wed Jun 22 12:09:30 2016: Command 'read_log' sent via tcp/ip by user 16
+
+Wed Jun 22 12:09:32 2016: Command 'read_log' sent via tcp/ip by user 16
+
+Wed Jun 22 12:09:33 2016: Command 'read_par_log' sent via tcp/ip by user 16
+
+Wed Jun 22 12:09:34 2016: Command 'read_par_log' sent via tcp/ip by user 16
+
+Wed Jun 22 12:09:35 2016: Command 'read_serial_log' sent via tcp/ip by user 16
+
+Wed Jun 22 12:09:36 2016: Command 'read_serial_log' sent via tcp/ip by user 16
+
+Wed Jun 22 12:09:36 2016: Command 'read_serial_log' sent via tcp/ip by user 16
+
+Wed Jun 22 12:09:42 2016: User with socket id 16 disconnected
+
+Wed Jun 22 12:16:14 2016: Welcome! CollSoft software start
+
+Wed Jun 22 12:16:22 2016: Assigned socket id 16 to client with ip 127.0.0.1
+
+Wed Jun 22 12:16:29 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 16
+
+Wed Jun 22 12:16:33 2016: Command 'read_log' sent via tcp/ip by user 16
+
+Wed Jun 22 12:16:34 2016: Command 'read_log' sent via tcp/ip by user 16
+
+Wed Jun 22 12:16:35 2016: Command 'read_log' sent via tcp/ip by user 16
+
+Wed Jun 22 12:16:36 2016: Command 'read_encoder_log' sent via tcp/ip by user 16
+
+Wed Jun 22 12:16:37 2016: Command 'read_encoder_log' sent via tcp/ip by user 16
+
+Wed Jun 22 12:16:38 2016: Command 'read_encoder_log' sent via tcp/ip by user 16
+
+Wed Jun 22 12:16:39 2016: Command 'read_par_log' sent via tcp/ip by user 16
+
+Wed Jun 22 12:16:40 2016: Command 'read_par_log' sent via tcp/ip by user 16
+
+Wed Jun 22 12:16:40 2016: Command 'read_par_log' sent via tcp/ip by user 16
+
+Wed Jun 22 12:16:40 2016: Command 'read_par_log' sent via tcp/ip by user 16
+
+Wed Jun 22 12:16:42 2016: Command 'read_par_log' sent via tcp/ip by user 16
+
+Wed Jun 22 12:16:42 2016: Command 'read_serial_log' sent via tcp/ip by user 16
+
+Wed Jun 22 12:16:43 2016: Command 'read_serial_log' sent via tcp/ip by user 16
+
+Wed Jun 22 12:16:47 2016: Command 'read_par_log' sent via tcp/ip by user 16
+
+Wed Jun 22 12:17:41 2016: User with socket id 16 disconnected
+
+Wed Jun 22 12:21:23 2016: Welcome! CollSoft software start
+
+Wed Jun 22 12:21:27 2016: Assigned socket id 18 to client with ip 127.0.0.1
+
+Wed Jun 22 12:21:33 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 18
+
+Wed Jun 22 12:21:35 2016: Command 'read_serial_log' sent via tcp/ip by user 18
+
+Wed Jun 22 12:21:37 2016: Command 'read_par_log' sent via tcp/ip by user 18
+
+Wed Jun 22 12:21:38 2016: Command 'read_encoder_log' sent via tcp/ip by user 18
+
+Wed Jun 22 12:21:38 2016: Command 'read_encoder_log' sent via tcp/ip by user 18
+
+Wed Jun 22 12:21:39 2016: Command 'read_log' sent via tcp/ip by user 18
+
+Wed Jun 22 12:21:40 2016: Command 'read_log' sent via tcp/ip by user 18
+
+Wed Jun 22 12:21:40 2016: Command 'read_log' sent via tcp/ip by user 18
+
+Wed Jun 22 12:21:41 2016: Command 'read_log' sent via tcp/ip by user 18
+
+Wed Jun 22 12:21:41 2016: Command 'read_log' sent via tcp/ip by user 18
+
+Wed Jun 22 12:21:41 2016: Command 'read_log' sent via tcp/ip by user 18
+
+Wed Jun 22 12:21:41 2016: Command 'read_log' sent via tcp/ip by user 18
+
+Wed Jun 22 12:21:42 2016: Command 'read_log' sent via tcp/ip by user 18
+
+Wed Jun 22 12:21:42 2016: Command 'read_log' sent via tcp/ip by user 18
+
+Wed Jun 22 12:21:45 2016: Command 'read_log' sent via tcp/ip by user 18
+
+Wed Jun 22 12:21:52 2016: Command 'get_all_parameter' sent via tcp/ip by user 18
+
+Wed Jun 22 12:22:09 2016: User with socket id 18 disconnected
+
+Wed Jun 22 15:54:31 2016: Welcome! CollSoft software start
+
+Wed Jun 22 15:54:32 2016: Assigned socket id 21 to client with ip 127.0.0.1
+
+Wed Jun 22 15:54:40 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 21
+
+Wed Jun 22 15:54:45 2016: Command 'read_serial_log' sent via tcp/ip by user 21
+
+Wed Jun 22 15:54:57 2016: Command 'read_log' sent via tcp/ip by user 21
+
+Wed Jun 22 15:54:58 2016: Command 'read_log' sent via tcp/ip by user 21
+
+Wed Jun 22 15:55:10 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 21
+
+Wed Jun 22 15:55:13 2016: Command 'read_log' sent via tcp/ip by user 21
+
+Wed Jun 22 15:55:15 2016: Command 'check_internal_status' sent via tcp/ip by user 21
+
+Wed Jun 22 15:55:17 2016: Command 'read_log' sent via tcp/ip by user 21
+
+Wed Jun 22 15:55:43 2016: User with socket id 21 disconnected
+
+################################################
+Wed Jun 22 15:57:07 2016: Welcome! CollSoft software start
+################################################
+
+Wed Jun 22 15:57:08 2016: Assigned socket id 8 to client with ip 127.0.0.1
+
+Wed Jun 22 15:57:10 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 8
+
+Wed Jun 22 15:57:13 2016: Command 'read_log' sent via tcp/ip by user 8
+
+Wed Jun 22 15:57:24 2016: User with socket id 8 disconnected
+
+################################################
+Wed Jun 22 15:58:35 2016: Welcome! CollSoft software start
+################################################
+
+Wed Jun 22 15:58:40 2016: Assigned socket id 7 to client with ip 127.0.0.1
+
+Wed Jun 22 15:58:46 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 7
+
+Wed Jun 22 15:58:49 2016: Command 'read_log' sent via tcp/ip by user 7
+
+Wed Jun 22 15:58:50 2016: Command 'read_log' sent via tcp/ip by user 7
+
+Wed Jun 22 15:58:51 2016: Command 'read_log' sent via tcp/ip by user 7
+
+Wed Jun 22 15:58:53 2016: Command 'read_log' sent via tcp/ip by user 7
+
+Wed Jun 22 15:58:57 2016: User with socket id 7 disconnected
+
+################################################
+Wed Jun 22 16:22:03 2016: Welcome! CollSoft software start
+################################################
+
+Wed Jun 22 16:22:07 2016: Assigned socket id 8 to client with ip 127.0.0.1
+
+Wed Jun 22 16:22:13 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 8
+
+Wed Jun 22 16:22:15 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 8
+
+Wed Jun 22 16:22:19 2016: Command 'help' sent via tcp/ip by user 8
+
+Wed Jun 22 16:22:20 2016: Command 'help' sent via tcp/ip by user 8
+
+Wed Jun 22 16:22:21 2016: Command 'help' sent via tcp/ip by user 8
+
+Wed Jun 22 16:22:21 2016: Command 'help' sent via tcp/ip by user 8
+
+Wed Jun 22 16:22:21 2016: Command 'help' sent via tcp/ip by user 8
+
+Wed Jun 22 16:22:21 2016: Command 'help' sent via tcp/ip by user 8
+
+Wed Jun 22 16:22:21 2016: Command 'help' sent via tcp/ip by user 8
+
+Wed Jun 22 16:22:22 2016: Command 'help' sent via tcp/ip by user 8
+
+Wed Jun 22 16:22:22 2016: Command 'help' sent via tcp/ip by user 8
+
+Wed Jun 22 16:22:22 2016: Command 'help' sent via tcp/ip by user 8
+
+Wed Jun 22 16:22:26 2016: Command 'help' sent via tcp/ip by user 8
+
+Wed Jun 22 16:22:49 2016: Command 'read_log' sent via tcp/ip by user 8
+
+Wed Jun 22 16:22:54 2016: Command 'read_log' sent via tcp/ip by user 8
+
+Wed Jun 22 16:22:56 2016: Command 'read_log' sent via tcp/ip by user 8
+
+Wed Jun 22 16:23:07 2016: Command 'read_general_log' sent via tcp/ip by user 8
+
+Wed Jun 22 16:23:08 2016: Command 'read_general_log' sent via tcp/ip by user 8
+
+Wed Jun 22 16:23:08 2016: Command 'read_general_log' sent via tcp/ip by user 8
+
+Wed Jun 22 16:23:09 2016: Command 'read_general_log' sent via tcp/ip by user 8
+
+Wed Jun 22 16:23:09 2016: Command 'read_general_log' sent via tcp/ip by user 8
+
+Wed Jun 22 16:23:14 2016: Command 'exit' sent via tcp/ip by user 8
+
+Wed Jun 22 16:23:17 2016: User with socket id 8 disconnected
+
+################################################
+Thu Jun 23 09:39:02 2016: Welcome! CollSoft software start
+################################################
+
+Thu Jun 23 09:39:14 2016: Assigned socket id 7 to client with ip 127.0.0.1
+
+Thu Jun 23 09:39:31 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 7
+
+Thu Jun 23 09:39:34 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 7
+
+Thu Jun 23 09:39:36 2016: Command 'read_serial_log' sent via tcp/ip by user 7
+
+Thu Jun 23 09:39:38 2016: Command 'read_serial_log' sent via tcp/ip by user 7
+
+Thu Jun 23 09:39:39 2016: Command 'read_par_log' sent via tcp/ip by user 7
+
+Thu Jun 23 09:39:40 2016: Command 'read_par_log' sent via tcp/ip by user 7
+
+Thu Jun 23 09:39:41 2016: Command 'read_encoder_log' sent via tcp/ip by user 7
+
+Thu Jun 23 09:39:42 2016: Command 'read_encoder_log' sent via tcp/ip by user 7
+
+Thu Jun 23 09:39:43 2016: Command 'read_encoder_log' sent via tcp/ip by user 7
+
+Thu Jun 23 09:39:43 2016: Command 'read_encoder_log' sent via tcp/ip by user 7
+
+Thu Jun 23 09:39:44 2016: Command 'read_encoder_log' sent via tcp/ip by user 7
+
+Thu Jun 23 09:39:46 2016: Command 'check_internal_status' sent via tcp/ip by user 7
+
+Thu Jun 23 09:39:52 2016: Command 'read_par_log' sent via tcp/ip by user 7
+
+Thu Jun 23 09:39:54 2016: Command 'read_encoder_log' sent via tcp/ip by user 7
+
+Thu Jun 23 09:39:56 2016: Command 'read_log' sent via tcp/ip by user 7
+
+Thu Jun 23 09:39:57 2016: Command 'read_serial_log' sent via tcp/ip by user 7
+
+Thu Jun 23 09:39:59 2016: User with socket id 7 disconnected
+
+################################################
+Thu Jun 23 10:08:52 2016: Welcome! CollSoft software start
+################################################
+
+Thu Jun 23 10:08:56 2016: Assigned socket id 8 to client with ip 127.0.0.1
+
+Thu Jun 23 10:09:03 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 8
+
+Thu Jun 23 10:09:06 2016: Command 'read_par_log' sent via tcp/ip by user 8
+
+Thu Jun 23 10:09:08 2016: Command 'read_encoder_log' sent via tcp/ip by user 8
+
+Thu Jun 23 10:09:13 2016: Command 'ss' sent via tcp/ip by user 8
+
+Thu Jun 23 10:09:15 2016: Command 'ss' sent via tcp/ip by user 8
+
+Thu Jun 23 10:09:20 2016: User with socket id 8 disconnected
+
+################################################
+Thu Jun 23 10:12:18 2016: Welcome! CollSoft software start
+################################################
+
+Thu Jun 23 10:12:22 2016: Assigned socket id 8 to client with ip 127.0.0.1
+
+Thu Jun 23 10:12:29 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 8
+
+Thu Jun 23 10:12:33 2016: Command 'check_internal_status' sent via tcp/ip by user 8
+
+Thu Jun 23 10:12:34 2016: Command 'check_internal_status' sent via tcp/ip by user 8
+
+Thu Jun 23 10:12:38 2016: User with socket id 8 disconnected
+
+Thu Jun 23 10:14:48 2016: Assigned socket id 10 to client with ip 127.0.0.1
+
+Thu Jun 23 10:14:51 2016: Command 'get_par 1' sent via tcp/ip by user 10
+
+Thu Jun 23 10:15:00 2016: Command 'read_par_log' sent via tcp/ip by user 10
+
+Thu Jun 23 10:15:03 2016: Command 'read_serial_log' sent via tcp/ip by user 10
+
+Thu Jun 23 10:15:04 2016: Command 'check_drv_assoc' sent via tcp/ip by user 10
+
+Thu Jun 23 10:15:08 2016: Command 'check_par_assoc' sent via tcp/ip by user 10
+
+Thu Jun 23 10:15:19 2016: Command 'check_encode_assoc' sent via tcp/ip by user 10
+
+Thu Jun 23 10:15:33 2016: Command 'check_internal_status' sent via tcp/ip by user 10
+
+Thu Jun 23 10:15:38 2016: User with socket id 10 disconnected
+
+Thu Jun 23 10:16:38 2016: Assigned socket id 12 to client with ip 127.0.0.1
+
+Thu Jun 23 10:16:40 2016: Command 'get_par 1' sent via tcp/ip by user 12
+
+Thu Jun 23 10:16:51 2016: User with socket id 12 disconnected
+
+Thu Jun 23 10:17:41 2016: Assigned socket id 16 to client with ip 127.0.0.1
+
+Thu Jun 23 10:17:43 2016: Command 'get_par 1' sent via tcp/ip by user 16
+
+Thu Jun 23 10:17:45 2016: Command 'get_mov_par 1' sent via tcp/ip by user 16
+
+Thu Jun 23 10:17:51 2016: User with socket id 16 disconnected
+
+Thu Jun 23 10:34:08 2016: Assigned socket id 17 to client with ip 127.0.0.1
+
+Thu Jun 23 10:34:11 2016: Command 'get_par 1' sent via tcp/ip by user 17
+
+Thu Jun 23 10:34:13 2016: Command 'get_mov_par 1' sent via tcp/ip by user 17
+
+Thu Jun 23 10:34:16 2016: Command 'get_par 2' sent via tcp/ip by user 17
+
+Thu Jun 23 10:34:17 2016: Command 'get_mov_par 2' sent via tcp/ip by user 17
+
+Thu Jun 23 10:34:19 2016: Command 'set_par 3      ' sent via tcp/ip by user 17
+
+Thu Jun 23 10:34:30 2016: Command 'set_par 3 1 1 1 1 1 1' sent via tcp/ip by user 17
+
+Thu Jun 23 10:34:39 2016: Command 'get_mov_par 3' sent via tcp/ip by user 17
+
+Thu Jun 23 10:34:47 2016: User with socket id 17 disconnected
+
+################################################
+Thu Jun 23 11:05:50 2016: Welcome! CollSoft software start
+################################################
+
+Thu Jun 23 11:05:54 2016: Assigned socket id 10 to client with ip 127.0.0.1
+
+Thu Jun 23 11:05:59 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 10
+
+Thu Jun 23 11:06:00 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 10
+
+Thu Jun 23 11:06:03 2016: Command 'read_serial_log' sent via tcp/ip by user 10
+
+Thu Jun 23 11:06:04 2016: Command 'read_encoder_log' sent via tcp/ip by user 10
+
+Thu Jun 23 11:06:06 2016: Command 'get_par 1' sent via tcp/ip by user 10
+
+Thu Jun 23 11:06:09 2016: Command 'get_mov_par 1' sent via tcp/ip by user 10
+
+Thu Jun 23 11:06:20 2016: User with socket id 10 disconnected
+
+################################################
+Thu Jun 23 12:15:20 2016: Welcome! CollSoft software start
+################################################
+
+Thu Jun 23 12:15:25 2016: Assigned socket id 6 to client with ip 127.0.0.1
+
+Thu Jun 23 12:15:30 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 6
+
+Thu Jun 23 12:15:33 2016: Command 'read_serial_log' sent via tcp/ip by user 6
+
+Thu Jun 23 12:15:36 2016: Command 'check_internal_status' sent via tcp/ip by user 6
+
+Thu Jun 23 12:15:38 2016: Command 'get_par 1' sent via tcp/ip by user 6
+
+Thu Jun 23 12:15:47 2016: Command 'get_par 1' sent via tcp/ip by user 6
+
+Thu Jun 23 12:15:51 2016: Command 'get_par 2' sent via tcp/ip by user 6
+
+Thu Jun 23 12:16:02 2016: Command 'get_all_parameter' sent via tcp/ip by user 6
+
+Thu Jun 23 12:16:22 2016: Command 'get_mov_par 1' sent via tcp/ip by user 6
+
+Thu Jun 23 12:16:25 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Thu Jun 23 12:16:25 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Thu Jun 23 12:16:29 2016: Command 'set_par 2 240 240 1000 1000 12 1023' sent via tcp/ip by user 6
+
+Thu Jun 23 12:16:31 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Thu Jun 23 12:16:42 2016: Command 'check_drv_assoc' sent via tcp/ip by user 6
+
+Thu Jun 23 12:17:01 2016: Command 'check_drv_assoc' sent via tcp/ip by user 6
+
+Thu Jun 23 12:17:14 2016: Command 'check_drv_assoc' sent via tcp/ip by user 6
+
+Thu Jun 23 12:17:28 2016: Command 'check_internal_status' sent via tcp/ip by user 6
+
+Thu Jun 23 12:17:39 2016: User with socket id 6 disconnected
+
+################################################
+Thu Jun 23 12:22:03 2016: Welcome! CollSoft software start
+################################################
+
+Thu Jun 23 12:22:08 2016: Assigned socket id 7 to client with ip 127.0.0.1
+
+Thu Jun 23 12:22:14 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 7
+
+Thu Jun 23 12:22:17 2016: Command 'read_serial_log' sent via tcp/ip by user 7
+
+Thu Jun 23 12:22:20 2016: Command 'get_par 1' sent via tcp/ip by user 7
+
+Thu Jun 23 12:22:21 2016: Command 'get_mov_par 1' sent via tcp/ip by user 7
+
+Thu Jun 23 12:22:29 2016: User with socket id 7 disconnected
+
+################################################
+Thu Jun 23 12:24:03 2016: Welcome! CollSoft software start
+################################################
+
+Thu Jun 23 12:24:07 2016: Assigned socket id 9 to client with ip 127.0.0.1
+
+Thu Jun 23 12:24:12 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 9
+
+Thu Jun 23 12:24:22 2016: Command 'setmult_par       1 2 3 4 5 6 7 8 9 10 11 12 13 14 ' sent via tcp/ip by user 9
+
+Thu Jun 23 12:24:36 2016: Command 'setmult_par       ' sent via tcp/ip by user 9
+
+Thu Jun 23 12:24:46 2016: Command 'setmult_par 11 11 11 11 11 11 ' sent via tcp/ip by user 9
+
+Thu Jun 23 12:24:49 2016: User with socket id 9 disconnected
+
+Thu Jun 23 12:26:56 2016: Assigned socket id 10 to client with ip 127.0.0.1
+
+Thu Jun 23 12:27:03 2016: Command 'homing_mult 1 2 3 4 5 6 7 8 9 10 11 12 13 14 ' sent via tcp/ip by user 10
+
+Thu Jun 23 12:29:03 2016: Command 'moveto_mult  1 2 3 4 5 6 7 8 9 10 11 12 13 14 ' sent via tcp/ip by user 10
+
+Thu Jun 23 12:30:14 2016: Assigned socket id 12 to client with ip 127.0.0.1
+
+Thu Jun 23 12:30:26 2016: Command 'moveto_mult 1 1 2 3 4 5 6 7 8 9 10 11 12 13 14 ' sent via tcp/ip by user 12
+
+Thu Jun 23 12:33:23 2016: Assigned socket id 13 to client with ip 127.0.0.1
+
+Thu Jun 23 12:34:01 2016: Command 'setmult_par 1 1 1 1 1 1 1 2 3 4 5 6 7 8 9 10 11 12 13 14 ' sent via tcp/ip by user 13
+
+Thu Jun 23 12:35:06 2016: User with socket id 12 disconnected
+
+Thu Jun 23 12:35:07 2016: User with socket id 13 disconnected
+
+Thu Jun 23 12:35:09 2016: User with socket id 10 disconnected
+
+################################################
+Thu Jun 23 14:57:58 2016: Welcome! CollSoft software start
+################################################
+
+Thu Jun 23 14:58:06 2016: Assigned socket id 11 to client with ip 127.0.0.1
+
+Thu Jun 23 14:58:14 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 11
+
+Thu Jun 23 14:58:15 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 11
+
+Thu Jun 23 14:58:16 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 11
+
+Thu Jun 23 14:58:18 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 11
+
+Thu Jun 23 14:58:24 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 11
+
+Thu Jun 23 14:58:41 2016: User with socket id 11 disconnected
+
+################################################
+Thu Jun 23 15:05:19 2016: Welcome! CollSoft software start
+################################################
+
+Thu Jun 23 15:05:23 2016: Assigned socket id 12 to client with ip 127.0.0.1
+
+Thu Jun 23 15:05:30 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 12
+
+Thu Jun 23 15:05:31 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 12
+
+Thu Jun 23 15:05:34 2016: Command 'connect /dev/ttyUSB1' sent via tcp/ip by user 12
+
+Thu Jun 23 15:06:22 2016: Command 'read_encoder_log' sent via tcp/ip by user 12
+
+Thu Jun 23 15:06:23 2016: Command 'read_encoder_log' sent via tcp/ip by user 12
+
+Thu Jun 23 15:06:23 2016: Command 'read_encoder_log' sent via tcp/ip by user 12
+
+Thu Jun 23 15:06:23 2016: Command 'read_encoder_log' sent via tcp/ip by user 12
+
+Thu Jun 23 15:06:23 2016: Command 'read_encoder_log' sent via tcp/ip by user 12
+
+Thu Jun 23 15:06:24 2016: Command 'read_encoder_log' sent via tcp/ip by user 12
+
+Thu Jun 23 15:06:24 2016: Command 'read_encoder_log' sent via tcp/ip by user 12
+
+Thu Jun 23 15:06:24 2016: Command 'read_encoder_log' sent via tcp/ip by user 12
+
+Thu Jun 23 15:06:24 2016: Command 'read_encoder_log' sent via tcp/ip by user 12
+
+Thu Jun 23 15:06:44 2016: Command 'read_encoder_log' sent via tcp/ip by user 12
+
+Thu Jun 23 15:06:44 2016: Command 'read_encoder_log' sent via tcp/ip by user 12
+
+Thu Jun 23 15:06:44 2016: Command 'read_encoder_log' sent via tcp/ip by user 12
+
+Thu Jun 23 15:06:53 2016: Command 'get_par 1' sent via tcp/ip by user 12
+
+Thu Jun 23 15:06:55 2016: Command 'get_par 2' sent via tcp/ip by user 12
+
+Thu Jun 23 15:06:59 2016: Command 'set_par 2 240 240 1000 1000 12 1023' sent via tcp/ip by user 12
+
+Thu Jun 23 15:07:00 2016: Command 'get_mov_par 2' sent via tcp/ip by user 12
+
+Thu Jun 23 15:07:06 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 12
+
+Thu Jun 23 15:07:41 2016: User with socket id 12 disconnected
+
+################################################
+Thu Jun 23 15:08:37 2016: Welcome! CollSoft software start
+################################################
+
+Thu Jun 23 15:08:40 2016: Assigned socket id 12 to client with ip 127.0.0.1
+
+Thu Jun 23 15:08:42 2016: Command 'connect /dev/ttyUSB1' sent via tcp/ip by user 12
+
+Thu Jun 23 15:08:47 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 12
+
+Thu Jun 23 15:09:53 2016: Command 'help' sent via tcp/ip by user 12
+
+Thu Jun 23 15:09:56 2016: User with socket id 12 disconnected
+
+################################################
+Thu Jun 23 15:11:11 2016: Welcome! CollSoft software start
+################################################
+
+Thu Jun 23 15:11:16 2016: Assigned socket id 14 to client with ip 127.0.0.1
+
+Thu Jun 23 15:11:22 2016: Command 'connect /dev/ttyUSB1' sent via tcp/ip by user 14
+
+Thu Jun 23 15:11:27 2016: Command 'loan' sent via tcp/ip by user 14
+
+Thu Jun 23 15:11:35 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 14
+
+Thu Jun 23 15:11:44 2016: Command 'get_par 2' sent via tcp/ip by user 14
+
+Thu Jun 23 15:11:47 2016: Command 'get_mov_par 2' sent via tcp/ip by user 14
+
+Thu Jun 23 15:12:13 2016: User with socket id 14 disconnected
+
+Thu Jun 23 15:15:17 2016: Assigned socket id 15 to client with ip 127.0.0.1
+
+Thu Jun 23 15:15:21 2016: User with socket id 15 disconnected
+
+Thu Jun 23 15:16:39 2016: Assigned socket id 18 to client with ip 127.0.0.1
+
+Thu Jun 23 15:17:46 2016: Command 'get_mov_par 1' sent via tcp/ip by user 18
+
+Thu Jun 23 15:17:50 2016: Command 'get_mov_par 2' sent via tcp/ip by user 18
+
+Thu Jun 23 15:17:51 2016: Command 'get_mov_par 2' sent via tcp/ip by user 18
+
+Thu Jun 23 15:18:00 2016: Command 'get_par 2' sent via tcp/ip by user 18
+
+Thu Jun 23 15:18:36 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 18
+
+Thu Jun 23 15:18:47 2016: Command 'get_par 1' sent via tcp/ip by user 18
+
+Thu Jun 23 15:19:56 2016: Command 'move_to 2 -12800' sent via tcp/ip by user 18
+
+Thu Jun 23 15:19:59 2016: Command 'get_mov_par 2' sent via tcp/ip by user 18
+
+Thu Jun 23 15:20:54 2016: Command 'move_to 2 0' sent via tcp/ip by user 18
+
+Thu Jun 23 15:21:00 2016: User with socket id 18 disconnected
+
+Thu Jun 23 15:38:00 2016: Assigned socket id 19 to client with ip 127.0.0.1
+
+Thu Jun 23 15:39:01 2016: User with socket id 19 disconnected
+
+################################################
+Thu Jun 23 15:40:07 2016: Welcome! CollSoft software start
+################################################
+
+Thu Jun 23 15:40:14 2016: Assigned socket id 16 to client with ip 127.0.0.1
+
+Thu Jun 23 15:41:18 2016: Command 'connect /dev/ttyUSB1' sent via tcp/ip by user 16
+
+Thu Jun 23 15:41:35 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 16
+
+Thu Jun 23 15:42:22 2016: User with socket id 16 disconnected
+
+################################################
+Thu Jun 23 15:42:46 2016: Welcome! CollSoft software start
+################################################
+
+Thu Jun 23 15:42:50 2016: Assigned socket id 16 to client with ip 127.0.0.1
+
+Thu Jun 23 15:42:57 2016: Command 'connect /dev/ttyUSB1' sent via tcp/ip by user 16
+
+Thu Jun 23 15:43:08 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 16
+
+Thu Jun 23 15:44:07 2016: User with socket id 16 disconnected
+
+################################################
+Thu Jun 23 15:44:28 2016: Welcome! CollSoft software start
+################################################
+
+Thu Jun 23 15:44:32 2016: Assigned socket id 19 to client with ip 127.0.0.1
+
+Thu Jun 23 15:44:42 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 19
+
+Thu Jun 23 15:44:45 2016: Command 'connect /dev/ttyUSB1' sent via tcp/ip by user 19
+
+Thu Jun 23 15:44:59 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 19
+
+Thu Jun 23 15:45:58 2016: User with socket id 19 disconnected
+
+################################################
+Thu Jun 23 16:06:20 2016: Welcome! CollSoft software start
+################################################
+
+Thu Jun 23 16:06:24 2016: Assigned socket id 19 to client with ip 127.0.0.1
+
+Thu Jun 23 16:06:31 2016: Command 'connect /dev/ttyUSB1' sent via tcp/ip by user 19
+
+Thu Jun 23 16:06:33 2016: Command 'read_encoder_log' sent via tcp/ip by user 19
+
+Thu Jun 23 16:06:36 2016: Command 'Read_actual_encoder_values' sent via tcp/ip by user 19
+
+Thu Jun 23 16:06:39 2016: Command 'Read_actual_encoder_values' sent via tcp/ip by user 19
+
+Thu Jun 23 16:06:48 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 19
+
+Thu Jun 23 16:06:57 2016: User with socket id 19 disconnected
+
+################################################
+Thu Jun 23 16:08:02 2016: Welcome! CollSoft software start
+################################################
+
+Thu Jun 23 16:08:06 2016: Assigned socket id 19 to client with ip 127.0.0.1
+
+Thu Jun 23 16:08:12 2016: Command 'connect /dev/ttyUSB1' sent via tcp/ip by user 19
+
+Thu Jun 23 16:08:21 2016: Command 'Read_actual_encoder_values' sent via tcp/ip by user 19
+
+Thu Jun 23 16:08:34 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 19
+
+Thu Jun 23 16:08:42 2016: Command 'Read_actual_encoder_values' sent via tcp/ip by user 19
+
+Thu Jun 23 16:09:14 2016: User with socket id 19 disconnected
+
+################################################
+Thu Jun 23 16:21:02 2016: Welcome! CollSoft software start
+################################################
+
+Thu Jun 23 16:21:06 2016: Assigned socket id 20 to client with ip 127.0.0.1
+
+Thu Jun 23 16:21:12 2016: Command 'connect /dev/ttyUSB1' sent via tcp/ip by user 20
+
+Thu Jun 23 16:21:15 2016: Command 'Read_actual_encoder_values' sent via tcp/ip by user 20
+
+Thu Jun 23 16:21:19 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 20
+
+Thu Jun 23 16:21:20 2016: Command 'Read_actual_encoder_values' sent via tcp/ip by user 20
+
+Thu Jun 23 16:28:43 2016: User with socket id 20 disconnected
+
+################################################
+Thu Jun 23 16:47:34 2016: Welcome! CollSoft software start
+################################################
+
+Thu Jun 23 16:47:40 2016: Assigned socket id 22 to client with ip 127.0.0.1
+
+Thu Jun 23 16:47:46 2016: Command 'connect /dev/ttyUSB1' sent via tcp/ip by user 22
+
+Thu Jun 23 16:47:52 2016: Command 'get_par 1' sent via tcp/ip by user 22
+
+Thu Jun 23 16:47:58 2016: Command 'check_position Check Position' sent via tcp/ip by user 22
+
+Thu Jun 23 16:48:20 2016: User with socket id 22 disconnected
+
+################################################
+Thu Jun 23 16:48:42 2016: Welcome! CollSoft software start
+################################################
+
+Thu Jun 23 16:48:46 2016: Assigned socket id 24 to client with ip 127.0.0.1
+
+Thu Jun 23 16:48:53 2016: Command 'connect /dev/ttyUSB1' sent via tcp/ip by user 24
+
+Thu Jun 23 16:48:57 2016: Command 'check_position 1' sent via tcp/ip by user 24
+
+Thu Jun 23 16:49:11 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 24
+
+Thu Jun 23 16:49:15 2016: Command 'check_position 1' sent via tcp/ip by user 24
+
+Thu Jun 23 16:49:18 2016: User with socket id 24 disconnected
+
+################################################
+Thu Jun 23 16:53:42 2016: Welcome! CollSoft software start
+################################################
+
+Thu Jun 23 16:53:46 2016: Assigned socket id 24 to client with ip 127.0.0.1
+
+Thu Jun 23 16:53:53 2016: Command 'connect /dev/ttyUSB1' sent via tcp/ip by user 24
+
+Thu Jun 23 16:53:58 2016: Command 'get_all_parameter' sent via tcp/ip by user 24
+
+Thu Jun 23 16:54:19 2016: Command 'set_par 2 240 240 1000 1000 12 1023' sent via tcp/ip by user 24
+
+Thu Jun 23 16:54:22 2016: Command 'get_mov_par 2' sent via tcp/ip by user 24
+
+Thu Jun 23 16:54:51 2016: Command 'check_position 1' sent via tcp/ip by user 24
+
+Thu Jun 23 16:55:22 2016: Command 'check_position 1' sent via tcp/ip by user 24
+
+Thu Jun 23 16:55:30 2016: Command 'Read_actual_encoder_values' sent via tcp/ip by user 24
+
+Thu Jun 23 16:55:39 2016: Command 'Read_actual_encoder_values' sent via tcp/ip by user 24
+
+Thu Jun 23 16:55:44 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 24
+
+Thu Jun 23 16:55:45 2016: Command 'Read_actual_encoder_values' sent via tcp/ip by user 24
+
+Thu Jun 23 16:55:50 2016: Command 'check_position 1' sent via tcp/ip by user 24
+
+Thu Jun 23 16:55:55 2016: User with socket id 24 disconnected
+
+################################################
+Thu Jun 23 17:15:29 2016: Welcome! CollSoft software start
+################################################
+
+Thu Jun 23 17:15:35 2016: Assigned socket id 26 to client with ip 127.0.0.1
+
+Thu Jun 23 17:15:44 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 26
+
+Thu Jun 23 17:15:48 2016: Command 'connect /dev/ttyUSB1' sent via tcp/ip by user 26
+
+Thu Jun 23 17:15:51 2016: Command 'check_position 1' sent via tcp/ip by user 26
+
+Thu Jun 23 17:15:54 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 26
+
+Thu Jun 23 17:15:58 2016: Command 'Read_actual_encoder_values' sent via tcp/ip by user 26
+
+Thu Jun 23 17:16:01 2016: Command 'check_position 1' sent via tcp/ip by user 26
+
+Thu Jun 23 17:16:03 2016: Command 'check_position 2' sent via tcp/ip by user 26
+
+Thu Jun 23 17:16:08 2016: Command 'check_position 2' sent via tcp/ip by user 26
+
+Thu Jun 23 17:16:09 2016: Command 'get_par 2' sent via tcp/ip by user 26
+
+Thu Jun 23 17:16:11 2016: Command 'get_mov_par 2' sent via tcp/ip by user 26
+
+Thu Jun 23 17:16:29 2016: Assigned socket id 25 to client with ip 127.0.0.1
+
+Thu Jun 23 17:16:51 2016: Assigned socket id 29 to client with ip 127.0.0.1
+
+Thu Jun 23 17:17:41 2016: User with socket id 29 disconnected
+
+Thu Jun 23 17:17:42 2016: User with socket id 25 disconnected
+
+Thu Jun 23 17:17:47 2016: User with socket id 26 disconnected
+
+################################################
+Fri Jun 24 10:13:53 2016: Welcome! CollSoft software start
+################################################
+
+Fri Jun 24 10:13:59 2016: Assigned socket id 7 to client with ip 127.0.0.1
+
+Fri Jun 24 10:14:01 2016: Command 'device_list' sent via tcp/ip by user 7
+
+Fri Jun 24 10:14:25 2016: Command 'device_list' sent via tcp/ip by user 7
+
+Fri Jun 24 10:14:45 2016: Command 'device_list' sent via tcp/ip by user 7
+
+Fri Jun 24 10:14:59 2016: Command 'device_list' sent via tcp/ip by user 7
+
+Fri Jun 24 10:15:33 2016: User with socket id 7 disconnected
+
+################################################
+Fri Jun 24 10:53:15 2016: Welcome! CollSoft software start
+################################################
+
+Fri Jun 24 10:53:19 2016: Assigned socket id 8 to client with ip 127.0.0.1
+
+Fri Jun 24 10:53:22 2016: Command 'device_list' sent via tcp/ip by user 8
+
+Fri Jun 24 10:53:39 2016: Command 'device_list' sent via tcp/ip by user 8
+
+Fri Jun 24 10:54:19 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 8
+
+Fri Jun 24 10:54:33 2016: User with socket id 8 disconnected
+
+################################################
+Fri Jun 24 10:55:46 2016: Welcome! CollSoft software start
+################################################
+
+Fri Jun 24 10:55:50 2016: Assigned socket id 9 to client with ip 127.0.0.1
+
+Fri Jun 24 10:55:51 2016: Command 'device_list' sent via tcp/ip by user 9
+
+################################################
+Fri Jun 24 10:57:15 2016: Welcome! CollSoft software start
+################################################
+
+################################################
+Fri Jun 24 10:58:50 2016: Welcome! CollSoft software start
+################################################
+
+Fri Jun 24 10:58:55 2016: Assigned socket id 9 to client with ip 127.0.0.1
+
+Fri Jun 24 10:59:01 2016: Command 'device_list' sent via tcp/ip by user 9
+
+Fri Jun 24 10:59:08 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 9
+
+Fri Jun 24 10:59:15 2016: Command 'check_position 1' sent via tcp/ip by user 9
+
+Fri Jun 24 10:59:18 2016: Command 'get_par 1' sent via tcp/ip by user 9
+
+Fri Jun 24 10:59:23 2016: Command 'get_mov_par 1' sent via tcp/ip by user 9
+
+Fri Jun 24 10:59:29 2016: User with socket id 9 disconnected
+
+################################################
+Fri Jun 24 11:04:04 2016: Welcome! CollSoft software start
+################################################
+
+Fri Jun 24 11:04:08 2016: Assigned socket id 10 to client with ip 127.0.0.1
+
+Fri Jun 24 11:04:11 2016: User with socket id 10 disconnected
+
+################################################
+Fri Jun 24 11:04:18 2016: Welcome! CollSoft software start
+################################################
+
+Fri Jun 24 11:04:19 2016: Assigned socket id 11 to client with ip 127.0.0.1
+
+Fri Jun 24 11:04:21 2016: User with socket id 11 disconnected
+
+################################################
+Fri Jun 24 11:04:31 2016: Welcome! CollSoft software start
+################################################
+
+Fri Jun 24 11:04:32 2016: Assigned socket id 11 to client with ip 127.0.0.1
+
+Fri Jun 24 11:04:33 2016: User with socket id 11 disconnected
+
+################################################
+Mon Jun 27 10:28:50 2016: Welcome! CollSoft software start
+################################################
+
+Mon Jun 27 10:28:53 2016: Assigned socket id 7 to client with ip 127.0.0.1
+
+Mon Jun 27 10:28:54 2016: Command 'device_list' sent via tcp/ip by user 7
+
+Mon Jun 27 10:29:11 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 7
+
+Mon Jun 27 10:29:15 2016: Command 'check_drv_assoc' sent via tcp/ip by user 7
+
+Mon Jun 27 10:29:35 2016: User with socket id 7 disconnected
+
+################################################
+Mon Jun 27 10:30:33 2016: Welcome! CollSoft software start
+################################################
+
+Mon Jun 27 10:30:37 2016: Assigned socket id 9 to client with ip 127.0.0.1
+
+Mon Jun 27 10:30:42 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 9
+
+Mon Jun 27 10:30:45 2016: Command 'check_drv_assoc' sent via tcp/ip by user 9
+
+Mon Jun 27 10:31:06 2016: Command 'check_drv_assoc' sent via tcp/ip by user 9
+
+Mon Jun 27 10:31:15 2016: Command 'read_serial_log' sent via tcp/ip by user 9
+
+Mon Jun 27 10:31:17 2016: Command 'read_serial_log' sent via tcp/ip by user 9
+
+Mon Jun 27 10:31:18 2016: Command 'read_serial_log' sent via tcp/ip by user 9
+
+Mon Jun 27 10:31:19 2016: Command 'read_serial_log' sent via tcp/ip by user 9
+
+Mon Jun 27 10:31:19 2016: Command 'read_serial_log' sent via tcp/ip by user 9
+
+Mon Jun 27 10:31:19 2016: Command 'read_serial_log' sent via tcp/ip by user 9
+
+Mon Jun 27 10:31:20 2016: Command 'read_serial_log' sent via tcp/ip by user 9
+
+Mon Jun 27 10:31:20 2016: Command 'read_serial_log' sent via tcp/ip by user 9
+
+Mon Jun 27 10:31:26 2016: Command 'check_drv_assoc' sent via tcp/ip by user 9
+
+Mon Jun 27 10:31:36 2016: User with socket id 9 disconnected
+
+################################################
+Mon Jun 27 10:53:30 2016: Welcome! CollSoft software start
+################################################
+
+Mon Jun 27 10:53:33 2016: Assigned socket id 10 to client with ip 127.0.0.1
+
+Mon Jun 27 10:53:39 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 10
+
+Mon Jun 27 10:53:40 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 10
+
+Mon Jun 27 10:53:43 2016: Command 'check_par_assoc' sent via tcp/ip by user 10
+
+Mon Jun 27 10:54:12 2016: User with socket id 10 disconnected
+
+################################################
+Mon Jun 27 10:55:46 2016: Welcome! CollSoft software start
+################################################
+
+Mon Jun 27 10:55:47 2016: Assigned socket id 10 to client with ip 127.0.0.1
+
+Mon Jun 27 10:55:47 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 10
+
+Mon Jun 27 10:55:50 2016: Command 'check_par_assoc' sent via tcp/ip by user 10
+
+Mon Jun 27 10:56:01 2016: User with socket id 10 disconnected
+
+################################################
+Mon Jun 27 10:56:31 2016: Welcome! CollSoft software start
+################################################
+
+Mon Jun 27 10:56:32 2016: Assigned socket id 12 to client with ip 127.0.0.1
+
+Mon Jun 27 10:56:33 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 12
+
+Mon Jun 27 10:56:39 2016: Command 'check_par_assoc' sent via tcp/ip by user 12
+
+Mon Jun 27 10:56:48 2016: User with socket id 12 disconnected
+
+################################################
+Mon Jun 27 10:57:06 2016: Welcome! CollSoft software start
+################################################
+
+Mon Jun 27 10:57:07 2016: Assigned socket id 11 to client with ip 127.0.0.1
+
+Mon Jun 27 10:57:08 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 11
+
+Mon Jun 27 10:57:11 2016: Command 'check_par_assoc' sent via tcp/ip by user 11
+
+Mon Jun 27 10:57:33 2016: Command 'read_par_log' sent via tcp/ip by user 11
+
+Mon Jun 27 10:57:34 2016: Command 'read_par_log' sent via tcp/ip by user 11
+
+Mon Jun 27 10:57:34 2016: Command 'read_par_log' sent via tcp/ip by user 11
+
+Mon Jun 27 10:57:35 2016: Command 'read_par_log' sent via tcp/ip by user 11
+
+Mon Jun 27 10:57:35 2016: Command 'read_par_log' sent via tcp/ip by user 11
+
+Mon Jun 27 10:57:36 2016: Command 'read_par_log' sent via tcp/ip by user 11
+
+Mon Jun 27 10:57:36 2016: Command 'read_par_log' sent via tcp/ip by user 11
+
+Mon Jun 27 10:57:39 2016: Command 'read_par_log' sent via tcp/ip by user 11
+
+Mon Jun 27 10:57:44 2016: User with socket id 11 disconnected
+
+################################################
+Mon Jun 27 11:02:14 2016: Welcome! CollSoft software start
+################################################
+
+Mon Jun 27 11:02:17 2016: Assigned socket id 13 to client with ip 127.0.0.1
+
+Mon Jun 27 11:02:18 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 13
+
+Mon Jun 27 11:02:21 2016: Command 'check_par_assoc' sent via tcp/ip by user 13
+
+Mon Jun 27 11:02:49 2016: Command 'check_internal_status' sent via tcp/ip by user 13
+
+Mon Jun 27 11:02:54 2016: User with socket id 13 disconnected
+
+################################################
+Mon Jun 27 11:04:31 2016: Welcome! CollSoft software start
+################################################
+
+Mon Jun 27 11:04:32 2016: Assigned socket id 14 to client with ip 127.0.0.1
+
+Mon Jun 27 11:04:33 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 14
+
+Mon Jun 27 11:04:35 2016: Command 'check_par_assoc' sent via tcp/ip by user 14
+
+Mon Jun 27 11:04:55 2016: User with socket id 14 disconnected
+
+################################################
+Mon Jun 27 11:09:32 2016: Welcome! CollSoft software start
+################################################
+
+Mon Jun 27 11:09:34 2016: Assigned socket id 16 to client with ip 127.0.0.1
+
+Mon Jun 27 11:09:35 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 16
+
+Mon Jun 27 11:09:37 2016: Command 'check_par_assoc' sent via tcp/ip by user 16
+
+Mon Jun 27 11:10:01 2016: User with socket id 16 disconnected
+
+################################################
+Mon Jun 27 11:11:13 2016: Welcome! CollSoft software start
+################################################
+
+Mon Jun 27 11:11:14 2016: Assigned socket id 17 to client with ip 127.0.0.1
+
+Mon Jun 27 11:11:15 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 17
+
+Mon Jun 27 11:11:19 2016: Command 'check_par_assoc' sent via tcp/ip by user 17
+
+Mon Jun 27 11:11:45 2016: User with socket id 17 disconnected
+
+################################################
+Mon Jun 27 11:13:47 2016: Welcome! CollSoft software start
+################################################
+
+Mon Jun 27 11:13:51 2016: Assigned socket id 16 to client with ip 127.0.0.1
+
+Mon Jun 27 11:13:57 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 16
+
+Mon Jun 27 11:13:59 2016: Command 'check_par_assoc' sent via tcp/ip by user 16
+
+Mon Jun 27 11:14:27 2016: User with socket id 16 disconnected
+
+################################################
+Mon Jun 27 11:16:42 2016: Welcome! CollSoft software start
+################################################
+
+Mon Jun 27 11:16:43 2016: Assigned socket id 18 to client with ip 127.0.0.1
+
+Mon Jun 27 11:16:44 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 18
+
+Mon Jun 27 11:16:46 2016: Command 'check_par_assoc' sent via tcp/ip by user 18
+
+Mon Jun 27 11:17:06 2016: User with socket id 18 disconnected
+
+################################################
+Mon Jun 27 11:18:38 2016: Welcome! CollSoft software start
+################################################
+
+Mon Jun 27 11:18:39 2016: Assigned socket id 19 to client with ip 127.0.0.1
+
+Mon Jun 27 11:18:39 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 19
+
+Mon Jun 27 11:18:41 2016: Command 'check_par_assoc' sent via tcp/ip by user 19
+
+Mon Jun 27 11:18:55 2016: User with socket id 19 disconnected
+
+################################################
+Mon Jun 27 11:21:10 2016: Welcome! CollSoft software start
+################################################
+
+Mon Jun 27 11:21:11 2016: Assigned socket id 19 to client with ip 127.0.0.1
+
+Mon Jun 27 11:21:12 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 19
+
+Mon Jun 27 11:21:14 2016: Command 'check_par_assoc' sent via tcp/ip by user 19
+
+Mon Jun 27 11:22:25 2016: User with socket id 19 disconnected
+
+################################################
+Mon Jun 27 11:22:26 2016: Welcome! CollSoft software start
+################################################
+
+Mon Jun 27 11:22:27 2016: Assigned socket id 21 to client with ip 127.0.0.1
+
+Mon Jun 27 11:22:28 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 21
+
+Mon Jun 27 11:22:31 2016: Command 'check_par_assoc' sent via tcp/ip by user 21
+
+Mon Jun 27 11:24:24 2016: User with socket id 21 disconnected
+
+################################################
+Mon Jun 27 11:24:45 2016: Welcome! CollSoft software start
+################################################
+
+Mon Jun 27 11:24:52 2016: Command 'connect /dev/ttyUSB0' sent via stdin
+
+Mon Jun 27 11:24:57 2016: Command 'check_par_assoc' sent via stdin
+
+Mon Jun 27 11:25:28 2016: Command 'exit' sent via stdin
+
+################################################
+Mon Jun 27 11:28:18 2016: Welcome! CollSoft software start
+################################################
+
+Mon Jun 27 11:28:30 2016: Command 'connect /dev/ttyUSB0' sent via stdin
+
+Mon Jun 27 11:28:35 2016: Command 'check_par_assoc' sent via stdin
+
+Mon Jun 27 11:29:03 2016: Command 'exit' sent via stdin
+
+################################################
+Mon Jun 27 11:30:57 2016: Welcome! CollSoft software start
+################################################
+
+Mon Jun 27 11:31:02 2016: Command 'connect /dev/ttyUSB0' sent via stdin
+
+Mon Jun 27 11:31:07 2016: Command 'check_par_assoc' sent via stdin
+
+Mon Jun 27 11:31:25 2016: Command 'exit' sent via stdin
+
+################################################
+Mon Jun 27 11:32:15 2016: Welcome! CollSoft software start
+################################################
+
+Mon Jun 27 11:32:20 2016: Command 'connect /dev/ttyUSB0' sent via stdin
+
+Mon Jun 27 11:32:28 2016: Command 'check_par_assoc' sent via stdin
+
+Mon Jun 27 11:32:39 2016: Command 'exit' sent via stdin
+
+################################################
+Mon Jun 27 11:33:21 2016: Welcome! CollSoft software start
+################################################
+
+Mon Jun 27 11:33:28 2016: Command 'connect /dev/ttyUSB0' sent via stdin
+
+Mon Jun 27 11:33:32 2016: Command 'check_par_assoc' sent via stdin
+
+Mon Jun 27 11:34:10 2016: Command 'exit' sent via stdin
+
+################################################
+Mon Jun 27 11:36:22 2016: Welcome! CollSoft software start
+################################################
+
+Mon Jun 27 11:36:27 2016: Command 'connect /dev/ttyUSB0' sent via stdin
+
+Mon Jun 27 11:36:31 2016: Command 'check_par_assoc' sent via stdin
+
+Mon Jun 27 11:37:11 2016: Command 'exit' sent via stdin
+
+################################################
+Mon Jun 27 11:37:29 2016: Welcome! CollSoft software start
+################################################
+
+Mon Jun 27 11:37:35 2016: Command 'connect /dev/ttyUSB0' sent via stdin
+
+Mon Jun 27 11:37:40 2016: Command 'check_par_assoc' sent via stdin
+
+Mon Jun 27 11:37:53 2016: Command 'exit' sent via stdin
+
+################################################
+Mon Jun 27 11:40:14 2016: Welcome! CollSoft software start
+################################################
+
+Mon Jun 27 11:40:19 2016: Assigned socket id 22 to client with ip 127.0.0.1
+
+Mon Jun 27 11:40:25 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 22
+
+Mon Jun 27 11:40:26 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 22
+
+Mon Jun 27 11:40:29 2016: Command 'check_par_assoc' sent via tcp/ip by user 22
+
+Mon Jun 27 11:42:22 2016: Command 'y' sent via tcp/ip by user 22
+
+Mon Jun 27 11:42:25 2016: User with socket id 22 disconnected
+
+################################################
+Mon Jun 27 11:42:33 2016: Welcome! CollSoft software start
+################################################
+
+Mon Jun 27 11:42:34 2016: Assigned socket id 22 to client with ip 127.0.0.1
+
+Mon Jun 27 11:42:35 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 22
+
+Mon Jun 27 11:42:38 2016: Command 'check_par_assoc' sent via tcp/ip by user 22
+
+Mon Jun 27 11:43:11 2016: User with socket id 22 disconnected
+
+################################################
+Mon Jun 27 11:49:46 2016: Welcome! CollSoft software start
+################################################
+
+Mon Jun 27 11:49:51 2016: Assigned socket id 23 to client with ip 127.0.0.1
+
+Mon Jun 27 11:49:57 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 23
+
+Mon Jun 27 11:49:58 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 23
+
+Mon Jun 27 11:50:02 2016: Command 'check_par_assoc' sent via tcp/ip by user 23
+
+Mon Jun 27 11:50:29 2016: User with socket id 23 disconnected
+
+################################################
+Mon Jun 27 14:16:40 2016: Welcome! CollSoft software start
+################################################
+
+Mon Jun 27 14:16:46 2016: Command 'connect /dev/ttyUSB0' sent via stdin
+
+Mon Jun 27 14:17:18 2016: Command 'exit' sent via stdin
+
+################################################
+Mon Jun 27 14:17:35 2016: Welcome! CollSoft software start
+################################################
+
+Mon Jun 27 14:17:42 2016: Assigned socket id 6 to client with ip 127.0.0.1
+
+Mon Jun 27 14:17:53 2016: Assigned socket id 5 to client with ip 127.0.0.1
+
+Mon Jun 27 14:17:59 2016: User with socket id 5 disconnected
+
+Mon Jun 27 14:18:03 2016: Command 'device_list' sent via tcp/ip by user 6
+
+Mon Jun 27 14:18:08 2016: User with socket id 6 disconnected
+
+Mon Jun 27 14:18:10 2016: Command 'exit' sent via stdin
+
+################################################
+Mon Jun 27 17:13:58 2016: Welcome! CollSoft software start
+################################################
+
+Mon Jun 27 17:14:03 2016: Assigned socket id 7 to client with ip 127.0.0.1
+
+Mon Jun 27 17:14:08 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 7
+
+Mon Jun 27 17:14:10 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 7
+
+Mon Jun 27 17:14:13 2016: Command 'check_position 1' sent via tcp/ip by user 7
+
+Mon Jun 27 17:14:28 2016: Command 'get_all_parameter' sent via tcp/ip by user 7
+
+Mon Jun 27 17:14:55 2016: User with socket id 7 disconnected
+
+################################################
+Mon Jun 27 17:16:44 2016: Welcome! CollSoft software start
+################################################
+
+Mon Jun 27 17:16:48 2016: Assigned socket id 9 to client with ip 127.0.0.1
+
+Mon Jun 27 17:16:53 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 9
+
+Mon Jun 27 17:16:56 2016: Command 'check_position 1' sent via tcp/ip by user 9
+
+Mon Jun 27 17:17:14 2016: User with socket id 9 disconnected
+
+################################################
+Tue Jun 28 11:28:55 2016: Welcome! CollSoft software start
+################################################
+
+################################################
+Tue Jun 28 11:29:30 2016: Welcome! CollSoft software start
+################################################
+
+Tue Jun 28 11:29:36 2016: Assigned socket id 8 to client with ip 127.0.0.1
+
+Tue Jun 28 11:29:43 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 8
+
+Tue Jun 28 11:29:45 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 8
+
+Tue Jun 28 11:29:51 2016: Command 'check_position 1' sent via tcp/ip by user 8
+
+Tue Jun 28 11:30:06 2016: Command 'get_all_parameter' sent via tcp/ip by user 8
+
+Tue Jun 28 11:30:18 2016: Command 'get_all_parameter' sent via tcp/ip by user 8
+
+Tue Jun 28 11:30:23 2016: User with socket id 8 disconnected
+
+################################################
+Tue Jun 28 11:31:11 2016: Welcome! CollSoft software start
+################################################
+
+Tue Jun 28 11:31:16 2016: Assigned socket id 8 to client with ip 127.0.0.1
+
+Tue Jun 28 11:31:22 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 8
+
+Tue Jun 28 11:31:22 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 8
+
+Tue Jun 28 11:31:26 2016: Command 'check_position 1' sent via tcp/ip by user 8
+
+Tue Jun 28 11:31:40 2016: Command 'get_all_parameter' sent via tcp/ip by user 8
+
+Tue Jun 28 11:31:59 2016: User with socket id 8 disconnected
+
+################################################
+Tue Jun 28 11:32:25 2016: Welcome! CollSoft software start
+################################################
+
+Tue Jun 28 11:32:29 2016: Assigned socket id 8 to client with ip 127.0.0.1
+
+Tue Jun 28 11:32:36 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 8
+
+Tue Jun 28 11:32:37 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 8
+
+Tue Jun 28 11:32:39 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 8
+
+Tue Jun 28 11:32:42 2016: Command 'check_position 1' sent via tcp/ip by user 8
+
+Tue Jun 28 11:32:47 2016: Command 'get_all_parameter' sent via tcp/ip by user 8
+
+Tue Jun 28 11:32:55 2016: User with socket id 8 disconnected
+
+################################################
+Tue Jun 28 11:34:41 2016: Welcome! CollSoft software start
+################################################
+
+Tue Jun 28 11:34:44 2016: Assigned socket id 9 to client with ip 127.0.0.1
+
+Tue Jun 28 11:34:50 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 9
+
+Tue Jun 28 11:34:51 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 9
+
+Tue Jun 28 11:34:54 2016: Command 'check_position 1' sent via tcp/ip by user 9
+
+Tue Jun 28 11:34:58 2016: Command 'get_all_parameter' sent via tcp/ip by user 9
+
+Tue Jun 28 11:35:13 2016: User with socket id 9 disconnected
+
+################################################
+Tue Jun 28 11:38:54 2016: Welcome! CollSoft software start
+################################################
+
+Tue Jun 28 11:38:58 2016: Assigned socket id 10 to client with ip 127.0.0.1
+
+Tue Jun 28 11:39:04 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 10
+
+Tue Jun 28 11:39:05 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 10
+
+Tue Jun 28 11:39:13 2016: Command 'check_position 1' sent via tcp/ip by user 10
+
+Tue Jun 28 11:39:23 2016: User with socket id 10 disconnected
+
+################################################
+Tue Jun 28 11:40:31 2016: Welcome! CollSoft software start
+################################################
+
+Tue Jun 28 11:40:35 2016: Assigned socket id 11 to client with ip 127.0.0.1
+
+Tue Jun 28 11:40:41 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 11
+
+Tue Jun 28 11:40:44 2016: Command 'check_position 1' sent via tcp/ip by user 11
+
+Tue Jun 28 11:41:03 2016: Command 'get_all_parameter' sent via tcp/ip by user 11
+
+Tue Jun 28 11:41:19 2016: Command 'Read_actual_encoder_values' sent via tcp/ip by user 11
+
+Tue Jun 28 11:41:23 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 11
+
+Tue Jun 28 11:41:25 2016: Command 'Read_actual_encoder_values' sent via tcp/ip by user 11
+
+Tue Jun 28 11:41:33 2016: User with socket id 11 disconnected
+
+################################################
+Tue Jun 28 12:00:47 2016: Welcome! CollSoft software start
+################################################
+
+Tue Jun 28 12:00:52 2016: Assigned socket id 12 to client with ip 127.0.0.1
+
+Tue Jun 28 12:00:58 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 12
+
+Tue Jun 28 12:01:25 2016: Command 'setmult_par 1 1 1 1 1 1 ' sent via tcp/ip by user 12
+
+Tue Jun 28 12:01:31 2016: Command 'moveto_mult 1 ' sent via tcp/ip by user 12
+
+Tue Jun 28 12:01:42 2016: User with socket id 12 disconnected
+
+################################################
+Tue Jun 28 12:02:45 2016: Welcome! CollSoft software start
+################################################
+
+Tue Jun 28 12:02:50 2016: Assigned socket id 15 to client with ip 127.0.0.1
+
+Tue Jun 28 12:02:56 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 15
+
+Tue Jun 28 12:02:59 2016: Command 'get_par 1' sent via tcp/ip by user 15
+
+Tue Jun 28 12:03:00 2016: Command 'set_par 1 -1 -1 -1 -1 -1 -1' sent via tcp/ip by user 15
+
+Tue Jun 28 12:03:02 2016: Command 'check_position 1' sent via tcp/ip by user 15
+
+Tue Jun 28 12:03:16 2016: Command 'check_position 2' sent via tcp/ip by user 15
+
+Tue Jun 28 12:03:18 2016: Command 'check_position 2' sent via tcp/ip by user 15
+
+Tue Jun 28 12:03:27 2016: Command 'check_position 2' sent via tcp/ip by user 15
+
+Tue Jun 28 12:03:33 2016: Command 'check_position 2' sent via tcp/ip by user 15
+
+Tue Jun 28 12:03:39 2016: User with socket id 15 disconnected
+
+################################################
+Tue Jun 28 15:15:45 2016: Welcome! CollSoft software start
+################################################
+
+Tue Jun 28 15:15:51 2016: Assigned socket id 7 to client with ip 127.0.0.1
+
+Tue Jun 28 15:15:57 2016: Command 'device_list' sent via tcp/ip by user 7
+
+Tue Jun 28 15:16:14 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 7
+
+Tue Jun 28 15:16:19 2016: Command 'check_position 1' sent via tcp/ip by user 7
+
+Tue Jun 28 15:16:32 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 7
+
+Tue Jun 28 15:16:34 2016: Command 'Read_actual_encoder_values' sent via tcp/ip by user 7
+
+Tue Jun 28 15:16:41 2016: Command 'check_position 1' sent via tcp/ip by user 7
+
+Tue Jun 28 15:17:15 2016: Command 'check_position 1' sent via tcp/ip by user 7
+
+Tue Jun 28 15:17:27 2016: Command 'read_log' sent via tcp/ip by user 7
+
+Tue Jun 28 15:17:28 2016: Command 'read_log' sent via tcp/ip by user 7
+
+Tue Jun 28 15:17:34 2016: Command 'check_internal_status' sent via tcp/ip by user 7
+
+Tue Jun 28 15:17:34 2016: Command 'check_internal_status' sent via tcp/ip by user 7
+
+Tue Jun 28 15:18:00 2016: User with socket id 7 disconnected
+
+################################################
+Tue Jun 28 15:23:33 2016: Welcome! CollSoft software start
+################################################
+
+################################################
+Wed Aug  3 11:47:02 2016: Welcome! CollSoft software start
+################################################
+
+Wed Aug  3 11:47:14 2016: Assigned socket id 7 to client with ip 127.0.0.1
+
+Wed Aug  3 11:47:56 2016: Assigned socket id 8 to client with ip 127.0.0.1
+
+Wed Aug  3 11:48:01 2016: Command 'device_list' sent via tcp/ip by user 8
+
+Wed Aug  3 11:48:09 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 8
+
+Wed Aug  3 11:48:30 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 8
+
+Wed Aug  3 11:48:32 2016: Command 'check_internal_status' sent via tcp/ip by user 8
+
+Wed Aug  3 11:48:48 2016: Command 'Read_actual_encoder_values' sent via tcp/ip by user 8
+
+Wed Aug  3 11:49:22 2016: User with socket id 8 disconnected
+
+Wed Aug  3 11:49:41 2016: User with socket id 7 disconnected
+
+Wed Aug  3 11:54:15 2016: Assigned socket id 9 to client with ip 127.0.0.1
+
+Wed Aug  3 11:54:50 2016: User with socket id 9 disconnected
+
+Wed Aug  3 11:57:03 2016: Assigned socket id 12 to client with ip 127.0.0.1
+
+Wed Aug  3 11:57:09 2016: User with socket id 12 disconnected
+
+Wed Aug  3 11:57:19 2016: Assigned socket id 13 to client with ip 127.0.0.1
+
+Wed Aug  3 11:57:22 2016: User with socket id 13 disconnected
+
+Wed Aug  3 11:57:35 2016: Assigned socket id 14 to client with ip 127.0.0.1
+
+Wed Aug  3 11:57:39 2016: User with socket id 14 disconnected
+
+Wed Aug  3 11:58:22 2016: Assigned socket id 15 to client with ip 127.0.0.1
+
+Wed Aug  3 11:58:29 2016: User with socket id 15 disconnected
+
+Wed Aug  3 11:58:57 2016: Assigned socket id 16 to client with ip 127.0.0.1
+
+Wed Aug  3 11:58:59 2016: User with socket id 16 disconnected
+
+Wed Aug  3 12:01:29 2016: Assigned socket id 17 to client with ip 127.0.0.1
+
+Wed Aug  3 12:01:40 2016: User with socket id 17 disconnected
+
+Wed Aug  3 12:03:34 2016: Assigned socket id 18 to client with ip 127.0.0.1
+
+Wed Aug  3 12:03:36 2016: User with socket id 18 disconnected
+
+################################################
+Wed Aug  3 13:21:04 2016: Welcome! CollSoft software start
+################################################
+
+Wed Aug  3 13:21:09 2016: Assigned socket id 9 to client with ip 127.0.0.1
+
+Wed Aug  3 13:21:17 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 9
+
+Wed Aug  3 13:21:25 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 9
+
+Wed Aug  3 13:21:30 2016: User with socket id 9 disconnected
+
+Wed Aug  3 13:21:36 2016: Assigned socket id 11 to client with ip 127.0.0.1
+
+Wed Aug  3 13:21:53 2016: Command 'get_all_parameter' sent via tcp/ip by user 11
+
+Wed Aug  3 13:22:11 2016: User with socket id 11 disconnected
+
+Wed Aug  3 13:23:12 2016: Assigned socket id 14 to client with ip 127.0.0.1
+
+Wed Aug  3 13:23:15 2016: Command 'get_all_parameter' sent via tcp/ip by user 14
+
+Wed Aug  3 13:23:35 2016: User with socket id 14 disconnected
+
+Wed Aug  3 13:24:16 2016: Assigned socket id 15 to client with ip 127.0.0.1
+
+Wed Aug  3 13:24:18 2016: Command 'get_all_parameter' sent via tcp/ip by user 15
+
+Wed Aug  3 13:24:55 2016: User with socket id 15 disconnected
+
+################################################
+Wed Aug  3 14:07:35 2016: Welcome! CollSoft software start
+################################################
+
+Wed Aug  3 14:40:13 2016: Assigned socket id 18 to client with ip 127.0.0.1
+
+Wed Aug  3 14:40:13 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 18
+
+Wed Aug  3 14:40:25 2016: User with socket id 18 disconnected
+
+Wed Aug  3 14:41:32 2016: Assigned socket id 20 to client with ip 127.0.0.1
+
+Wed Aug  3 14:41:32 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 20
+
+Wed Aug  3 14:41:36 2016: User with socket id 20 disconnected
+
+Wed Aug  3 14:43:06 2016: Assigned socket id 22 to client with ip 127.0.0.1
+
+Wed Aug  3 14:43:06 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 22
+
+Wed Aug  3 14:43:06 2016: User with socket id 22 disconnected
+
+Wed Aug  3 14:50:19 2016: Assigned socket id 24 to client with ip 127.0.0.1
+
+Wed Aug  3 14:50:19 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 24
+
+Wed Aug  3 14:50:19 2016: User with socket id 24 disconnected
+
+Wed Aug  3 14:50:19 2016: Assigned socket id 26 to client with ip 127.0.0.1
+
+Wed Aug  3 14:50:19 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 26
+
+Wed Aug  3 14:50:22 2016: User with socket id 26 disconnected
+
+Wed Aug  3 14:53:56 2016: Assigned socket id 28 to client with ip 127.0.0.1
+
+Wed Aug  3 14:53:56 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 28
+
+Wed Aug  3 14:53:56 2016: User with socket id 28 disconnected
+
+Wed Aug  3 14:53:56 2016: Assigned socket id 30 to client with ip 127.0.0.1
+
+Wed Aug  3 14:54:03 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 30
+
+Wed Aug  3 14:54:03 2016: User with socket id 30 disconnected
+
+Wed Aug  3 14:54:24 2016: Assigned socket id 32 to client with ip 127.0.0.1
+
+Wed Aug  3 14:54:24 2016: Assigned socket id 34 to client with ip 127.0.0.1
+
+Wed Aug  3 14:54:25 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 32
+
+Wed Aug  3 14:54:25 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 34
+
+Wed Aug  3 14:54:35 2016: User with socket id 32 disconnected
+
+Wed Aug  3 14:54:35 2016: User with socket id 34 disconnected
+
+Wed Aug  3 14:54:51 2016: Assigned socket id 35 to client with ip 127.0.0.1
+
+Wed Aug  3 14:54:51 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 35
+
+Wed Aug  3 14:54:51 2016: User with socket id 35 disconnected
+
+Wed Aug  3 14:54:51 2016: Assigned socket id 38 to client with ip 127.0.0.1
+
+Wed Aug  3 14:54:52 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 38
+
+Wed Aug  3 14:54:52 2016: User with socket id 38 disconnected
+
+Wed Aug  3 14:55:45 2016: Assigned socket id 40 to client with ip 127.0.0.1
+
+Wed Aug  3 14:55:45 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 40
+
+Wed Aug  3 14:55:45 2016: User with socket id 40 disconnected
+
+Wed Aug  3 14:55:45 2016: Assigned socket id 42 to client with ip 127.0.0.1
+
+Wed Aug  3 14:55:45 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 42
+
+Wed Aug  3 14:55:45 2016: User with socket id 42 disconnected
+
+Wed Aug  3 14:55:45 2016: Assigned socket id 44 to client with ip 127.0.0.1
+
+Wed Aug  3 14:56:00 2016: Command 'get_all_parameter' sent via tcp/ip by user 44
+
+Wed Aug  3 14:56:13 2016: User with socket id 44 disconnected
+
+################################################
+Tue Aug 16 11:23:28 2016: Welcome! CollSoft software start
+################################################
+
+################################################
+Tue Aug 16 11:23:43 2016: Welcome! CollSoft software start
+################################################
+
+################################################
+Tue Aug 16 11:28:30 2016: Welcome! CollSoft software start
+################################################
+
+Tue Aug 16 11:28:38 2016: Assigned socket id 6 to client with ip 127.0.0.1
+
+Tue Aug 16 11:28:38 2016: Assigned socket id 8 to client with ip 127.0.0.1
+
+Tue Aug 16 11:28:38 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 8
+
+Tue Aug 16 11:28:38 2016: User with socket id 8 disconnected
+
+Tue Aug 16 11:28:38 2016: Assigned socket id 9 to client with ip 127.0.0.1
+
+Tue Aug 16 11:28:39 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 9
+
+Tue Aug 16 11:28:39 2016: User with socket id 9 disconnected
+
+Tue Aug 16 11:29:07 2016: Command 'get_all_parameter' sent via tcp/ip by user 6
+
+################################################
+Tue Aug 16 11:45:41 2016: Welcome! CollSoft software start
+################################################
+
+Tue Aug 16 11:46:01 2016: Assigned socket id 10 to client with ip 127.0.0.1
+
+Tue Aug 16 11:46:01 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 9
+
+Tue Aug 16 11:46:01 2016: Assigned socket id 9 to client with ip 127.0.0.1
+
+Tue Aug 16 11:46:01 2016: User with socket id 9 disconnected
+
+Tue Aug 16 11:46:01 2016: User with socket id 9 disconnected
+
+Tue Aug 16 11:46:01 2016: Assigned socket id 11 to client with ip 127.0.0.1
+
+Tue Aug 16 11:46:02 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 11
+
+Tue Aug 16 11:46:02 2016: User with socket id 11 disconnected
+
+Tue Aug 16 11:48:27 2016: Assigned socket id 13 to client with ip 127.0.0.1
+
+Tue Aug 16 11:48:32 2016: Command 'Read_actual_encoder_values' sent via tcp/ip by user 13
+
+Tue Aug 16 11:49:06 2016: Command 'get_all_parameter' sent via tcp/ip by user 13
+
+Tue Aug 16 11:49:23 2016: User with socket id 13 disconnected
+
+Tue Aug 16 11:49:29 2016: Assigned socket id 15 to client with ip 127.0.0.1
+
+Tue Aug 16 11:49:29 2016: Assigned socket id 16 to client with ip 127.0.0.1
+
+Tue Aug 16 11:49:29 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 16
+
+Tue Aug 16 11:49:29 2016: User with socket id 16 disconnected
+
+Tue Aug 16 11:49:29 2016: User with socket id 16 disconnected
+
+Tue Aug 16 11:49:29 2016: Assigned socket id 17 to client with ip 127.0.0.1
+
+Tue Aug 16 11:49:30 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 17
+
+Tue Aug 16 11:49:30 2016: User with socket id 17 disconnected
+
+Tue Aug 16 11:53:27 2016: Assigned socket id 19 to client with ip 127.0.0.1
+
+Tue Aug 16 11:53:27 2016: Assigned socket id 21 to client with ip 127.0.0.1
+
+Tue Aug 16 11:53:27 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 21
+
+Tue Aug 16 11:53:27 2016: User with socket id 21 disconnected
+
+Tue Aug 16 11:53:27 2016: User with socket id 21 disconnected
+
+Tue Aug 16 11:53:27 2016: Assigned socket id 22 to client with ip 127.0.0.1
+
+Tue Aug 16 11:53:28 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 22
+
+Tue Aug 16 11:53:28 2016: User with socket id 22 disconnected
+
+Tue Aug 16 11:56:16 2016: Assigned socket id 24 to client with ip 127.0.0.1
+
+Tue Aug 16 11:56:16 2016: Assigned socket id 26 to client with ip 127.0.0.1
+
+Tue Aug 16 11:56:16 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 26
+
+Tue Aug 16 11:56:16 2016: User with socket id 26 disconnected
+
+Tue Aug 16 11:56:16 2016: User with socket id 26 disconnected
+
+Tue Aug 16 11:56:16 2016: Assigned socket id 7 to client with ip 127.0.0.1
+
+Tue Aug 16 11:56:17 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 7
+
+Tue Aug 16 11:56:17 2016: User with socket id 7 disconnected
+
+Tue Aug 16 11:58:42 2016: Assigned socket id 29 to client with ip 127.0.0.1
+
+Tue Aug 16 11:58:45 2016: Command 'Read_actual_encoder_values' sent via tcp/ip by user 29
+
+Tue Aug 16 11:58:49 2016: Command 'get_par 1' sent via tcp/ip by user 29
+
+Tue Aug 16 11:58:52 2016: Command 'get_mov_par 1' sent via tcp/ip by user 29
+
+Tue Aug 16 11:58:54 2016: Command 'check_position 1' sent via tcp/ip by user 29
+
+Tue Aug 16 11:59:02 2016: Command 'move_to 1 -600' sent via tcp/ip by user 29
+
+Tue Aug 16 11:59:15 2016: Command 'move_to 1 600' sent via tcp/ip by user 29
+
+Tue Aug 16 11:59:31 2016: Command 'get_par 2' sent via tcp/ip by user 29
+
+Tue Aug 16 11:59:35 2016: Command 'get_mov_par 2' sent via tcp/ip by user 29
+
+Tue Aug 16 11:59:37 2016: Command 'check_position 2' sent via tcp/ip by user 29
+
+Tue Aug 16 11:59:56 2016: Command 'move_to 1 0' sent via tcp/ip by user 29
+
+Tue Aug 16 11:59:59 2016: Command 'check_position 1' sent via tcp/ip by user 29
+
+Tue Aug 16 11:59:59 2016: Command 'check_position 1' sent via tcp/ip by user 29
+
+Tue Aug 16 12:00:00 2016: Command 'check_position 1' sent via tcp/ip by user 29
+
+Tue Aug 16 12:00:03 2016: User with socket id 29 disconnected
+
+Tue Aug 16 12:01:41 2016: Assigned socket id 31 to client with ip 127.0.0.1
+
+Tue Aug 16 12:01:41 2016: User with socket id 31 disconnected
+
+Tue Aug 16 12:01:41 2016: Assigned socket id 32 to client with ip 127.0.0.1
+
+Tue Aug 16 12:01:42 2016: User with socket id 32 disconnected
+
+Tue Aug 16 12:01:42 2016: Assigned socket id 33 to client with ip 127.0.0.1
+
+Tue Aug 16 12:01:42 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 31
+
+Tue Aug 16 12:01:43 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 32
+
+Tue Aug 16 12:01:49 2016: Assigned socket id 34 to client with ip 127.0.0.1
+
+Tue Aug 16 12:01:49 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 34
+
+Tue Aug 16 12:01:49 2016: User with socket id 34 disconnected
+
+Tue Aug 16 12:01:49 2016: Assigned socket id 37 to client with ip 127.0.0.1
+
+Tue Aug 16 12:01:50 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 37
+
+Tue Aug 16 12:01:50 2016: User with socket id 37 disconnected
+
+Tue Aug 16 12:02:13 2016: Command 'get_all_parameter' sent via tcp/ip by user 33
+
+Tue Aug 16 12:02:46 2016: Command 'moveto_mult -600 1 ' sent via tcp/ip by user 33
+
+Tue Aug 16 12:02:52 2016: Command 'moveto_mult 0 1 ' sent via tcp/ip by user 33
+
+Tue Aug 16 12:03:00 2016: User with socket id 33 disconnected
+
+Tue Aug 16 12:55:54 2016: Assigned socket id 39 to client with ip 127.0.0.1
+
+Tue Aug 16 12:55:54 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 39
+
+Tue Aug 16 12:55:54 2016: User with socket id 39 disconnected
+
+Tue Aug 16 12:55:54 2016: Assigned socket id 41 to client with ip 127.0.0.1
+
+Tue Aug 16 12:55:55 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 41
+
+Tue Aug 16 12:55:55 2016: User with socket id 41 disconnected
+
+Tue Aug 16 12:55:55 2016: Assigned socket id 42 to client with ip 127.0.0.1
+
+Tue Aug 16 12:56:07 2016: Command 'get_all_parameter' sent via tcp/ip by user 42
+
+Tue Aug 16 12:56:13 2016: Command 'get_all_parameter' sent via tcp/ip by user 42
+
+Tue Aug 16 12:56:24 2016: Command 'get_all_parameter' sent via tcp/ip by user 42
+
+Tue Aug 16 12:56:35 2016: Command 'get_all_parameter' sent via tcp/ip by user 42
+
+Tue Aug 16 12:56:41 2016: Command 'moveto_mult -600 1 ' sent via tcp/ip by user 42
+
+Tue Aug 16 12:56:45 2016: User with socket id 42 disconnected
+
+Tue Aug 16 12:57:40 2016: Assigned socket id 44 to client with ip 127.0.0.1
+
+Tue Aug 16 12:57:40 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 44
+
+Tue Aug 16 12:57:40 2016: User with socket id 44 disconnected
+
+Tue Aug 16 12:57:40 2016: Assigned socket id 45 to client with ip 127.0.0.1
+
+Tue Aug 16 12:57:41 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 45
+
+Tue Aug 16 12:57:41 2016: User with socket id 45 disconnected
+
+Tue Aug 16 12:57:41 2016: Assigned socket id 46 to client with ip 127.0.0.1
+
+Tue Aug 16 12:57:49 2016: Command 'get_all_parameter' sent via tcp/ip by user 46
+
+Tue Aug 16 12:57:54 2016: Command 'get_all_parameter' sent via tcp/ip by user 46
+
+Tue Aug 16 12:58:09 2016: Command 'moveto_mult -600 1 ' sent via tcp/ip by user 46
+
+Tue Aug 16 12:58:16 2016: User with socket id 46 disconnected
+
+Tue Aug 16 12:58:58 2016: Assigned socket id 48 to client with ip 127.0.0.1
+
+Tue Aug 16 12:59:11 2016: Command 'get_all_parameter' sent via tcp/ip by user 48
+
+Tue Aug 16 12:59:18 2016: Command 'get_all_parameter' sent via tcp/ip by user 48
+
+Tue Aug 16 12:59:19 2016: Command 'get_all_parameter' sent via tcp/ip by user 48
+
+Tue Aug 16 12:59:20 2016: Command 'get_all_parameter' sent via tcp/ip by user 48
+
+Tue Aug 16 12:59:21 2016: Command 'get_all_parameter' sent via tcp/ip by user 48
+
+Tue Aug 16 12:59:33 2016: Command 'get_all_parameter' sent via tcp/ip by user 48
+
+Tue Aug 16 12:59:35 2016: Command 'get_all_parameter' sent via tcp/ip by user 48
+
+Tue Aug 16 12:59:36 2016: Command 'get_all_parameter' sent via tcp/ip by user 48
+
+Tue Aug 16 12:59:37 2016: Command 'get_all_parameter' sent via tcp/ip by user 48
+
+Tue Aug 16 12:59:38 2016: Command 'moveto_mult -600 1 ' sent via tcp/ip by user 48
+
+Tue Aug 16 12:59:53 2016: Assigned socket id 49 to client with ip 127.0.0.1
+
+Tue Aug 16 12:59:58 2016: Command 'Read_actual_encoder_values' sent via tcp/ip by user 49
+
+Tue Aug 16 13:00:06 2016: Command 'get_par 1' sent via tcp/ip by user 49
+
+Tue Aug 16 13:00:07 2016: Command 'get_par 1' sent via tcp/ip by user 49
+
+Tue Aug 16 13:00:07 2016: Command 'get_par 1' sent via tcp/ip by user 49
+
+Tue Aug 16 13:00:07 2016: Command 'get_par 1' sent via tcp/ip by user 49
+
+Tue Aug 16 13:00:09 2016: Command 'get_par 2' sent via tcp/ip by user 49
+
+Tue Aug 16 13:00:09 2016: Command 'get_par 2' sent via tcp/ip by user 49
+
+Tue Aug 16 13:00:09 2016: Command 'get_par 2' sent via tcp/ip by user 49
+
+Tue Aug 16 13:00:10 2016: Command 'get_par 2' sent via tcp/ip by user 49
+
+Tue Aug 16 13:00:18 2016: Command 'device_list' sent via tcp/ip by user 49
+
+Tue Aug 16 13:00:26 2016: User with socket id 49 disconnected
+
+Tue Aug 16 13:00:28 2016: User with socket id 48 disconnected
+
+Tue Aug 16 13:11:37 2016: Assigned socket id 50 to client with ip 127.0.0.1
+
+Tue Aug 16 13:11:38 2016: Command 'device_list' sent via tcp/ip by user 50
+
+Tue Aug 16 13:11:45 2016: User with socket id 50 disconnected
+
+Tue Aug 16 13:12:30 2016: Assigned socket id 51 to client with ip 127.0.0.1
+
+Tue Aug 16 13:12:30 2016: Command 'connect /dev/ttyUSB1' sent via tcp/ip by user 51
+
+Tue Aug 16 13:12:30 2016: User with socket id 51 disconnected
+
+Tue Aug 16 13:12:30 2016: Assigned socket id 52 to client with ip 127.0.0.1
+
+Tue Aug 16 13:12:31 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 52
+
+Tue Aug 16 13:12:31 2016: User with socket id 52 disconnected
+
+Tue Aug 16 13:12:31 2016: Assigned socket id 53 to client with ip 127.0.0.1
+
+Tue Aug 16 13:12:47 2016: Command 'get_all_parameter' sent via tcp/ip by user 53
+
+Tue Aug 16 13:13:16 2016: Command 'moveto_mult -600 1 ' sent via tcp/ip by user 53
+
+Tue Aug 16 13:13:24 2016: User with socket id 53 disconnected
+
+Tue Aug 16 13:22:39 2016: Assigned socket id 56 to client with ip 127.0.0.1
+
+Tue Aug 16 13:22:44 2016: Command 'device_list' sent via tcp/ip by user 56
+
+Tue Aug 16 13:23:01 2016: User with socket id 56 disconnected
+
+################################################
+Tue Aug 16 13:23:06 2016: Welcome! CollSoft software start
+################################################
+
+Tue Aug 16 13:23:08 2016: Assigned socket id 11 to client with ip 127.0.0.1
+
+Tue Aug 16 13:23:09 2016: Command 'device_list' sent via tcp/ip by user 11
+
+Tue Aug 16 13:23:19 2016: User with socket id 11 disconnected
+
+################################################
+Tue Aug 16 13:23:34 2016: Welcome! CollSoft software start
+################################################
+
+Tue Aug 16 13:23:35 2016: Assigned socket id 13 to client with ip 127.0.0.1
+
+Tue Aug 16 13:23:36 2016: Command 'device_list' sent via tcp/ip by user 13
+
+Tue Aug 16 13:23:49 2016: User with socket id 13 disconnected
+
+Tue Aug 16 13:23:55 2016: Assigned socket id 14 to client with ip 127.0.0.1
+
+Tue Aug 16 13:23:55 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 14
+
+Tue Aug 16 13:23:55 2016: User with socket id 14 disconnected
+
+Tue Aug 16 13:23:55 2016: Assigned socket id 15 to client with ip 127.0.0.1
+
+Tue Aug 16 13:23:56 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 15
+
+Tue Aug 16 13:23:56 2016: User with socket id 15 disconnected
+
+Tue Aug 16 13:23:56 2016: Assigned socket id 17 to client with ip 127.0.0.1
+
+Tue Aug 16 13:24:10 2016: Command 'get_all_parameter' sent via tcp/ip by user 17
+
+Tue Aug 16 13:24:30 2016: Command 'get_all_parameter' sent via tcp/ip by user 17
+
+Tue Aug 16 13:24:56 2016: Command 'moveto_mult -600 1 2 ' sent via tcp/ip by user 17
+
+Tue Aug 16 13:25:18 2016: User with socket id 17 disconnected
+
+################################################
+Wed Aug 17 11:15:38 2016: Welcome! CollSoft software start
+################################################
+
+Wed Aug 17 11:15:46 2016: Assigned socket id 7 to client with ip 127.0.0.1
+
+Wed Aug 17 11:15:46 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 7
+
+Wed Aug 17 11:15:46 2016: User with socket id 7 disconnected
+
+Wed Aug 17 11:15:46 2016: Assigned socket id 8 to client with ip 127.0.0.1
+
+Wed Aug 17 11:15:46 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 8
+
+Wed Aug 17 11:15:47 2016: User with socket id 8 disconnected
+
+Wed Aug 17 11:15:47 2016: Assigned socket id 10 to client with ip 127.0.0.1
+
+Wed Aug 17 11:16:03 2016: Command 'get_all_parameter' sent via tcp/ip by user 10
+
+Wed Aug 17 11:16:21 2016: User with socket id 10 disconnected
+
+Wed Aug 17 11:17:19 2016: Assigned socket id 12 to client with ip 127.0.0.1
+
+Wed Aug 17 11:17:19 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 12
+
+Wed Aug 17 11:17:19 2016: User with socket id 12 disconnected
+
+Wed Aug 17 11:17:19 2016: Assigned socket id 13 to client with ip 127.0.0.1
+
+Wed Aug 17 11:17:19 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 13
+
+Wed Aug 17 11:17:19 2016: User with socket id 13 disconnected
+
+Wed Aug 17 11:17:19 2016: Assigned socket id 15 to client with ip 127.0.0.1
+
+Wed Aug 17 11:17:31 2016: Command 'get_all_parameter' sent via tcp/ip by user 15
+
+Wed Aug 17 11:18:11 2016: Command 'moveto_mult -600 1 ' sent via tcp/ip by user 15
+
+Wed Aug 17 11:18:29 2016: Command 'moveto_mult -600 2 ' sent via tcp/ip by user 15
+
+Wed Aug 17 11:19:01 2016: Assigned socket id 17 to client with ip 127.0.0.1
+
+Wed Aug 17 11:19:03 2016: Command 'get_par 2' sent via tcp/ip by user 17
+
+Wed Aug 17 11:19:07 2016: Command 'set_par 2 240 240 1000 1000 12 1023' sent via tcp/ip by user 17
+
+Wed Aug 17 11:19:11 2016: Command 'get_mov_par 2' sent via tcp/ip by user 17
+
+Wed Aug 17 11:19:12 2016: Command 'get_mov_par 2' sent via tcp/ip by user 17
+
+Wed Aug 17 11:19:13 2016: Command 'check_position 2' sent via tcp/ip by user 17
+
+Wed Aug 17 11:19:13 2016: Command 'check_position 2' sent via tcp/ip by user 17
+
+Wed Aug 17 11:19:14 2016: Command 'check_position 2' sent via tcp/ip by user 17
+
+Wed Aug 17 11:19:14 2016: Command 'check_position 2' sent via tcp/ip by user 17
+
+Wed Aug 17 11:19:14 2016: Command 'check_position 2' sent via tcp/ip by user 17
+
+Wed Aug 17 11:19:14 2016: Command 'check_position 2' sent via tcp/ip by user 17
+
+Wed Aug 17 11:19:15 2016: Command 'check_position 2' sent via tcp/ip by user 17
+
+Wed Aug 17 11:19:15 2016: Command 'check_position 2' sent via tcp/ip by user 17
+
+Wed Aug 17 11:19:23 2016: Command 'move_to 2 0' sent via tcp/ip by user 17
+
+Wed Aug 17 11:19:25 2016: Command 'check_position 2' sent via tcp/ip by user 17
+
+Wed Aug 17 11:19:26 2016: Command 'check_position 2' sent via tcp/ip by user 17
+
+Wed Aug 17 11:19:26 2016: Command 'check_position 2' sent via tcp/ip by user 17
+
+Wed Aug 17 11:19:26 2016: Command 'check_position 2' sent via tcp/ip by user 17
+
+Wed Aug 17 11:19:26 2016: Command 'check_position 2' sent via tcp/ip by user 17
+
+Wed Aug 17 11:19:33 2016: Command 'check_position 2' sent via tcp/ip by user 17
+
+Wed Aug 17 11:19:33 2016: Command 'check_position 2' sent via tcp/ip by user 17
+
+Wed Aug 17 11:19:33 2016: Command 'check_position 2' sent via tcp/ip by user 17
+
+Wed Aug 17 11:19:34 2016: Command 'check_position 2' sent via tcp/ip by user 17
+
+Wed Aug 17 11:19:34 2016: Command 'check_position 2' sent via tcp/ip by user 17
+
+Wed Aug 17 11:19:46 2016: Command 'move_to 2 240' sent via tcp/ip by user 17
+
+Wed Aug 17 11:20:02 2016: Command 'set_par 2 240 240 1000 1000 12 0' sent via tcp/ip by user 17
+
+Wed Aug 17 11:20:09 2016: User with socket id 17 disconnected
+
+Wed Aug 17 11:20:29 2016: User with socket id 15 disconnected
+
+Wed Aug 17 11:23:18 2016: Assigned socket id 18 to client with ip 127.0.0.1
+
+Wed Aug 17 11:23:18 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 18
+
+Wed Aug 17 11:23:18 2016: User with socket id 18 disconnected
+
+Wed Aug 17 11:23:18 2016: Assigned socket id 19 to client with ip 127.0.0.1
+
+Wed Aug 17 11:23:18 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 19
+
+Wed Aug 17 11:23:18 2016: User with socket id 19 disconnected
+
+Wed Aug 17 11:23:18 2016: Assigned socket id 21 to client with ip 127.0.0.1
+
+Wed Aug 17 11:23:31 2016: User with socket id 21 disconnected
+
+################################################
+Thu Aug 18 15:06:22 2016: Welcome! CollSoft software start
+################################################
+
+Thu Aug 18 15:06:32 2016: Assigned socket id 7 to client with ip 127.0.0.1
+
+Thu Aug 18 15:06:32 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 7
+
+Thu Aug 18 15:06:32 2016: User with socket id 7 disconnected
+
+Thu Aug 18 15:06:32 2016: Assigned socket id 8 to client with ip 127.0.0.1
+
+Thu Aug 18 15:06:33 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 8
+
+Thu Aug 18 15:06:33 2016: User with socket id 8 disconnected
+
+Thu Aug 18 15:06:33 2016: Assigned socket id 9 to client with ip 127.0.0.1
+
+Thu Aug 18 15:07:46 2016: Command 'move_to 1 move_to 2 move_to 3 move_to 4 ��f{�����{�q��w�g�<(
+{�q��w�g�<(
+(
+�#E�h="���h}���$������e�Z����A#CC��.���2����gDN����?y��{'�_xT���#����#C^' sent via tcp/ip by user 9
+
+################################################
+Thu Aug 18 15:10:51 2016: Welcome! CollSoft software start
+################################################
+
+Thu Aug 18 15:11:06 2016: Assigned socket id 8 to client with ip 127.0.0.1
+
+Thu Aug 18 15:11:06 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 8
+
+Thu Aug 18 15:11:06 2016: User with socket id 8 disconnected
+
+Thu Aug 18 15:11:06 2016: Assigned socket id 10 to client with ip 127.0.0.1
+
+Thu Aug 18 15:11:07 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 10
+
+Thu Aug 18 15:11:07 2016: User with socket id 10 disconnected
+
+Thu Aug 18 15:11:07 2016: Assigned socket id 11 to client with ip 127.0.0.1
+
+Thu Aug 18 15:11:10 2016: Command 've_to 2 ve_to 3 ve_to 4 ve_to 5 q��w�g�<(
+
+E�h="���h}���$������e�Z����A#CC��.���2����gDN����?y��{'�_xT���#���$������e�Z����A#CC��.���2����gDN����?y��{'�_xT���#���#C^' sent via tcp/ip by user 11
+
+Thu Aug 18 15:11:13 2016: User with socket id 11 disconnected
+
+Thu Aug 18 15:15:36 2016: Assigned socket id 13 to client with ip 127.0.0.1
+
+Thu Aug 18 15:15:36 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 13
+
+Thu Aug 18 15:15:36 2016: User with socket id 13 disconnected
+
+Thu Aug 18 15:15:36 2016: Assigned socket id 14 to client with ip 127.0.0.1
+
+Thu Aug 18 15:15:37 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 14
+
+Thu Aug 18 15:15:37 2016: User with socket id 14 disconnected
+
+Thu Aug 18 15:15:37 2016: Assigned socket id 15 to client with ip 127.0.0.1
+
+Thu Aug 18 15:15:40 2016: Command 'move_to 1 move_to 2 move_to 3 move_to 4 ' sent via tcp/ip by user 15
+
+Thu Aug 18 15:15:40 2016: Command '��f{�����{�q��w�g�<(
+{�q��w�g�<(
+(
+�#E�h="���h}���$������e�Z����A#CC��.���2����gDN����?y��{'�_xT���#����#C^' sent via tcp/ip by user 15
+
+Thu Aug 18 15:15:43 2016: User with socket id 15 disconnected
+
+Thu Aug 18 15:18:00 2016: Assigned socket id 17 to client with ip 127.0.0.1
+
+Thu Aug 18 15:18:00 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 17
+
+Thu Aug 18 15:18:00 2016: User with socket id 17 disconnected
+
+Thu Aug 18 15:18:00 2016: Assigned socket id 18 to client with ip 127.0.0.1
+
+Thu Aug 18 15:18:01 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 18
+
+Thu Aug 18 15:18:01 2016: User with socket id 18 disconnected
+
+Thu Aug 18 15:18:01 2016: Assigned socket id 19 to client with ip 127.0.0.1
+
+Thu Aug 18 15:18:06 2016: Command 'move_to 1 move_to 2 move_to 3 move_to 4 ��f{�����{�q��w�g�<(
+{�q��w�g�<(
+(
+�#E�h="���h}���$������e�Z����A#CC��.���2����gDN����?y��{'�_xT���#�' sent via tcp/ip by user 19
+
+Thu Aug 18 15:18:06 2016: Command '���#' sent via tcp/ip by user 19
+
+Thu Aug 18 15:18:06 2016: Command 'C^' sent via tcp/ip by user 19
+
+Thu Aug 18 15:18:31 2016: User with socket id 19 disconnected
+
+Thu Aug 18 15:21:00 2016: Assigned socket id 21 to client with ip 127.0.0.1
+
+Thu Aug 18 15:21:00 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 21
+
+Thu Aug 18 15:21:00 2016: User with socket id 21 disconnected
+
+Thu Aug 18 15:21:00 2016: Assigned socket id 22 to client with ip 127.0.0.1
+
+Thu Aug 18 15:21:01 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 22
+
+Thu Aug 18 15:21:01 2016: User with socket id 22 disconnected
+
+Thu Aug 18 15:21:01 2016: Assigned socket id 23 to client with ip 127.0.0.1
+
+Thu Aug 18 15:21:07 2016: Command 'move_to 1 move_to 2 move_to 3 move_to 4 ��f{�����{�q��w�g�<(
+{�q��w�g�<(
+(
+' sent via tcp/ip by user 23
+
+Thu Aug 18 15:21:07 2016: Command '�#E�h="���h}���$������e�Z����A#CC��.���2����gDN����?y��{'�_xT���#�' sent via tcp/ip by user 23
+
+Thu Aug 18 15:21:07 2016: Command '���#' sent via tcp/ip by user 23
+
+Thu Aug 18 15:21:07 2016: Command 'C^' sent via tcp/ip by user 23
+
+Thu Aug 18 15:23:06 2016: User with socket id 23 disconnected
+
+Thu Aug 18 15:23:49 2016: Assigned socket id 25 to client with ip 127.0.0.1
+
+Thu Aug 18 15:23:49 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 25
+
+Thu Aug 18 15:23:49 2016: User with socket id 25 disconnected
+
+Thu Aug 18 15:23:49 2016: Assigned socket id 26 to client with ip 127.0.0.1
+
+Thu Aug 18 15:23:50 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 26
+
+Thu Aug 18 15:23:50 2016: User with socket id 26 disconnected
+
+Thu Aug 18 15:23:50 2016: Assigned socket id 27 to client with ip 127.0.0.1
+
+Thu Aug 18 15:23:59 2016: Command 'to 12 ' sent via tcp/ip by user 27
+
+Thu Aug 18 15:23:59 2016: Command 'ion procedure started from asymmetric movimentation tab...re started from asymmetric movimentation tab...from asymmetric movimentation tab...tric movimentation tab...ntation tab......tation procedure started from singular movimentation tab...dure started from singular movimentation tab... from singular movimentation tab...' sent via tcp/ip by user 27
+
+Thu Aug 18 15:27:19 2016: Assigned socket id 29 to client with ip 127.0.0.1
+
+Thu Aug 18 15:27:19 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 29
+
+Thu Aug 18 15:27:19 2016: User with socket id 29 disconnected
+
+Thu Aug 18 15:27:19 2016: Assigned socket id 30 to client with ip 127.0.0.1
+
+Thu Aug 18 15:27:20 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 30
+
+Thu Aug 18 15:27:20 2016: User with socket id 30 disconnected
+
+Thu Aug 18 15:27:20 2016: Assigned socket id 31 to client with ip 127.0.0.1
+
+Thu Aug 18 15:27:23 2016: Command 'move_to 1 ' sent via tcp/ip by user 31
+
+Thu Aug 18 15:27:27 2016: User with socket id 31 disconnected
+
+Thu Aug 18 15:28:55 2016: Assigned socket id 33 to client with ip 127.0.0.1
+
+Thu Aug 18 15:28:55 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 33
+
+Thu Aug 18 15:28:55 2016: User with socket id 33 disconnected
+
+Thu Aug 18 15:28:55 2016: Assigned socket id 34 to client with ip 127.0.0.1
+
+Thu Aug 18 15:28:56 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 34
+
+Thu Aug 18 15:28:56 2016: User with socket id 34 disconnected
+
+Thu Aug 18 15:28:56 2016: Assigned socket id 35 to client with ip 127.0.0.1
+
+Thu Aug 18 15:29:02 2016: Command 'move_to 1 0' sent via tcp/ip by user 35
+
+Thu Aug 18 15:29:14 2016: User with socket id 35 disconnected
+
+Thu Aug 18 15:29:14 2016: User with socket id 27 disconnected
+
+Thu Aug 18 15:30:26 2016: Assigned socket id 37 to client with ip 127.0.0.1
+
+Thu Aug 18 15:30:26 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 37
+
+Thu Aug 18 15:30:26 2016: User with socket id 37 disconnected
+
+Thu Aug 18 15:30:26 2016: Assigned socket id 38 to client with ip 127.0.0.1
+
+Thu Aug 18 15:30:27 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 38
+
+Thu Aug 18 15:30:27 2016: User with socket id 38 disconnected
+
+Thu Aug 18 15:30:27 2016: Assigned socket id 39 to client with ip 127.0.0.1
+
+Thu Aug 18 15:30:35 2016: Command 'move_to 1 0move_to 2 0move_to 3 0move_to 4 0' sent via tcp/ip by user 39
+
+Thu Aug 18 15:31:55 2016: User with socket id 39 disconnected
+
+Thu Aug 18 15:32:02 2016: Assigned socket id 41 to client with ip 127.0.0.1
+
+Thu Aug 18 15:32:02 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 41
+
+Thu Aug 18 15:32:02 2016: User with socket id 41 disconnected
+
+Thu Aug 18 15:32:02 2016: Assigned socket id 42 to client with ip 127.0.0.1
+
+Thu Aug 18 15:32:03 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 42
+
+Thu Aug 18 15:32:03 2016: User with socket id 42 disconnected
+
+Thu Aug 18 15:32:03 2016: Assigned socket id 43 to client with ip 127.0.0.1
+
+Thu Aug 18 15:32:10 2016: Command 'move_to 1 0move_to 2 0move_to 3 0move_to 4 0' sent via tcp/ip by user 43
+
+Thu Aug 18 15:32:36 2016: User with socket id 43 disconnected
+
+Thu Aug 18 15:40:50 2016: Assigned socket id 45 to client with ip 127.0.0.1
+
+Thu Aug 18 15:40:50 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 45
+
+Thu Aug 18 15:40:50 2016: User with socket id 45 disconnected
+
+Thu Aug 18 15:40:50 2016: Assigned socket id 46 to client with ip 127.0.0.1
+
+Thu Aug 18 15:40:51 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 46
+
+Thu Aug 18 15:40:51 2016: User with socket id 46 disconnected
+
+Thu Aug 18 15:40:51 2016: Assigned socket id 47 to client with ip 127.0.0.1
+
+Thu Aug 18 15:41:03 2016: Command 'move_to 1 0' sent via tcp/ip by user 47
+
+Thu Aug 18 15:41:03 2016: Command 'move_to 2 0move_to 3 0move_to 4 0' sent via tcp/ip by user 47
+
+Thu Aug 18 15:41:05 2016: User with socket id 47 disconnected
+
+Thu Aug 18 15:42:05 2016: Assigned socket id 49 to client with ip 127.0.0.1
+
+Thu Aug 18 15:42:05 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 49
+
+Thu Aug 18 15:42:05 2016: User with socket id 49 disconnected
+
+Thu Aug 18 15:42:05 2016: Assigned socket id 50 to client with ip 127.0.0.1
+
+Thu Aug 18 15:42:06 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 50
+
+Thu Aug 18 15:42:06 2016: User with socket id 50 disconnected
+
+Thu Aug 18 15:42:06 2016: Assigned socket id 51 to client with ip 127.0.0.1
+
+Thu Aug 18 15:42:18 2016: Command 'move_to 1 0' sent via tcp/ip by user 51
+
+Thu Aug 18 15:42:18 2016: Command 'move_to 2 0move_to 3 0move_to 4 0' sent via tcp/ip by user 51
+
+Thu Aug 18 15:42:35 2016: User with socket id 51 disconnected
+
+Thu Aug 18 15:46:26 2016: Assigned socket id 53 to client with ip 127.0.0.1
+
+Thu Aug 18 15:46:26 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 53
+
+Thu Aug 18 15:46:26 2016: User with socket id 53 disconnected
+
+Thu Aug 18 15:46:26 2016: Assigned socket id 54 to client with ip 127.0.0.1
+
+Thu Aug 18 15:46:27 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 54
+
+Thu Aug 18 15:46:27 2016: User with socket id 54 disconnected
+
+Thu Aug 18 15:46:27 2016: Assigned socket id 55 to client with ip 127.0.0.1
+
+Thu Aug 18 15:46:31 2016: Command 'move_to 1 0' sent via tcp/ip by user 55
+
+Thu Aug 18 15:46:31 2016: Command 'move_to 2 0' sent via tcp/ip by user 55
+
+Thu Aug 18 15:46:31 2016: Command 'move_to 3 0' sent via tcp/ip by user 55
+
+Thu Aug 18 15:46:31 2016: Command 'move_to 4 0' sent via tcp/ip by user 55
+
+Thu Aug 18 15:46:31 2016: Command 'move_to 5 270835' sent via tcp/ip by user 55
+
+Thu Aug 18 15:46:31 2016: Command 'move_to 6 270835' sent via tcp/ip by user 55
+
+Thu Aug 18 15:46:31 2016: Command 'move_to 7 270835' sent via tcp/ip by user 55
+
+Thu Aug 18 15:46:31 2016: Command 'move_to 8 270835' sent via tcp/ip by user 55
+
+Thu Aug 18 15:46:31 2016: Command 'move_to 9 812506' sent via tcp/ip by user 55
+
+Thu Aug 18 15:46:31 2016: Command 'move_to 10 812506' sent via tcp/ip by user 55
+
+Thu Aug 18 15:46:31 2016: Command 'move_to 11 812506' sent via tcp/ip by user 55
+
+Thu Aug 18 15:46:31 2016: Command 'move_to 12 812506' sent via tcp/ip by user 55
+
+Thu Aug 18 15:47:15 2016: User with socket id 55 disconnected
+
+################################################
+Wed Aug 24 11:11:30 2016: Welcome! CollSoft software start
+################################################
+
+Wed Aug 24 11:11:39 2016: Assigned socket id 7 to client with ip 127.0.0.1
+
+Wed Aug 24 11:11:41 2016: Command 'device_list' sent via tcp/ip by user 7
+
+Wed Aug 24 11:11:54 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 7
+
+Wed Aug 24 11:11:59 2016: Command 'get_mov_par 1' sent via tcp/ip by user 7
+
+Wed Aug 24 11:12:00 2016: Command 'get_par 1' sent via tcp/ip by user 7
+
+Wed Aug 24 11:12:02 2016: Command 'check_position 1' sent via tcp/ip by user 7
+
+Wed Aug 24 11:12:08 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 7
+
+Wed Aug 24 11:12:10 2016: Command 'check_position 1' sent via tcp/ip by user 7
+
+Wed Aug 24 11:12:13 2016: Command 'check_position 1' sent via tcp/ip by user 7
+
+Wed Aug 24 11:12:16 2016: User with socket id 7 disconnected
+
+Wed Aug 24 11:14:03 2016: Assigned socket id 8 to client with ip 127.0.0.1
+
+Wed Aug 24 11:14:03 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 8
+
+Wed Aug 24 11:14:03 2016: User with socket id 8 disconnected
+
+Wed Aug 24 11:14:03 2016: Assigned socket id 11 to client with ip 127.0.0.1
+
+Wed Aug 24 11:14:04 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 11
+
+Wed Aug 24 11:14:04 2016: User with socket id 11 disconnected
+
+Wed Aug 24 11:14:04 2016: Assigned socket id 13 to client with ip 127.0.0.1
+
+Wed Aug 24 11:14:13 2016: Command 'get_all_parameter' sent via tcp/ip by user 13
+
+Wed Aug 24 11:14:32 2016: User with socket id 13 disconnected
+
+################################################
+Wed Aug 24 14:45:49 2016: Welcome! CollSoft software start
+################################################
+
+Wed Aug 24 14:45:54 2016: Assigned socket id 7 to client with ip 127.0.0.1
+
+Wed Aug 24 14:46:02 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 7
+
+Wed Aug 24 14:46:08 2016: Command 'read_log' sent via tcp/ip by user 7
+
+Wed Aug 24 14:46:20 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 7
+
+Wed Aug 24 14:46:22 2016: Command 'read_log' sent via tcp/ip by user 7
+
+Wed Aug 24 14:46:33 2016: User with socket id 7 disconnected
+
+################################################
+Wed Aug 24 14:49:07 2016: Welcome! CollSoft software start
+################################################
+
+Wed Aug 24 14:49:12 2016: Assigned socket id 8 to client with ip 127.0.0.1
+
+Wed Aug 24 14:49:21 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 8
+
+Wed Aug 24 14:49:24 2016: Command 'read_log' sent via tcp/ip by user 8
+
+Wed Aug 24 14:49:35 2016: User with socket id 8 disconnected
+
+################################################
+Wed Aug 24 14:50:55 2016: Welcome! CollSoft software start
+################################################
+
+Wed Aug 24 14:50:59 2016: Assigned socket id 11 to client with ip 127.0.0.1
+
+Wed Aug 24 14:51:06 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 11
+
+Wed Aug 24 14:51:06 2016: Connecting to the programmer /dev/ttyUSB0
+Wed Aug 24 14:51:08 2016: User with socket id 11 disconnected
+
+################################################
+Wed Aug 24 14:57:48 2016: Welcome! CollSoft software start
+################################################
+
+Wed Aug 24 14:57:52 2016: Assigned socket id 13 to client with ip 127.0.0.1
+
+Wed Aug 24 14:57:59 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 13
+
+Wed Aug 24 14:57:59 2016: Connecting to the programmer /dev/ttyUSB0
+Wed Aug 24 14:58:03 2016: Command 'read_log' sent via tcp/ip by user 13
+
+Wed Aug 24 14:58:22 2016: User with socket id 13 disconnected
+
+Wed Aug 24 14:58:44 2016: Assigned socket id 12 to client with ip 127.0.0.1
+
+Wed Aug 24 14:58:52 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 12
+
+Wed Aug 24 14:58:52 2016: Connecting to the programmer /dev/ttyUSB0
+Wed Aug 24 14:58:55 2016: Command 'read_par_log' sent via tcp/ip by user 12
+
+Wed Aug 24 14:58:56 2016: Command 'read_par_log' sent via tcp/ip by user 12
+
+Wed Aug 24 14:58:57 2016: Command 'read_par_log' sent via tcp/ip by user 12
+
+Wed Aug 24 14:58:58 2016: Command 'read_log' sent via tcp/ip by user 12
+
+Wed Aug 24 14:59:01 2016: Command 'read_par_log' sent via tcp/ip by user 12
+
+Wed Aug 24 14:59:02 2016: Command 'read_par_log' sent via tcp/ip by user 12
+
+Wed Aug 24 14:59:02 2016: Command 'read_par_log' sent via tcp/ip by user 12
+
+Wed Aug 24 14:59:08 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 12
+
+Wed Aug 24 14:59:08 2016: Command 'check_internal_status' sent via tcp/ip by user 12
+
+Wed Aug 24 14:59:10 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 12
+
+Wed Aug 24 14:59:12 2016: Command 'Read_actual_encoder_values' sent via tcp/ip by user 12
+
+Wed Aug 24 14:59:15 2016: User with socket id 12 disconnected
+
+################################################
+Wed Aug 24 15:01:51 2016: Welcome! CollSoft software start
+################################################
+
+Wed Aug 24 15:01:56 2016: Assigned socket id 14 to client with ip 127.0.0.1
+
+Wed Aug 24 15:02:01 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 14
+
+Wed Aug 24 15:02:01 2016: Connecting to the programmer /dev/ttyUSB0
+
+Wed Aug 24 15:02:04 2016: Command 'read_log' sent via tcp/ip by user 14
+
+Wed Aug 24 15:02:16 2016: User with socket id 14 disconnected
+
+################################################
+Wed Aug 24 15:09:43 2016: Welcome! CollSoft software start
+################################################
+
+Wed Aug 24 15:09:47 2016: Assigned socket id 14 to client with ip 127.0.0.1
+
+Wed Aug 24 15:09:57 2016: Command 'read_par_log' sent via tcp/ip by user 14
+
+Wed Aug 24 15:09:59 2016: Command 'read_log' sent via tcp/ip by user 14
+
+Wed Aug 24 15:10:01 2016: Command 'read_log' sent via tcp/ip by user 14
+
+Wed Aug 24 15:10:03 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 14
+
+Wed Aug 24 15:10:04 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 14
+
+Wed Aug 24 15:10:05 2016: Command 'read_log' sent via tcp/ip by user 14
+
+Wed Aug 24 15:10:08 2016: Command 'read_encoder_log' sent via tcp/ip by user 14
+
+Wed Aug 24 15:10:09 2016: Command 'read_encoder_log' sent via tcp/ip by user 14
+
+Wed Aug 24 15:10:10 2016: Command 'read_encoder_log' sent via tcp/ip by user 14
+
+Wed Aug 24 15:10:11 2016: Command 'read_log' sent via tcp/ip by user 14
+
+Wed Aug 24 15:10:13 2016: Command 'read_par_log' sent via tcp/ip by user 14
+
+Wed Aug 24 15:10:13 2016: Command 'read_par_log' sent via tcp/ip by user 14
+
+Wed Aug 24 15:10:15 2016: Command 'read_serial_log' sent via tcp/ip by user 14
+
+Wed Aug 24 15:10:16 2016: Command 'read_serial_log' sent via tcp/ip by user 14
+
+Wed Aug 24 15:10:35 2016: Command 'Read_actual_encoder_values' sent via tcp/ip by user 14
+
+Wed Aug 24 15:10:38 2016: Command 'read_log' sent via tcp/ip by user 14
+
+Wed Aug 24 15:10:45 2016: Command 'read_serial_log' sent via tcp/ip by user 14
+
+Wed Aug 24 15:10:45 2016: Command 'read_serial_log' sent via tcp/ip by user 14
+
+Wed Aug 24 15:10:47 2016: Command 'read_serial_log' sent via tcp/ip by user 14
+
+Wed Aug 24 15:10:48 2016: Command 'read_serial_log' sent via tcp/ip by user 14
+
+Wed Aug 24 15:10:49 2016: Command 'read_serial_log' sent via tcp/ip by user 14
+
+Wed Aug 24 15:10:50 2016: Command 'read_serial_log' sent via tcp/ip by user 14
+
+Wed Aug 24 15:10:51 2016: Command 'read_serial_log' sent via tcp/ip by user 14
+
+Wed Aug 24 15:10:51 2016: Command 'read_serial_log' sent via tcp/ip by user 14
+
+Wed Aug 24 15:10:55 2016: Command 'read_serial_log' sent via tcp/ip by user 14
+
+Wed Aug 24 15:10:58 2016: Command 'read_serial_log' sent via tcp/ip by user 14
+
+Wed Aug 24 15:10:59 2016: Command 'read_serial_log' sent via tcp/ip by user 14
+
+Wed Aug 24 15:10:59 2016: Command 'read_serial_log' sent via tcp/ip by user 14
+
+Wed Aug 24 15:10:59 2016: Command 'read_serial_log' sent via tcp/ip by user 14
+
+Wed Aug 24 15:10:59 2016: Command 'read_serial_log' sent via tcp/ip by user 14
+
+Wed Aug 24 15:11:01 2016: Command 'read_serial_log' sent via tcp/ip by user 14
+
+Wed Aug 24 15:11:02 2016: Command 'read_serial_log' sent via tcp/ip by user 14
+
+Wed Aug 24 15:11:03 2016: Command 'read_serial_log' sent via tcp/ip by user 14
+
+Wed Aug 24 15:11:04 2016: Command 'read_serial_log' sent via tcp/ip by user 14
+
+Wed Aug 24 15:11:05 2016: Command 'read_serial_log' sent via tcp/ip by user 14
+
+Wed Aug 24 15:11:13 2016: User with socket id 14 disconnected
+
+################################################
+Wed Aug 24 15:21:02 2016: Welcome! CollSoft software start
+################################################
+
+Wed Aug 24 15:21:07 2016: Assigned socket id 14 to client with ip 127.0.0.1
+
+Wed Aug 24 15:21:15 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 14
+
+Wed Aug 24 15:21:15 2016 SourceCode/DriverFunction.c 62: Connecting to the programmer /dev/ttyUSB0
+
+Wed Aug 24 15:21:17 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 14
+
+Wed Aug 24 15:21:17 2016 SourceCode/DriverFunction.c 62: Connecting to the programmer /dev/ttyUSB0
+
+Wed Aug 24 15:21:25 2016: User with socket id 14 disconnected
+
+################################################
+Wed Aug 24 16:01:44 2016: Welcome! CollSoft software start
+################################################
+
+Wed Aug 24 16:02:07 2016: Assigned socket id 16 to client with ip 127.0.0.1
+
+Wed Aug 24 16:02:13 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 16
+
+Wed Aug 24 16:02:13 2016 SourceCode/DriverFunction.c 62: Connecting to the programmer /dev/ttyUSB0
+
+Wed Aug 24 16:02:13 2016 SourceCode/DriverFunction.c 91 Modbus connection success! 
+
+Wed Aug 24 16:02:13 2016 SourceCode/DriverFunction.c 96 Modbus set slave status: Success
+
+Wed Aug 24 16:02:14 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 16
+
+Wed Aug 24 16:02:14 2016 SourceCode/DriverFunction.c 62: Connecting to the programmer /dev/ttyUSB0
+
+Wed Aug 24 16:02:14 2016 SourceCode/DriverFunction.c 91 Modbus connection success! 
+
+Wed Aug 24 16:02:14 2016 SourceCode/DriverFunction.c 96 Modbus set slave status: Success
+
+Wed Aug 24 16:02:19 2016: Command 'check_drv_assoc' sent via tcp/ip by user 16
+
+Wed Aug 24 16:02:19 2016 SourceCode/DriverFunction.c 114: Reading serial number of driver number 0
+
+Wed Aug 24 16:02:19 2016 SourceCode/DriverFunction.c 149: Reading Serial Number DONE rc: 2 	 Serial Number content is: 14153591
+
+Wed Aug 24 16:02:19 2016 SourceCode/DriverFunction.c 114: Reading serial number of driver number 2
+
+Wed Aug 24 16:02:19 2016 SourceCode/DriverFunction.c 149: Reading Serial Number DONE rc: 2 	 Serial Number content is: 14153592
+
+Wed Aug 24 16:02:19 2016 SourceCode/DriverFunction.c 114: Reading serial number of driver number 2
+
+Wed Aug 24 16:02:19 2016 SourceCode/DriverFunction.c 139: Reading serial number failed: ReadSerialNumber	Connection timed out
+
+Wed Aug 24 16:02:19 2016 SourceCode/DriverFunction.c 114: Reading serial number of driver number -1
+
+Wed Aug 24 16:02:19 2016 SourceCode/DriverFunction.c 139: Reading serial number failed: ReadSerialNumber	Connection timed out
+
+Wed Aug 24 16:02:19 2016 SourceCode/DriverFunction.c 114: Reading serial number of driver number -1
+
+Wed Aug 24 16:02:19 2016 SourceCode/DriverFunction.c 139: Reading serial number failed: ReadSerialNumber	Connection timed out
+
+Wed Aug 24 16:02:19 2016 SourceCode/DriverFunction.c 114: Reading serial number of driver number -1
+
+Wed Aug 24 16:02:19 2016 SourceCode/DriverFunction.c 139: Reading serial number failed: ReadSerialNumber	Connection timed out
+
+Wed Aug 24 16:02:19 2016 SourceCode/DriverFunction.c 114: Reading serial number of driver number -1
+
+Wed Aug 24 16:02:19 2016 SourceCode/DriverFunction.c 139: Reading serial number failed: ReadSerialNumber	Connection timed out
+
+Wed Aug 24 16:02:19 2016 SourceCode/DriverFunction.c 114: Reading serial number of driver number -1
+
+Wed Aug 24 16:02:19 2016 SourceCode/DriverFunction.c 139: Reading serial number failed: ReadSerialNumber	Connection timed out
+
+Wed Aug 24 16:02:19 2016 SourceCode/DriverFunction.c 114: Reading serial number of driver number -1
+
+Wed Aug 24 16:02:19 2016 SourceCode/DriverFunction.c 139: Reading serial number failed: ReadSerialNumber	Connection timed out
+
+Wed Aug 24 16:02:19 2016 SourceCode/DriverFunction.c 114: Reading serial number of driver number -1
+
+Wed Aug 24 16:02:19 2016 SourceCode/DriverFunction.c 139: Reading serial number failed: ReadSerialNumber	Connection timed out
+
+Wed Aug 24 16:02:19 2016 SourceCode/DriverFunction.c 114: Reading serial number of driver number -1
+
+Wed Aug 24 16:02:19 2016 SourceCode/DriverFunction.c 139: Reading serial number failed: ReadSerialNumber	Connection timed out
+
+Wed Aug 24 16:02:19 2016 SourceCode/DriverFunction.c 114: Reading serial number of driver number -1
+
+Wed Aug 24 16:02:20 2016 SourceCode/DriverFunction.c 139: Reading serial number failed: ReadSerialNumber	Connection timed out
+
+Wed Aug 24 16:02:20 2016 SourceCode/DriverFunction.c 114: Reading serial number of driver number -1
+
+Wed Aug 24 16:02:20 2016 SourceCode/DriverFunction.c 139: Reading serial number failed: ReadSerialNumber	Connection timed out
+
+Wed Aug 24 16:02:20 2016 SourceCode/DriverFunction.c 114: Reading serial number of driver number -1
+
+Wed Aug 24 16:02:20 2016 SourceCode/DriverFunction.c 139: Reading serial number failed: ReadSerialNumber	Connection timed out
+
+
+Log 62 
+Date: Wed Aug 24 16:02:38 2016
+1	14153591
+2	14153592
+Wed Aug 24 16:02:43 2016: User with socket id 16 disconnected
+
+################################################
+Wed Aug 24 16:09:35 2016: Welcome! CollSoft software start
+################################################
+
+Wed Aug 24 16:09:40 2016: Assigned socket id 19 to client with ip 127.0.0.1
+
+Wed Aug 24 16:09:46 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 19
+
+Wed Aug 24 16:09:46 2016 SourceCode/DriverFunction.c 62: Connecting to the programmer /dev/ttyUSB0
+
+Wed Aug 24 16:09:46 2016 SourceCode/DriverFunction.c 91 Modbus connection success! 
+
+Wed Aug 24 16:09:46 2016 SourceCode/DriverFunction.c 96 Modbus set slave status: Success
+
+Wed Aug 24 16:09:47 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 19
+
+Wed Aug 24 16:09:47 2016 SourceCode/DriverFunction.c 62: Connecting to the programmer /dev/ttyUSB0
+
+Wed Aug 24 16:09:47 2016 SourceCode/DriverFunction.c 91 Modbus connection success! 
+
+Wed Aug 24 16:09:47 2016 SourceCode/DriverFunction.c 96 Modbus set slave status: Success
+
+Wed Aug 24 16:09:51 2016: Command 'check_drv_assoc' sent via tcp/ip by user 19
+
+Wed Aug 24 16:09:51 2016 SourceCode/DriverFunction.c 114: Reading serial number of driver number 0
+
+Wed Aug 24 16:09:51 2016 SourceCode/DriverFunction.c 149: Reading Serial Number DONE rc: 2 	 Serial Number content is: 14153591
+
+Wed Aug 24 16:09:51 2016 SourceCode/DriverFunction.c 114: Reading serial number of driver number 2
+
+Wed Aug 24 16:09:51 2016 SourceCode/DriverFunction.c 149: Reading Serial Number DONE rc: 2 	 Serial Number content is: 14153592
+
+Wed Aug 24 16:09:51 2016 SourceCode/DriverFunction.c 114: Reading serial number of driver number 2
+
+Wed Aug 24 16:09:51 2016 SourceCode/DriverFunction.c 139: Reading serial number failed: ReadSerialNumber	Connection timed out
+
+Wed Aug 24 16:09:51 2016 SourceCode/DriverFunction.c 114: Reading serial number of driver number -1
+
+Wed Aug 24 16:09:51 2016 SourceCode/DriverFunction.c 139: Reading serial number failed: ReadSerialNumber	Connection timed out
+
+Wed Aug 24 16:09:51 2016 SourceCode/DriverFunction.c 114: Reading serial number of driver number -1
+
+Wed Aug 24 16:09:51 2016 SourceCode/DriverFunction.c 139: Reading serial number failed: ReadSerialNumber	Connection timed out
+
+Wed Aug 24 16:09:51 2016 SourceCode/DriverFunction.c 114: Reading serial number of driver number -1
+
+Wed Aug 24 16:09:52 2016 SourceCode/DriverFunction.c 139: Reading serial number failed: ReadSerialNumber	Connection timed out
+
+Wed Aug 24 16:09:52 2016 SourceCode/DriverFunction.c 114: Reading serial number of driver number -1
+
+Wed Aug 24 16:09:52 2016 SourceCode/DriverFunction.c 139: Reading serial number failed: ReadSerialNumber	Connection timed out
+
+Wed Aug 24 16:09:52 2016 SourceCode/DriverFunction.c 114: Reading serial number of driver number -1
+
+Wed Aug 24 16:09:52 2016 SourceCode/DriverFunction.c 139: Reading serial number failed: ReadSerialNumber	Connection timed out
+
+Wed Aug 24 16:09:52 2016 SourceCode/DriverFunction.c 114: Reading serial number of driver number -1
+
+Wed Aug 24 16:09:52 2016 SourceCode/DriverFunction.c 139: Reading serial number failed: ReadSerialNumber	Connection timed out
+
+Wed Aug 24 16:09:52 2016 SourceCode/DriverFunction.c 114: Reading serial number of driver number -1
+
+Wed Aug 24 16:09:52 2016 SourceCode/DriverFunction.c 139: Reading serial number failed: ReadSerialNumber	Connection timed out
+
+Wed Aug 24 16:09:52 2016 SourceCode/DriverFunction.c 114: Reading serial number of driver number -1
+
+Wed Aug 24 16:09:52 2016 SourceCode/DriverFunction.c 139: Reading serial number failed: ReadSerialNumber	Connection timed out
+
+Wed Aug 24 16:09:52 2016 SourceCode/DriverFunction.c 114: Reading serial number of driver number -1
+
+Wed Aug 24 16:09:52 2016 SourceCode/DriverFunction.c 139: Reading serial number failed: ReadSerialNumber	Connection timed out
+
+Wed Aug 24 16:09:52 2016 SourceCode/DriverFunction.c 114: Reading serial number of driver number -1
+
+Wed Aug 24 16:09:52 2016 SourceCode/DriverFunction.c 139: Reading serial number failed: ReadSerialNumber	Connection timed out
+
+Wed Aug 24 16:09:52 2016 SourceCode/DriverFunction.c 114: Reading serial number of driver number -1
+
+Wed Aug 24 16:09:52 2016 SourceCode/DriverFunction.c 139: Reading serial number failed: ReadSerialNumber	Connection timed out
+
+Wed Aug 24 16:10:00 2016: Command 'read_serial_log' sent via tcp/ip by user 19
+
+Wed Aug 24 16:10:07 2016: Command 'read_serial_log' sent via tcp/ip by user 19
+
+Wed Aug 24 16:10:08 2016: Command 'read_serial_log' sent via tcp/ip by user 19
+
+Wed Aug 24 16:10:08 2016: Command 'read_serial_log' sent via tcp/ip by user 19
+
+Wed Aug 24 16:10:09 2016: Command 'read_serial_log' sent via tcp/ip by user 19
+
+Wed Aug 24 16:10:15 2016: User with socket id 19 disconnected
+
+################################################
+Wed Aug 24 16:11:55 2016: Welcome! CollSoft software start
+################################################
+
+Wed Aug 24 16:11:59 2016: Assigned socket id 19 to client with ip 127.0.0.1
+
+Wed Aug 24 16:12:05 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 19
+
+Wed Aug 24 16:12:05 2016 SourceCode/DriverFunction.c 62: Connecting to the programmer /dev/ttyUSB0
+
+Wed Aug 24 16:12:05 2016 SourceCode/DriverFunction.c 91 Modbus connection success! 
+
+Wed Aug 24 16:12:05 2016 SourceCode/DriverFunction.c 96 Modbus set slave status: Success
+
+Wed Aug 24 16:12:08 2016: Command 'check_drv_assoc' sent via tcp/ip by user 19
+
+Wed Aug 24 16:12:08 2016 SourceCode/DriverFunction.c 114: Reading serial number of driver number 0
+
+Wed Aug 24 16:12:08 2016 SourceCode/DriverFunction.c 149: Reading Serial Number DONE rc: 2 	 Serial Number content is: 14153591
+
+Wed Aug 24 16:12:08 2016 SourceCode/DriverFunction.c 114: Reading serial number of driver number 2
+
+Wed Aug 24 16:12:08 2016 SourceCode/DriverFunction.c 149: Reading Serial Number DONE rc: 2 	 Serial Number content is: 14153592
+
+Wed Aug 24 16:12:08 2016 SourceCode/DriverFunction.c 114: Reading serial number of driver number 2
+
+Wed Aug 24 16:12:08 2016 SourceCode/DriverFunction.c 139: Reading serial number failed: ReadSerialNumber	Connection timed out
+
+Wed Aug 24 16:12:08 2016 SourceCode/DriverFunction.c 114: Reading serial number of driver number -1
+
+Wed Aug 24 16:12:08 2016 SourceCode/DriverFunction.c 139: Reading serial number failed: ReadSerialNumber	Connection timed out
+
+Wed Aug 24 16:12:08 2016 SourceCode/DriverFunction.c 114: Reading serial number of driver number -1
+
+Wed Aug 24 16:12:08 2016 SourceCode/DriverFunction.c 139: Reading serial number failed: ReadSerialNumber	Connection timed out
+
+Wed Aug 24 16:12:08 2016 SourceCode/DriverFunction.c 114: Reading serial number of driver number -1
+
+Wed Aug 24 16:12:08 2016 SourceCode/DriverFunction.c 139: Reading serial number failed: ReadSerialNumber	Connection timed out
+
+Wed Aug 24 16:12:08 2016 SourceCode/DriverFunction.c 114: Reading serial number of driver number -1
+
+Wed Aug 24 16:12:08 2016 SourceCode/DriverFunction.c 139: Reading serial number failed: ReadSerialNumber	Connection timed out
+
+Wed Aug 24 16:12:08 2016 SourceCode/DriverFunction.c 114: Reading serial number of driver number -1
+
+Wed Aug 24 16:12:08 2016 SourceCode/DriverFunction.c 139: Reading serial number failed: ReadSerialNumber	Connection timed out
+
+Wed Aug 24 16:12:08 2016 SourceCode/DriverFunction.c 114: Reading serial number of driver number -1
+
+Wed Aug 24 16:12:08 2016 SourceCode/DriverFunction.c 139: Reading serial number failed: ReadSerialNumber	Connection timed out
+
+Wed Aug 24 16:12:08 2016 SourceCode/DriverFunction.c 114: Reading serial number of driver number -1
+
+Wed Aug 24 16:12:08 2016 SourceCode/DriverFunction.c 139: Reading serial number failed: ReadSerialNumber	Connection timed out
+
+Wed Aug 24 16:12:08 2016 SourceCode/DriverFunction.c 114: Reading serial number of driver number -1
+
+Wed Aug 24 16:12:08 2016 SourceCode/DriverFunction.c 139: Reading serial number failed: ReadSerialNumber	Connection timed out
+
+Wed Aug 24 16:12:08 2016 SourceCode/DriverFunction.c 114: Reading serial number of driver number -1
+
+Wed Aug 24 16:12:08 2016 SourceCode/DriverFunction.c 139: Reading serial number failed: ReadSerialNumber	Connection timed out
+
+Wed Aug 24 16:12:08 2016 SourceCode/DriverFunction.c 114: Reading serial number of driver number -1
+
+Wed Aug 24 16:12:09 2016 SourceCode/DriverFunction.c 139: Reading serial number failed: ReadSerialNumber	Connection timed out
+
+Wed Aug 24 16:12:09 2016 SourceCode/DriverFunction.c 114: Reading serial number of driver number -1
+
+Wed Aug 24 16:12:09 2016 SourceCode/DriverFunction.c 139: Reading serial number failed: ReadSerialNumber	Connection timed out
+
+
+Log 63 
+Date: Wed Aug 24 16:12:12 2016
+1	14153591
+2	14153592
+Wed Aug 24 16:12:13 2016: Command 'read_serial_log' sent via tcp/ip by user 19
+
+Wed Aug 24 16:12:14 2016: Command 'read_serial_log' sent via tcp/ip by user 19
+
+Wed Aug 24 16:12:16 2016: User with socket id 19 disconnected
+
+################################################
+Wed Aug 24 16:14:36 2016: Welcome! CollSoft software start
+################################################
+
+Wed Aug 24 16:14:40 2016: Assigned socket id 20 to client with ip 127.0.0.1
+
+Wed Aug 24 16:14:46 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 20
+
+Wed Aug 24 16:14:46 2016 SourceCode/DriverFunction.c 62: Connecting to the programmer /dev/ttyUSB0
+
+Wed Aug 24 16:14:46 2016 SourceCode/DriverFunction.c 91 Modbus connection success! 
+
+Wed Aug 24 16:14:46 2016 SourceCode/DriverFunction.c 96 Modbus set slave status: Success
+
+Wed Aug 24 16:14:49 2016: Command 'check_drv_assoc' sent via tcp/ip by user 20
+
+Wed Aug 24 16:14:49 2016 SourceCode/DriverFunction.c 114: Reading serial number of driver number 0
+
+Wed Aug 24 16:14:49 2016 SourceCode/DriverFunction.c 149: Reading Serial Number DONE rc: 2 	 Serial Number content is: 14153591
+
+Wed Aug 24 16:14:49 2016 SourceCode/DriverFunction.c 114: Reading serial number of driver number 2
+
+Wed Aug 24 16:14:49 2016 SourceCode/DriverFunction.c 149: Reading Serial Number DONE rc: 2 	 Serial Number content is: 14153592
+
+Wed Aug 24 16:14:49 2016 SourceCode/DriverFunction.c 114: Reading serial number of driver number 2
+
+Wed Aug 24 16:14:49 2016 SourceCode/DriverFunction.c 139: Reading serial number failed: ReadSerialNumber	Connection timed out
+
+Wed Aug 24 16:14:49 2016 SourceCode/DriverFunction.c 114: Reading serial number of driver number -1
+
+Wed Aug 24 16:14:49 2016 SourceCode/DriverFunction.c 139: Reading serial number failed: ReadSerialNumber	Connection timed out
+
+Wed Aug 24 16:14:49 2016 SourceCode/DriverFunction.c 114: Reading serial number of driver number -1
+
+Wed Aug 24 16:14:49 2016 SourceCode/DriverFunction.c 139: Reading serial number failed: ReadSerialNumber	Connection timed out
+
+Wed Aug 24 16:14:49 2016 SourceCode/DriverFunction.c 114: Reading serial number of driver number -1
+
+Wed Aug 24 16:14:49 2016 SourceCode/DriverFunction.c 139: Reading serial number failed: ReadSerialNumber	Connection timed out
+
+Wed Aug 24 16:14:49 2016 SourceCode/DriverFunction.c 114: Reading serial number of driver number -1
+
+Wed Aug 24 16:14:50 2016 SourceCode/DriverFunction.c 139: Reading serial number failed: ReadSerialNumber	Connection timed out
+
+Wed Aug 24 16:14:50 2016 SourceCode/DriverFunction.c 114: Reading serial number of driver number -1
+
+Wed Aug 24 16:14:50 2016 SourceCode/DriverFunction.c 139: Reading serial number failed: ReadSerialNumber	Connection timed out
+
+Wed Aug 24 16:14:50 2016 SourceCode/DriverFunction.c 114: Reading serial number of driver number -1
+
+Wed Aug 24 16:14:50 2016 SourceCode/DriverFunction.c 139: Reading serial number failed: ReadSerialNumber	Connection timed out
+
+Wed Aug 24 16:14:50 2016 SourceCode/DriverFunction.c 114: Reading serial number of driver number -1
+
+Wed Aug 24 16:14:50 2016 SourceCode/DriverFunction.c 139: Reading serial number failed: ReadSerialNumber	Connection timed out
+
+Wed Aug 24 16:14:50 2016 SourceCode/DriverFunction.c 114: Reading serial number of driver number -1
+
+Wed Aug 24 16:14:50 2016 SourceCode/DriverFunction.c 139: Reading serial number failed: ReadSerialNumber	Connection timed out
+
+Wed Aug 24 16:14:50 2016 SourceCode/DriverFunction.c 114: Reading serial number of driver number -1
+
+Wed Aug 24 16:14:50 2016 SourceCode/DriverFunction.c 139: Reading serial number failed: ReadSerialNumber	Connection timed out
+
+Wed Aug 24 16:14:50 2016 SourceCode/DriverFunction.c 114: Reading serial number of driver number -1
+
+Wed Aug 24 16:14:50 2016 SourceCode/DriverFunction.c 139: Reading serial number failed: ReadSerialNumber	Connection timed out
+
+Wed Aug 24 16:14:50 2016 SourceCode/DriverFunction.c 114: Reading serial number of driver number -1
+
+Wed Aug 24 16:14:50 2016 SourceCode/DriverFunction.c 139: Reading serial number failed: ReadSerialNumber	Connection timed out
+
+Wed Aug 24 16:14:53 2016: Command 'read_serial_log' sent via tcp/ip by user 20
+
+Wed Aug 24 16:14:56 2016: Command 'read_serial_log' sent via tcp/ip by user 20
+
+Wed Aug 24 16:15:02 2016: User with socket id 20 disconnected
+
+################################################
+Mon Aug 29 10:20:05 2016: Welcome! CollSoft software start
+################################################
+
+Mon Aug 29 10:20:08 2016: Assigned socket id 8 to client with ip 127.0.0.1
+
+Mon Aug 29 10:20:19 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 8
+
+Mon Aug 29 10:20:23 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 8
+
+Mon Aug 29 10:20:25 2016: Command 'Read_actual_encoder_values' sent via tcp/ip by user 8
+
+Mon Aug 29 10:20:29 2016: Command 'get_mov_par 1' sent via tcp/ip by user 8
+
+Mon Aug 29 10:20:36 2016: Command 'get_mov_par 1' sent via tcp/ip by user 8
+
+Mon Aug 29 10:20:47 2016: Command 'get_mov_par 1' sent via tcp/ip by user 8
+
+Mon Aug 29 10:20:51 2016: User with socket id 8 disconnected
+
+################################################
+Mon Aug 29 12:32:40 2016: Welcome! CollSoft software start
+################################################
+
+Mon Aug 29 12:32:47 2016: Assigned socket id 10 to client with ip 127.0.0.1
+
+Mon Aug 29 12:32:47 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 10
+
+Mon Aug 29 12:32:47 2016: User with socket id 10 disconnected
+
+Mon Aug 29 12:32:47 2016: Assigned socket id 11 to client with ip 127.0.0.1
+
+Mon Aug 29 12:32:47 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 11
+
+Mon Aug 29 12:32:48 2016: User with socket id 11 disconnected
+
+Mon Aug 29 12:32:48 2016: Assigned socket id 13 to client with ip 127.0.0.1
+
+Mon Aug 29 12:33:02 2016: Command 'move_to 1 128' sent via tcp/ip by user 13
+
+Mon Aug 29 12:33:03 2016: Command 'move_to 2 128' sent via tcp/ip by user 13
+
+Mon Aug 29 12:33:03 2016: Command 'move_to 3 128' sent via tcp/ip by user 13
+
+Mon Aug 29 12:33:04 2016: Command 'move_to 4 128' sent via tcp/ip by user 13
+
+Mon Aug 29 12:33:04 2016: Command 'move_to 5 128' sent via tcp/ip by user 13
+
+Mon Aug 29 12:33:04 2016: Command 'move_to 6 128' sent via tcp/ip by user 13
+
+Mon Aug 29 12:33:05 2016: Command 'move_to 7 128' sent via tcp/ip by user 13
+
+Mon Aug 29 12:33:05 2016: Command 'move_to 8 128' sent via tcp/ip by user 13
+
+Mon Aug 29 12:33:05 2016: Command 'move_to 9 128' sent via tcp/ip by user 13
+
+Mon Aug 29 12:33:06 2016: Command 'move_to 10 128' sent via tcp/ip by user 13
+
+Mon Aug 29 12:33:06 2016: Command 'move_to 11 128' sent via tcp/ip by user 13
+
+Mon Aug 29 12:33:06 2016: Command 'move_to 12 128' sent via tcp/ip by user 13
+
+Mon Aug 29 12:33:07 2016: Command 'move_to 13 128' sent via tcp/ip by user 13
+
+Mon Aug 29 12:33:07 2016: Command 'move_to 14 128' sent via tcp/ip by user 13
+
+Mon Aug 29 12:33:14 2016: Command 'get_all_parameter' sent via tcp/ip by user 13
+
+Mon Aug 29 12:33:35 2016: Command 'move_to 1 128' sent via tcp/ip by user 13
+
+Mon Aug 29 12:33:35 2016: Command 'move_to 2 128' sent via tcp/ip by user 13
+
+Mon Aug 29 12:33:35 2016: Command 'move_to 3 128' sent via tcp/ip by user 13
+
+Mon Aug 29 12:33:36 2016: Command 'move_to 4 128' sent via tcp/ip by user 13
+
+Mon Aug 29 12:33:36 2016: Command 'move_to 5 128' sent via tcp/ip by user 13
+
+Mon Aug 29 12:33:36 2016: Command 'move_to 6 128' sent via tcp/ip by user 13
+
+Mon Aug 29 12:33:37 2016: Command 'move_to 7 128' sent via tcp/ip by user 13
+
+Mon Aug 29 12:33:37 2016: Command 'move_to 8 128' sent via tcp/ip by user 13
+
+Mon Aug 29 12:33:37 2016: Command 'move_to 9 128' sent via tcp/ip by user 13
+
+Mon Aug 29 12:33:38 2016: Command 'move_to 10 128' sent via tcp/ip by user 13
+
+Mon Aug 29 12:33:38 2016: Command 'move_to 11 128' sent via tcp/ip by user 13
+
+Mon Aug 29 12:33:38 2016: Command 'move_to 12 128' sent via tcp/ip by user 13
+
+Mon Aug 29 12:33:39 2016: Command 'move_to 13 128' sent via tcp/ip by user 13
+
+Mon Aug 29 12:33:39 2016: Command 'move_to 14 128' sent via tcp/ip by user 13
+
+Mon Aug 29 12:33:41 2016: Command 'get_all_parameter' sent via tcp/ip by user 13
+
+Mon Aug 29 12:33:44 2016: User with socket id 13 disconnected
+
+################################################
+Tue Aug 30 10:00:33 2016: Welcome! CollSoft software start
+################################################
+
+Tue Aug 30 10:00:37 2016: Assigned socket id 8 to client with ip 127.0.0.1
+
+Tue Aug 30 10:00:43 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 8
+
+Tue Aug 30 10:00:47 2016: Command 'get_par 1' sent via tcp/ip by user 8
+
+Tue Aug 30 10:00:50 2016: Command 'get_mov_par 1' sent via tcp/ip by user 8
+
+Tue Aug 30 10:00:55 2016: Command 'get_mov_par 1' sent via tcp/ip by user 8
+
+Tue Aug 30 10:00:56 2016: Command 'get_mov_par 1' sent via tcp/ip by user 8
+
+Tue Aug 30 10:01:05 2016: Command 'move_to 1 -320' sent via tcp/ip by user 8
+
+Tue Aug 30 10:01:15 2016: User with socket id 8 disconnected
+
+################################################
+Tue Aug 30 11:52:49 2016: Welcome! CollSoft software start
+################################################
+
+Tue Aug 30 11:52:53 2016: Assigned socket id 6 to client with ip 127.0.0.1
+
+Tue Aug 30 11:52:54 2016: Command 'device_list' sent via tcp/ip by user 6
+
+Tue Aug 30 11:53:04 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 6
+
+Tue Aug 30 11:53:12 2016: Command 'get_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:53:17 2016: Command 'set_par 2 240 240 1000 1000 12 1023' sent via tcp/ip by user 6
+
+Tue Aug 30 11:53:19 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:53:21 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:53:21 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:53:22 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:53:22 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:53:23 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:53:26 2016: Command 'check_position 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:53:35 2016: Command 'move_to 2 -100' sent via tcp/ip by user 6
+
+Tue Aug 30 11:53:47 2016: Command 'move_to 2 100' sent via tcp/ip by user 6
+
+Tue Aug 30 11:53:55 2016: Command 'move_to 2 640' sent via tcp/ip by user 6
+
+Tue Aug 30 11:53:59 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:54:02 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:54:03 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:54:20 2016: Command 'move_to 2 640' sent via tcp/ip by user 6
+
+Tue Aug 30 11:54:25 2016: Command 'move_to 2 1000' sent via tcp/ip by user 6
+
+Tue Aug 30 11:54:31 2016: Command 'get_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:54:51 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:54:52 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:54:52 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:54:52 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:54:52 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:54:59 2016: Command 'homing 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:55:05 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:55:07 2016: Command 'move_to 2 1000' sent via tcp/ip by user 6
+
+Tue Aug 30 11:55:08 2016: Command 'move_to 2 1000' sent via tcp/ip by user 6
+
+Tue Aug 30 11:55:09 2016: Command 'move_to 2 1000' sent via tcp/ip by user 6
+
+Tue Aug 30 11:55:23 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:55:24 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:55:24 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:55:24 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:55:26 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:55:27 2016: Command 'move_to 2 1000' sent via tcp/ip by user 6
+
+Tue Aug 30 11:55:32 2016: Command 'move_to 2 2000' sent via tcp/ip by user 6
+
+Tue Aug 30 11:55:49 2016: Command 'move_to 2 3000' sent via tcp/ip by user 6
+
+Tue Aug 30 11:56:10 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:56:13 2016: Command 'move_to 2 0' sent via tcp/ip by user 6
+
+Tue Aug 30 11:56:16 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:56:16 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:56:22 2016: Command 'move_to 2 -2000' sent via tcp/ip by user 6
+
+Tue Aug 30 11:56:25 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:56:25 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:56:26 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:56:26 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:56:33 2016: Command 'move_to 2 -25600' sent via tcp/ip by user 6
+
+Tue Aug 30 11:56:36 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:56:37 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:56:37 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:56:48 2016: Command 'move_to 2 -51200' sent via tcp/ip by user 6
+
+Tue Aug 30 11:56:51 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:56:52 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:56:53 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:56:57 2016: Command 'move_to 2 0' sent via tcp/ip by user 6
+
+Tue Aug 30 11:57:02 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:57:02 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:57:02 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:57:02 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:57:02 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:57:02 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:57:03 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:57:03 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:57:04 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:57:04 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:57:04 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:57:08 2016: Command 'get_par 1' sent via tcp/ip by user 6
+
+Tue Aug 30 11:57:10 2016: Command 'get_mov_par 1' sent via tcp/ip by user 6
+
+Tue Aug 30 11:57:27 2016: Command 'Read_actual_encoder_values' sent via tcp/ip by user 6
+
+Tue Aug 30 11:57:31 2016: Command 'check_encode_assoc' sent via tcp/ip by user 6
+
+Tue Aug 30 11:58:19 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:58:21 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:58:21 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:58:21 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:58:21 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:58:21 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:58:22 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:58:22 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:58:26 2016: Command 'check_position 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:58:30 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 6
+
+Tue Aug 30 11:58:32 2016: Command 'check_position 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:58:34 2016: Command 'move_to 2 0' sent via tcp/ip by user 6
+
+Tue Aug 30 11:58:39 2016: Command 'check_position 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:58:40 2016: Command 'check_position 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:58:40 2016: Command 'check_position 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:58:40 2016: Command 'check_position 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:58:41 2016: Command 'check_position 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:58:41 2016: Command 'check_position 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:58:53 2016: Command 'move_to 2 -25600' sent via tcp/ip by user 6
+
+Tue Aug 30 11:58:56 2016: Command 'check_position 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:58:56 2016: Command 'check_position 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:58:57 2016: Command 'check_position 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:58:57 2016: Command 'check_position 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:58:57 2016: Command 'check_position 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:58:57 2016: Command 'check_position 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:58:57 2016: Command 'check_position 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:59:20 2016: Command 'move_to 2 -51200' sent via tcp/ip by user 6
+
+Tue Aug 30 11:59:22 2016: Command 'check_position 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:59:23 2016: Command 'check_position 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:59:23 2016: Command 'check_position 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:59:24 2016: Command 'check_position 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:59:25 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:59:33 2016: Command 'move_to 2 -25600' sent via tcp/ip by user 6
+
+Tue Aug 30 11:59:35 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:59:36 2016: Command 'check_position 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:59:37 2016: Command 'move_to 2 -25600' sent via tcp/ip by user 6
+
+Tue Aug 30 11:59:39 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:59:39 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:59:40 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:59:40 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:59:40 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:59:41 2016: Command 'check_position 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:59:45 2016: Command 'check_position 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:59:45 2016: Command 'check_position 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:59:45 2016: Command 'check_position 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:59:50 2016: Command 'move_to 2 -25600' sent via tcp/ip by user 6
+
+Tue Aug 30 11:59:55 2016: Command 'move_to 2 -51200' sent via tcp/ip by user 6
+
+Tue Aug 30 11:59:58 2016: Command 'check_position 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:59:59 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:59:59 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 11:59:59 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 12:00:06 2016: Command 'move_to 2 -25600' sent via tcp/ip by user 6
+
+Tue Aug 30 12:00:09 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 12:00:09 2016: Command 'check_position 2' sent via tcp/ip by user 6
+
+Tue Aug 30 12:00:10 2016: Command 'move_to 2 -25600' sent via tcp/ip by user 6
+
+Tue Aug 30 12:00:12 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 12:00:13 2016: Command 'check_position 2' sent via tcp/ip by user 6
+
+Tue Aug 30 12:00:14 2016: Command 'check_position 2' sent via tcp/ip by user 6
+
+Tue Aug 30 12:00:14 2016: Command 'check_position 2' sent via tcp/ip by user 6
+
+Tue Aug 30 12:00:14 2016: Command 'check_position 2' sent via tcp/ip by user 6
+
+Tue Aug 30 12:00:19 2016: Command 'move_to 2 -51200' sent via tcp/ip by user 6
+
+Tue Aug 30 12:00:22 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 12:00:22 2016: Command 'check_position 2' sent via tcp/ip by user 6
+
+Tue Aug 30 12:00:36 2016: Command 'move_to 2 -76800' sent via tcp/ip by user 6
+
+Tue Aug 30 12:00:38 2016: Command 'check_position 2' sent via tcp/ip by user 6
+
+Tue Aug 30 12:00:40 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 12:00:44 2016: Command 'move_to 2 -51200' sent via tcp/ip by user 6
+
+Tue Aug 30 12:00:46 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 12:00:46 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 12:00:46 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 12:00:46 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 12:00:47 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 12:00:47 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 12:00:47 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 12:00:47 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 12:00:48 2016: Command 'check_position 2' sent via tcp/ip by user 6
+
+Tue Aug 30 12:00:51 2016: Command 'check_position 2' sent via tcp/ip by user 6
+
+Tue Aug 30 12:00:51 2016: Command 'check_position 2' sent via tcp/ip by user 6
+
+Tue Aug 30 12:00:51 2016: Command 'check_position 2' sent via tcp/ip by user 6
+
+Tue Aug 30 12:00:52 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 12:00:52 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 12:00:52 2016: Command 'get_mov_par 2' sent via tcp/ip by user 6
+
+Tue Aug 30 12:01:27 2016: User with socket id 6 disconnected
+
+################################################
+Tue Aug 30 12:03:13 2016: Welcome! CollSoft software start
+################################################
+
+Tue Aug 30 12:03:18 2016: Assigned socket id 8 to client with ip 127.0.0.1
+
+Tue Aug 30 12:03:18 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 8
+
+Tue Aug 30 12:03:18 2016: User with socket id 8 disconnected
+
+Tue Aug 30 12:03:18 2016: Assigned socket id 9 to client with ip 127.0.0.1
+
+Tue Aug 30 12:03:19 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 9
+
+Tue Aug 30 12:03:19 2016: User with socket id 9 disconnected
+
+Tue Aug 30 12:03:19 2016: Assigned socket id 10 to client with ip 127.0.0.1
+
+Tue Aug 30 12:03:40 2016: Command 'move_to 1 12800' sent via tcp/ip by user 10
+
+Tue Aug 30 12:03:40 2016: Command 'move_to 2 12800' sent via tcp/ip by user 10
+
+Tue Aug 30 12:03:40 2016: Command 'move_to 3 12800' sent via tcp/ip by user 10
+
+Tue Aug 30 12:03:40 2016: Command 'move_to 4 12800' sent via tcp/ip by user 10
+
+Tue Aug 30 12:03:40 2016: Command 'move_to 5 283635' sent via tcp/ip by user 10
+
+Tue Aug 30 12:03:40 2016: Command 'move_to 6 283635' sent via tcp/ip by user 10
+
+Tue Aug 30 12:03:40 2016: Command 'move_to 7 283635' sent via tcp/ip by user 10
+
+Tue Aug 30 12:03:40 2016: Command 'move_to 8 283635' sent via tcp/ip by user 10
+
+Tue Aug 30 12:03:40 2016: Command 'move_to 9 825306' sent via tcp/ip by user 10
+
+Tue Aug 30 12:03:40 2016: Command 'move_to 10 825306' sent via tcp/ip by user 10
+
+Tue Aug 30 12:03:40 2016: Command 'move_to 11 825306' sent via tcp/ip by user 10
+
+Tue Aug 30 12:03:40 2016: Command 'move_to 12 825306' sent via tcp/ip by user 10
+
+Tue Aug 30 12:04:31 2016: User with socket id 10 disconnected
+
+Tue Aug 30 14:26:18 2016: Assigned socket id 12 to client with ip 127.0.0.1
+
+Tue Aug 30 14:26:21 2016: Command 'device_list' sent via tcp/ip by user 12
+
+Tue Aug 30 14:26:29 2016: Command 'read_serial_log' sent via tcp/ip by user 12
+
+Tue Aug 30 14:26:30 2016: Command 'read_serial_log' sent via tcp/ip by user 12
+
+Tue Aug 30 14:26:31 2016: Command 'read_serial_log' sent via tcp/ip by user 12
+
+Tue Aug 30 14:26:31 2016: Command 'read_serial_log' sent via tcp/ip by user 12
+
+Tue Aug 30 14:26:31 2016: Command 'read_serial_log' sent via tcp/ip by user 12
+
+Tue Aug 30 14:26:32 2016: Command 'read_serial_log' sent via tcp/ip by user 12
+
+Tue Aug 30 14:26:33 2016: Command 'read_par_log' sent via tcp/ip by user 12
+
+Tue Aug 30 14:26:34 2016: Command 'read_par_log' sent via tcp/ip by user 12
+
+Tue Aug 30 14:26:34 2016: Command 'read_par_log' sent via tcp/ip by user 12
+
+Tue Aug 30 14:26:34 2016: Command 'read_par_log' sent via tcp/ip by user 12
+
+Tue Aug 30 14:26:35 2016: Command 'read_par_log' sent via tcp/ip by user 12
+
+Tue Aug 30 14:26:35 2016: Command 'read_par_log' sent via tcp/ip by user 12
+
+Tue Aug 30 14:26:35 2016: Command 'read_par_log' sent via tcp/ip by user 12
+
+Tue Aug 30 14:26:36 2016: Command 'read_par_log' sent via tcp/ip by user 12
+
+Tue Aug 30 14:26:36 2016: Command 'read_par_log' sent via tcp/ip by user 12
+
+Tue Aug 30 14:26:38 2016: Command 'read_log' sent via tcp/ip by user 12
+
+Tue Aug 30 14:26:40 2016: Command 'read_log' sent via tcp/ip by user 12
+
+Tue Aug 30 14:26:43 2016: Command 'read_serial_log' sent via tcp/ip by user 12
+
+Tue Aug 30 14:26:44 2016: Command 'read_serial_log' sent via tcp/ip by user 12
+
+Tue Aug 30 14:26:45 2016: Command 'read_serial_log' sent via tcp/ip by user 12
+
+Tue Aug 30 14:26:45 2016: Command 'read_serial_log' sent via tcp/ip by user 12
+
+Tue Aug 30 14:26:45 2016: Command 'read_serial_log' sent via tcp/ip by user 12
+
+Tue Aug 30 14:26:45 2016: Command 'read_serial_log' sent via tcp/ip by user 12
+
+Tue Aug 30 14:26:46 2016: Command 'read_par_log' sent via tcp/ip by user 12
+
+Tue Aug 30 14:26:47 2016: Command 'read_par_log' sent via tcp/ip by user 12
+
+Tue Aug 30 14:26:48 2016: Command 'read_par_log' sent via tcp/ip by user 12
+
+Tue Aug 30 14:26:50 2016: User with socket id 12 disconnected
+
+Tue Aug 30 14:44:49 2016: Assigned socket id 13 to client with ip 127.0.0.1
+
+Tue Aug 30 14:44:51 2016: Command 'device_list' sent via tcp/ip by user 13
+
+Tue Aug 30 14:45:01 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 13
+
+Tue Aug 30 14:45:07 2016: Command 'get_par 1' sent via tcp/ip by user 13
+
+Tue Aug 30 14:45:10 2016: Command 'get_mov_par 1' sent via tcp/ip by user 13
+
+Tue Aug 30 14:45:11 2016: Command 'get_mov_par 1' sent via tcp/ip by user 13
+
+Tue Aug 30 14:45:11 2016: Command 'get_mov_par 1' sent via tcp/ip by user 13
+
+Tue Aug 30 14:45:11 2016: Command 'get_mov_par 1' sent via tcp/ip by user 13
+
+Tue Aug 30 14:45:12 2016: Command 'get_mov_par 1' sent via tcp/ip by user 13
+
+Tue Aug 30 14:45:12 2016: Command 'get_mov_par 1' sent via tcp/ip by user 13
+
+Tue Aug 30 14:45:14 2016: Command 'check_position 1' sent via tcp/ip by user 13
+
+Tue Aug 30 14:45:15 2016: Command 'check_position 1' sent via tcp/ip by user 13
+
+Tue Aug 30 14:45:15 2016: Command 'check_position 1' sent via tcp/ip by user 13
+
+Tue Aug 30 14:45:15 2016: Command 'check_position 1' sent via tcp/ip by user 13
+
+Tue Aug 30 14:45:28 2016: Command 'move_to 1 -25600' sent via tcp/ip by user 13
+
+Tue Aug 30 14:45:37 2016: User with socket id 13 disconnected
+
+Tue Aug 30 14:49:39 2016: Assigned socket id 14 to client with ip 127.0.0.1
+
+Tue Aug 30 14:49:40 2016: Command 'device_list' sent via tcp/ip by user 14
+
+Tue Aug 30 14:49:47 2016: Command 'connect /dev/ttyUSB1' sent via tcp/ip by user 14
+
+Tue Aug 30 14:49:49 2016: Command 'connect /dev/ttyUSB1' sent via tcp/ip by user 14
+
+Tue Aug 30 14:49:57 2016: Command 'get_par 1' sent via tcp/ip by user 14
+
+Tue Aug 30 14:49:59 2016: Command 'get_par 1' sent via tcp/ip by user 14
+
+Tue Aug 30 14:50:05 2016: Command 'get_par 1' sent via tcp/ip by user 14
+
+Tue Aug 30 14:50:09 2016: Command 'get_mov_par 1' sent via tcp/ip by user 14
+
+Tue Aug 30 14:50:09 2016: Command 'get_mov_par 1' sent via tcp/ip by user 14
+
+Tue Aug 30 14:50:16 2016: Command 'move_to 1 -25600' sent via tcp/ip by user 14
+
+Tue Aug 30 14:50:18 2016: Command 'move_to 1 -25600' sent via tcp/ip by user 14
+
+Tue Aug 30 14:50:25 2016: User with socket id 14 disconnected
+
+################################################
+Tue Aug 30 15:13:57 2016: Welcome! CollSoft software start
+################################################
+
+Tue Aug 30 15:14:01 2016: Assigned socket id 9 to client with ip 127.0.0.1
+
+Tue Aug 30 15:14:02 2016: Command 'device_list' sent via tcp/ip by user 9
+
+Tue Aug 30 15:14:09 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 9
+
+Tue Aug 30 15:14:12 2016: Command 'get_par 1' sent via tcp/ip by user 9
+
+Tue Aug 30 15:14:14 2016: Command 'get_mov_par 1' sent via tcp/ip by user 9
+
+Tue Aug 30 15:14:17 2016: Command 'get_par 2' sent via tcp/ip by user 9
+
+Tue Aug 30 15:14:21 2016: Command 'set_par 2 240 240 1000 1000 12 1023' sent via tcp/ip by user 9
+
+Tue Aug 30 15:14:23 2016: Command 'get_mov_par 2' sent via tcp/ip by user 9
+
+Tue Aug 30 15:14:25 2016: Command 'check_position 2' sent via tcp/ip by user 9
+
+Tue Aug 30 15:14:28 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 9
+
+Tue Aug 30 15:14:31 2016: Command 'check_position 2' sent via tcp/ip by user 9
+
+Tue Aug 30 15:14:33 2016: Command 'check_position 2' sent via tcp/ip by user 9
+
+Tue Aug 30 15:14:33 2016: Command 'check_position 2' sent via tcp/ip by user 9
+
+Tue Aug 30 15:14:33 2016: Command 'check_position 2' sent via tcp/ip by user 9
+
+Tue Aug 30 15:14:33 2016: Command 'check_position 2' sent via tcp/ip by user 9
+
+Tue Aug 30 15:14:34 2016: Command 'check_position 2' sent via tcp/ip by user 9
+
+Tue Aug 30 15:14:34 2016: Command 'check_position 2' sent via tcp/ip by user 9
+
+Tue Aug 30 15:14:34 2016: Command 'check_position 2' sent via tcp/ip by user 9
+
+Tue Aug 30 15:14:34 2016: Command 'check_position 2' sent via tcp/ip by user 9
+
+Tue Aug 30 15:14:34 2016: Command 'check_position 2' sent via tcp/ip by user 9
+
+Tue Aug 30 15:14:35 2016: Command 'check_position 2' sent via tcp/ip by user 9
+
+Tue Aug 30 15:14:35 2016: Command 'check_position 2' sent via tcp/ip by user 9
+
+Tue Aug 30 15:14:37 2016: Command 'check_position 2' sent via tcp/ip by user 9
+
+Tue Aug 30 15:14:42 2016: Command 'get_mov_par 2' sent via tcp/ip by user 9
+
+Tue Aug 30 15:15:03 2016: Command 'check_position 2' sent via tcp/ip by user 9
+
+Tue Aug 30 15:15:14 2016: Command 'move_to 2 -25600' sent via tcp/ip by user 9
+
+Tue Aug 30 15:15:19 2016: Command 'get_mov_par 2' sent via tcp/ip by user 9
+
+Tue Aug 30 15:15:20 2016: Command 'check_position 2' sent via tcp/ip by user 9
+
+Tue Aug 30 15:15:21 2016: Command 'check_position 2' sent via tcp/ip by user 9
+
+Tue Aug 30 15:15:21 2016: Command 'check_position 2' sent via tcp/ip by user 9
+
+Tue Aug 30 15:15:21 2016: Command 'check_position 2' sent via tcp/ip by user 9
+
+Tue Aug 30 15:15:21 2016: Command 'check_position 2' sent via tcp/ip by user 9
+
+Tue Aug 30 15:16:21 2016: User with socket id 9 disconnected
+
+################################################
+Mon Sep  5 14:28:23 2016: Welcome! CollSoft software start
+################################################
+
+Mon Sep  5 14:28:27 2016: Assigned socket id 7 to client with ip 127.0.0.1
+
+Mon Sep  5 14:28:36 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 7
+
+Mon Sep  5 14:28:38 2016: Command 'device_list' sent via tcp/ip by user 7
+
+Mon Sep  5 14:28:47 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 7
+
+Mon Sep  5 14:28:49 2016: User with socket id 7 disconnected
+
+Mon Sep  5 14:31:23 2016: Assigned socket id 8 to client with ip 127.0.0.1
+
+Mon Sep  5 14:31:23 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 8
+
+Mon Sep  5 14:31:23 2016: User with socket id 8 disconnected
+
+Mon Sep  5 14:31:23 2016: Assigned socket id 11 to client with ip 127.0.0.1
+
+Mon Sep  5 14:31:24 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 11
+
+Mon Sep  5 14:31:24 2016: User with socket id 11 disconnected
+
+Mon Sep  5 14:31:24 2016: Assigned socket id 13 to client with ip 127.0.0.1
+
+Mon Sep  5 14:31:47 2016: Command 'move_to 1 ' sent via tcp/ip by user 13
+
+Mon Sep  5 14:31:47 2016: Command '2714move_to 2 ' sent via tcp/ip by user 13
+
+Mon Sep  5 14:31:47 2016: Command '2714move_to 3 ' sent via tcp/ip by user 13
+
+Mon Sep  5 14:31:47 2016: Command '2714move_to 4 ' sent via tcp/ip by user 13
+
+Mon Sep  5 14:31:47 2016: Command '2714move_to 5 ' sent via tcp/ip by user 13
+
+Mon Sep  5 14:31:47 2016: Command '2714move_to 6 ' sent via tcp/ip by user 13
+
+Mon Sep  5 14:31:47 2016: Command '2714move_to 7 ' sent via tcp/ip by user 13
+
+Mon Sep  5 14:31:48 2016: Command '2714move_to 8 ' sent via tcp/ip by user 13
+
+Mon Sep  5 14:31:48 2016: Command '2714move_to 9 ' sent via tcp/ip by user 13
+
+Mon Sep  5 14:31:48 2016: Command '2714move_to 10 ' sent via tcp/ip by user 13
+
+Mon Sep  5 14:31:48 2016: Command '2714move_to 11 ' sent via tcp/ip by user 13
+
+Mon Sep  5 14:31:48 2016: Command '2714move_to 12 ' sent via tcp/ip by user 13
+
+Mon Sep  5 14:31:48 2016: Command '2714move_to 13 ' sent via tcp/ip by user 13
+
+Mon Sep  5 14:31:48 2016: Command '2714move_to 14 ' sent via tcp/ip by user 13
+
+Mon Sep  5 14:31:48 2016: Command '2714' sent via tcp/ip by user 13
+
+Mon Sep  5 14:31:53 2016: User with socket id 13 disconnected
+
+Mon Sep  5 14:34:02 2016: Assigned socket id 15 to client with ip 127.0.0.1
+
+Mon Sep  5 14:34:02 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 15
+
+Mon Sep  5 14:34:02 2016: User with socket id 15 disconnected
+
+Mon Sep  5 14:34:02 2016: Assigned socket id 16 to client with ip 127.0.0.1
+
+Mon Sep  5 14:34:02 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 16
+
+Mon Sep  5 14:34:02 2016: User with socket id 16 disconnected
+
+Mon Sep  5 14:34:02 2016: Assigned socket id 18 to client with ip 127.0.0.1
+
+Mon Sep  5 14:34:25 2016: Command 'move_to 1 1549' sent via tcp/ip by user 18
+
+Mon Sep  5 14:34:26 2016: Command 'move_to 2 1549' sent via tcp/ip by user 18
+
+Mon Sep  5 14:34:26 2016: Command 'move_to 3 1549' sent via tcp/ip by user 18
+
+Mon Sep  5 14:34:26 2016: Command 'move_to 4 1549' sent via tcp/ip by user 18
+
+Mon Sep  5 14:34:27 2016: Command 'move_to 5 1549' sent via tcp/ip by user 18
+
+Mon Sep  5 14:34:27 2016: Command 'move_to 6 1549' sent via tcp/ip by user 18
+
+Mon Sep  5 14:34:27 2016: Command 'move_to 7 1549' sent via tcp/ip by user 18
+
+Mon Sep  5 14:34:28 2016: Command 'move_to 8 1549' sent via tcp/ip by user 18
+
+Mon Sep  5 14:34:28 2016: Command 'move_to 9 1549' sent via tcp/ip by user 18
+
+Mon Sep  5 14:34:28 2016: Command 'move_to 10 1549' sent via tcp/ip by user 18
+
+Mon Sep  5 14:34:29 2016: Command 'move_to 11 1549' sent via tcp/ip by user 18
+
+Mon Sep  5 14:34:29 2016: Command 'move_to 12 1549' sent via tcp/ip by user 18
+
+Mon Sep  5 14:34:29 2016: Command 'move_to 13 1549' sent via tcp/ip by user 18
+
+Mon Sep  5 14:34:30 2016: Command 'move_to 14 1549' sent via tcp/ip by user 18
+
+Mon Sep  5 14:35:00 2016: User with socket id 18 disconnected
+
+################################################
+Mon Sep  5 15:17:25 2016: Welcome! CollSoft software start
+################################################
+
+Mon Sep  5 15:17:29 2016: Assigned socket id 7 to client with ip 127.0.0.1
+
+Mon Sep  5 15:17:31 2016: Command 'device_list' sent via tcp/ip by user 7
+
+Mon Sep  5 15:17:34 2016: Command 'device_list' sent via tcp/ip by user 7
+
+Mon Sep  5 15:17:46 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 7
+
+Mon Sep  5 15:17:58 2016: Command 'get_all_parameter' sent via tcp/ip by user 7
+
+Mon Sep  5 15:18:21 2016: Command 'device_list' sent via tcp/ip by user 7
+
+Mon Sep  5 15:18:28 2016: User with socket id 7 disconnected
+
+################################################
+Mon Sep  5 15:24:27 2016: Welcome! CollSoft software start
+################################################
+
+Mon Sep  5 15:24:33 2016: Assigned socket id 8 to client with ip 127.0.0.1
+
+Mon Sep  5 15:24:36 2016: Command 'device_list' sent via tcp/ip by user 8
+
+Mon Sep  5 15:24:42 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 8
+
+Mon Sep  5 15:24:50 2016: Command 'get_all_parameter' sent via tcp/ip by user 8
+
+Mon Sep  5 15:25:07 2016: User with socket id 8 disconnected
+
+################################################
+Mon Sep  5 15:45:21 2016: Welcome! CollSoft software start
+################################################
+
+Mon Sep  5 15:45:25 2016: Assigned socket id 9 to client with ip 127.0.0.1
+
+Mon Sep  5 15:45:26 2016: Command 'connect ' sent via tcp/ip by user 9
+
+Mon Sep  5 15:45:29 2016: Command 'device_list' sent via tcp/ip by user 9
+
+Mon Sep  5 15:45:49 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 9
+
+Mon Sep  5 15:45:53 2016: Command 'read_serial_log' sent via tcp/ip by user 9
+
+Mon Sep  5 15:45:54 2016: Command 'read_serial_log' sent via tcp/ip by user 9
+
+Mon Sep  5 15:45:56 2016: Command 'read_serial_log' sent via tcp/ip by user 9
+
+Mon Sep  5 15:45:58 2016: Command 'check_drv_assoc' sent via tcp/ip by user 9
+
+Mon Sep  5 15:46:09 2016: Command 'read_serial_log' sent via tcp/ip by user 9
+
+Mon Sep  5 15:46:10 2016: Command 'read_serial_log' sent via tcp/ip by user 9
+
+Mon Sep  5 15:46:11 2016: Command 'read_serial_log' sent via tcp/ip by user 9
+
+Mon Sep  5 15:46:12 2016: Command 'read_serial_log' sent via tcp/ip by user 9
+
+Mon Sep  5 15:46:15 2016: Command 'read_serial_log' sent via tcp/ip by user 9
+
+Mon Sep  5 15:46:16 2016: Command 'read_serial_log' sent via tcp/ip by user 9
+
+Mon Sep  5 15:46:28 2016: Command 'read_par_log' sent via tcp/ip by user 9
+
+Mon Sep  5 15:46:30 2016: Command 'check_par_assoc' sent via tcp/ip by user 9
+
+Mon Sep  5 15:46:43 2016: Command 'check_internal_status' sent via tcp/ip by user 9
+
+Mon Sep  5 15:46:45 2016: Command 'Read_actual_encoder_values' sent via tcp/ip by user 9
+
+Mon Sep  5 15:46:48 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 9
+
+Mon Sep  5 15:46:49 2016: Command 'Read_actual_encoder_values' sent via tcp/ip by user 9
+
+Mon Sep  5 15:46:55 2016: Command 'get_all_parameter' sent via tcp/ip by user 9
+
+Mon Sep  5 15:47:09 2016: User with socket id 9 disconnected
+
+################################################
+Mon Sep  5 16:23:59 2016: Welcome! CollSoft software start
+################################################
+
+Mon Sep  5 16:24:04 2016: Assigned socket id 11 to client with ip 127.0.0.1
+
+Mon Sep  5 16:24:06 2016: Command 'device_list' sent via tcp/ip by user 11
+
+Mon Sep  5 16:24:12 2016: Command 'connect /dev/ttyUSB0 ' sent via tcp/ip by user 11
+
+Mon Sep  5 16:24:15 2016: Command 'connect /dev/ttyUSB0 ' sent via tcp/ip by user 11
+
+Mon Sep  5 16:24:16 2016: Command 'connect /dev/ttyUSB0 ' sent via tcp/ip by user 11
+
+Mon Sep  5 16:24:17 2016: Command 'connect /dev/ttyUSB0 ' sent via tcp/ip by user 11
+
+Mon Sep  5 16:24:30 2016: Command 'connect /dev/ttyUSB1 ' sent via tcp/ip by user 11
+
+Mon Sep  5 16:24:31 2016: Command 'connect /dev/ttyUSB1 ' sent via tcp/ip by user 11
+
+Mon Sep  5 16:24:31 2016: Command 'connect /dev/ttyUSB1 ' sent via tcp/ip by user 11
+
+Mon Sep  5 16:24:33 2016: Command 'connect /dev/ttyUSB1 ' sent via tcp/ip by user 11
+
+Mon Sep  5 16:24:42 2016: Command 'get_mov_par 1' sent via tcp/ip by user 11
+
+Mon Sep  5 16:24:56 2016: Command 'get_mov_par 1' sent via tcp/ip by user 11
+
+Mon Sep  5 16:25:11 2016: Command 'connect /dev/ttyUSB1 ' sent via tcp/ip by user 11
+
+Mon Sep  5 16:25:13 2016: User with socket id 11 disconnected
+
+Mon Sep  5 16:25:29 2016: Assigned socket id 13 to client with ip 127.0.0.1
+
+Mon Sep  5 16:25:30 2016: Command 'device_list' sent via tcp/ip by user 13
+
+Mon Sep  5 16:25:47 2016: Command 'connect /dev/ttyUSB0 ' sent via tcp/ip by user 13
+
+Mon Sep  5 16:25:53 2016: Command 'connect /dev/ttyUSB0 ' sent via tcp/ip by user 13
+
+Mon Sep  5 16:25:55 2016: User with socket id 13 disconnected
+
+Mon Sep  5 16:26:54 2016: Assigned socket id 14 to client with ip 127.0.0.1
+
+Mon Sep  5 16:26:56 2016: Command 'device_list' sent via tcp/ip by user 14
+
+Mon Sep  5 16:27:03 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 14
+
+Mon Sep  5 16:27:06 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 14
+
+Mon Sep  5 16:27:08 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 14
+
+Mon Sep  5 16:27:15 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 14
+
+Mon Sep  5 16:27:18 2016: User with socket id 14 disconnected
+
+Mon Sep  5 16:27:41 2016: Assigned socket id 15 to client with ip 127.0.0.1
+
+Mon Sep  5 16:27:47 2016: Command 'connect /dev/ttyUSB0 ' sent via tcp/ip by user 15
+
+Mon Sep  5 16:27:49 2016: Command 'connect /dev/ttyUSB0 ' sent via tcp/ip by user 15
+
+Mon Sep  5 16:27:50 2016: Command 'connect /dev/ttyUSB0 ' sent via tcp/ip by user 15
+
+Mon Sep  5 16:27:50 2016: Command 'connect /dev/ttyUSB0 ' sent via tcp/ip by user 15
+
+Mon Sep  5 16:27:50 2016: Command 'connect /dev/ttyUSB0 ' sent via tcp/ip by user 15
+
+Mon Sep  5 16:27:51 2016: Command 'connect /dev/ttyUSB0 ' sent via tcp/ip by user 15
+
+Mon Sep  5 16:27:51 2016: Command 'connect /dev/ttyUSB0 ' sent via tcp/ip by user 15
+
+Mon Sep  5 16:27:58 2016: Command 'check_internal_status' sent via tcp/ip by user 15
+
+Mon Sep  5 16:28:01 2016: Command 'get_mov_par 1' sent via tcp/ip by user 15
+
+Mon Sep  5 16:28:14 2016: User with socket id 15 disconnected
+
+Mon Sep  5 16:29:52 2016: Assigned socket id 20 to client with ip 127.0.0.1
+
+Mon Sep  5 16:29:58 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 20
+
+Mon Sep  5 16:30:04 2016: Command 'check_internal_status' sent via tcp/ip by user 20
+
+Mon Sep  5 16:30:06 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 20
+
+Mon Sep  5 16:30:08 2016: Command 'Read_actual_encoder_values' sent via tcp/ip by user 20
+
+Mon Sep  5 16:30:11 2016: Command 'get_mov_par 1' sent via tcp/ip by user 20
+
+Mon Sep  5 16:30:20 2016: Command 'check_position 1' sent via tcp/ip by user 20
+
+Mon Sep  5 16:30:23 2016: Command 'get_par 1' sent via tcp/ip by user 20
+
+Mon Sep  5 16:30:27 2016: Command 'set_par 1 -1 -1 -1 -1 -1 -1' sent via tcp/ip by user 20
+
+Mon Sep  5 16:30:36 2016: Command 'set_par 1 -1 -1 -1 -1 -1 -1' sent via tcp/ip by user 20
+
+Mon Sep  5 16:30:51 2016: Command 'set_par 1 1 1 1 1 1 1' sent via tcp/ip by user 20
+
+Mon Sep  5 16:31:04 2016: Command 'move_to 1 777' sent via tcp/ip by user 20
+
+Mon Sep  5 16:31:13 2016: Command 'move_to 1 777' sent via tcp/ip by user 20
+
+Mon Sep  5 16:31:29 2016: Command 'homing 1' sent via tcp/ip by user 20
+
+Mon Sep  5 16:31:35 2016: Command 'ooo' sent via tcp/ip by user 20
+
+Mon Sep  5 16:31:37 2016: Command 'move_to 1 777' sent via tcp/ip by user 20
+
+Mon Sep  5 16:31:41 2016: Command 'ooo' sent via tcp/ip by user 20
+
+Mon Sep  5 16:31:43 2016: Command 'homing 1' sent via tcp/ip by user 20
+
+Mon Sep  5 16:31:50 2016: Command 'ooo' sent via tcp/ip by user 20
+
+Mon Sep  5 16:31:53 2016: Command 'check_position 1' sent via tcp/ip by user 20
+
+Mon Sep  5 16:32:14 2016: Command 'ooo' sent via tcp/ip by user 20
+
+Mon Sep  5 16:32:21 2016: Command 'setmult_par 1 1 1 1 1 1 1 2 3 4 5 6 7 8 9 10 11 12 13 14 ' sent via tcp/ip by user 20
+
+Mon Sep  5 16:32:31 2016: Command 'get_all_parameter' sent via tcp/ip by user 20
+
+Mon Sep  5 16:32:43 2016: Command 'ooo' sent via tcp/ip by user 20
+
+Mon Sep  5 16:32:54 2016: Command 'moveto_mult 3 1 2 3 4 5 6 7 8 9 10 11 12 13 14 ' sent via tcp/ip by user 20
+
+Mon Sep  5 16:33:03 2016: Command 'ooo' sent via tcp/ip by user 20
+
+Mon Sep  5 16:33:05 2016: Command 'homing_mult 1 2 3 4 5 6 7 8 9 10 11 12 13 14 ' sent via tcp/ip by user 20
+
+Mon Sep  5 16:33:17 2016: User with socket id 20 disconnected
+
+Mon Sep  5 16:34:06 2016: Assigned socket id 21 to client with ip 127.0.0.1
+
+Mon Sep  5 16:34:06 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 21
+
+Mon Sep  5 16:34:06 2016: User with socket id 21 disconnected
+
+Mon Sep  5 16:34:06 2016: Assigned socket id 24 to client with ip 127.0.0.1
+
+Mon Sep  5 16:34:06 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 24
+
+Mon Sep  5 16:34:06 2016: User with socket id 24 disconnected
+
+Mon Sep  5 16:34:06 2016: Assigned socket id 26 to client with ip 127.0.0.1
+
+Mon Sep  5 16:34:22 2016: Command 'move_to 1 13' sent via tcp/ip by user 26
+
+Mon Sep  5 16:34:23 2016: Command 'move_to 2 13' sent via tcp/ip by user 26
+
+Mon Sep  5 16:34:23 2016: Command 'move_to 3 13' sent via tcp/ip by user 26
+
+Mon Sep  5 16:34:23 2016: Command 'move_to 4 13' sent via tcp/ip by user 26
+
+Mon Sep  5 16:34:24 2016: Command 'move_to 5 26829' sent via tcp/ip by user 26
+
+Mon Sep  5 16:34:24 2016: Command 'move_to 6 26829' sent via tcp/ip by user 26
+
+Mon Sep  5 16:34:24 2016: Command 'move_to 7 26829' sent via tcp/ip by user 26
+
+Mon Sep  5 16:34:25 2016: Command 'move_to 8 26829' sent via tcp/ip by user 26
+
+Mon Sep  5 16:34:25 2016: Command 'move_to 9 80448' sent via tcp/ip by user 26
+
+Mon Sep  5 16:34:25 2016: Command 'move_to 10 80448' sent via tcp/ip by user 26
+
+Mon Sep  5 16:34:26 2016: Command 'move_to 11 80448' sent via tcp/ip by user 26
+
+Mon Sep  5 16:34:26 2016: Command 'move_to 12 80448' sent via tcp/ip by user 26
+
+Mon Sep  5 16:34:47 2016: User with socket id 26 disconnected
+
+################################################
+Tue Sep  6 14:08:37 2016: Welcome! CollSoft software start
+################################################
+
+Tue Sep  6 14:08:42 2016: Assigned socket id 7 to client with ip 127.0.0.1
+
+Tue Sep  6 14:08:48 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 7
+
+Tue Sep  6 14:09:05 2016: Command 'get_par 1' sent via tcp/ip by user 7
+
+Tue Sep  6 14:09:07 2016: Command 'get_mov_par 1' sent via tcp/ip by user 7
+
+Tue Sep  6 14:09:09 2016: Command 'check_position 1' sent via tcp/ip by user 7
+
+Tue Sep  6 14:09:12 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 7
+
+Tue Sep  6 14:09:14 2016: Command 'check_position 1' sent via tcp/ip by user 7
+
+Tue Sep  6 14:09:19 2016: Command 'move_to 1 20' sent via tcp/ip by user 7
+
+Tue Sep  6 14:09:25 2016: Command 'move_to 1 1000' sent via tcp/ip by user 7
+
+Tue Sep  6 14:09:27 2016: Command 'get_mov_par 1' sent via tcp/ip by user 7
+
+Tue Sep  6 14:09:28 2016: Command 'get_mov_par 1' sent via tcp/ip by user 7
+
+Tue Sep  6 14:09:31 2016: Command 'move_to 1 10000' sent via tcp/ip by user 7
+
+Tue Sep  6 14:09:33 2016: Command 'get_mov_par 1' sent via tcp/ip by user 7
+
+Tue Sep  6 14:09:33 2016: Command 'get_mov_par 1' sent via tcp/ip by user 7
+
+Tue Sep  6 14:09:33 2016: Command 'get_mov_par 1' sent via tcp/ip by user 7
+
+Tue Sep  6 14:09:34 2016: Command 'check_position 1' sent via tcp/ip by user 7
+
+Tue Sep  6 14:09:34 2016: Command 'check_position 1' sent via tcp/ip by user 7
+
+Tue Sep  6 14:09:35 2016: Command 'check_position 1' sent via tcp/ip by user 7
+
+Tue Sep  6 14:09:35 2016: Command 'check_position 1' sent via tcp/ip by user 7
+
+Tue Sep  6 14:09:35 2016: Command 'check_position 1' sent via tcp/ip by user 7
+
+Tue Sep  6 14:09:35 2016: Command 'check_position 1' sent via tcp/ip by user 7
+
+Tue Sep  6 14:09:43 2016: Command 'homing 1' sent via tcp/ip by user 7
+
+Tue Sep  6 14:10:02 2016: Command 'homing 1' sent via tcp/ip by user 7
+
+Tue Sep  6 14:10:02 2016: Command 'move_to 1 10000' sent via tcp/ip by user 7
+
+Tue Sep  6 14:10:02 2016: Command 'check_position 1' sent via tcp/ip by user 7
+
+Tue Sep  6 14:10:03 2016: Command 'get_mov_par 1' sent via tcp/ip by user 7
+
+Tue Sep  6 14:10:03 2016: Command 'get_mov_par 1' sent via tcp/ip by user 7
+
+Tue Sep  6 14:10:08 2016: Command 'check_position 1' sent via tcp/ip by user 7
+
+Tue Sep  6 14:10:08 2016: Command 'check_position 1' sent via tcp/ip by user 7
+
+Tue Sep  6 14:10:08 2016: Command 'check_position 1' sent via tcp/ip by user 7
+
+Tue Sep  6 14:10:08 2016: Command 'check_position 1' sent via tcp/ip by user 7
+
+Tue Sep  6 14:10:08 2016: Command 'check_position 1' sent via tcp/ip by user 7
+
+Tue Sep  6 14:10:10 2016: User with socket id 7 disconnected
+
+Tue Sep  6 14:17:56 2016: Assigned socket id 8 to client with ip 127.0.0.1
+
+Tue Sep  6 14:17:57 2016: Command 'device_list' sent via tcp/ip by user 8
+
+Tue Sep  6 14:18:08 2016: Command 'connect /dev/ttyUSB1' sent via tcp/ip by user 8
+
+Tue Sep  6 14:18:10 2016: Command 'connect /dev/ttyUSB1' sent via tcp/ip by user 8
+
+Tue Sep  6 14:18:17 2016: Command 'get_par 1' sent via tcp/ip by user 8
+
+Tue Sep  6 14:18:19 2016: Command 'get_mov_par 1' sent via tcp/ip by user 8
+
+Tue Sep  6 14:18:20 2016: Command 'check_position 1' sent via tcp/ip by user 8
+
+Tue Sep  6 14:18:22 2016: Command 'homing 1' sent via tcp/ip by user 8
+
+Tue Sep  6 14:18:26 2016: Command 'move_to 1 1000' sent via tcp/ip by user 8
+
+Tue Sep  6 14:18:29 2016: Command 'move_to 1 10000' sent via tcp/ip by user 8
+
+Tue Sep  6 14:18:33 2016: Command 'homing 1' sent via tcp/ip by user 8
+
+Tue Sep  6 14:18:41 2016: Command 'encode 1' sent via tcp/ip by user 8
+
+Tue Sep  6 14:19:31 2016: User with socket id 8 disconnected
+
+################################################
+Tue Sep  6 14:23:35 2016: Welcome! CollSoft software start
+################################################
+
+Tue Sep  6 14:23:39 2016: Assigned socket id 8 to client with ip 127.0.0.1
+
+Tue Sep  6 14:23:40 2016: Command 'connect ' sent via tcp/ip by user 8
+
+Tue Sep  6 14:23:42 2016: Command 'device_list' sent via tcp/ip by user 8
+
+Tue Sep  6 14:23:49 2016: Command 'connect /dev/ttyUSB1' sent via tcp/ip by user 8
+
+Tue Sep  6 14:23:52 2016: Command 'get_par 1' sent via tcp/ip by user 8
+
+Tue Sep  6 14:23:55 2016: Command 'get_mov_par 1' sent via tcp/ip by user 8
+
+Tue Sep  6 14:23:55 2016: Command 'check_position 1' sent via tcp/ip by user 8
+
+Tue Sep  6 14:23:59 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 8
+
+Tue Sep  6 14:24:07 2016: Command 'encode 1' sent via tcp/ip by user 8
+
+Tue Sep  6 14:24:22 2016: Command 'check_position 1' sent via tcp/ip by user 8
+
+Tue Sep  6 14:25:51 2016: User with socket id 8 disconnected
+
+Tue Sep  6 14:27:47 2016: Assigned socket id 9 to client with ip 127.0.0.1
+
+Tue Sep  6 14:28:03 2016: User with socket id 9 disconnected
+
+################################################
+Tue Sep  6 14:28:07 2016: Welcome! CollSoft software start
+################################################
+
+Tue Sep  6 14:28:08 2016: Assigned socket id 9 to client with ip 127.0.0.1
+
+Tue Sep  6 14:28:10 2016: Command 'device_list' sent via tcp/ip by user 9
+
+Tue Sep  6 14:28:21 2016: Command 'connect /dev/ttyUSB1' sent via tcp/ip by user 9
+
+Tue Sep  6 14:28:27 2016: Command 'encode 1' sent via tcp/ip by user 9
+
+Tue Sep  6 14:28:30 2016: Command 'encode 1' sent via tcp/ip by user 9
+
+Tue Sep  6 14:28:32 2016: Command 'encode 1' sent via tcp/ip by user 9
+
+Tue Sep  6 14:28:36 2016: Command 'get_par 1' sent via tcp/ip by user 9
+
+Tue Sep  6 14:28:38 2016: Command 'get_mov_par 1' sent via tcp/ip by user 9
+
+Tue Sep  6 14:28:42 2016: Command 'encode 1' sent via tcp/ip by user 9
+
+Tue Sep  6 14:28:44 2016: Command 'encode 1' sent via tcp/ip by user 9
+
+Tue Sep  6 14:28:54 2016: Command 'encode 1' sent via tcp/ip by user 9
+
+Tue Sep  6 14:29:06 2016: Command 'help' sent via tcp/ip by user 9
+
+Tue Sep  6 14:29:10 2016: Command 'help' sent via tcp/ip by user 9
+
+Tue Sep  6 14:29:11 2016: Command 'helphelp' sent via tcp/ip by user 9
+
+Tue Sep  6 14:29:14 2016: Command 'help' sent via tcp/ip by user 9
+
+Tue Sep  6 14:29:15 2016: Command 'help' sent via tcp/ip by user 9
+
+Tue Sep  6 14:29:25 2016: Command 'get_par 1' sent via tcp/ip by user 9
+
+Tue Sep  6 14:29:27 2016: Command 'get_mov_par 1' sent via tcp/ip by user 9
+
+Tue Sep  6 14:29:29 2016: Command 'get_mov_par 1' sent via tcp/ip by user 9
+
+Tue Sep  6 14:29:35 2016: Command 'help' sent via tcp/ip by user 9
+
+Tue Sep  6 14:29:39 2016: Command 'get_par 1' sent via tcp/ip by user 9
+
+Tue Sep  6 14:29:41 2016: Command 'get_mov_par 1' sent via tcp/ip by user 9
+
+Tue Sep  6 14:29:43 2016: Command 'check_position 1' sent via tcp/ip by user 9
+
+Tue Sep  6 14:30:23 2016: User with socket id 9 disconnected
+
+################################################
+Tue Sep  6 14:37:07 2016: Welcome! CollSoft software start
+################################################
+
+Tue Sep  6 14:37:09 2016: Command 'help' sent via stdin in date
+
+Tue Sep  6 14:37:20 2016: Command 'check_position 1' sent via stdin in date
+
+Tue Sep  6 14:37:35 2016: Command 'connect /dev/ttyUSB1' sent via stdin in date
+
+Tue Sep  6 14:37:49 2016: Command 'check_position 1' sent via stdin in date
+
+Tue Sep  6 14:38:01 2016: Command 'encode 1' sent via stdin in date
+
+Tue Sep  6 14:38:09 2016: Command 'help' sent via stdin in date
+
+Tue Sep  6 14:38:16 2016: Command 'check_position 1' sent via stdin in date
+
+Tue Sep  6 14:38:22 2016: Command 'help' sent via stdin in date
+
+Tue Sep  6 14:38:24 2016: Command 'help' sent via stdin in date
+
+Tue Sep  6 14:38:29 2016: Command 'check_position 1' sent via stdin in date
+
+Tue Sep  6 14:38:38 2016: Command 'load_encoder_from_file' sent via stdin in date
+
+Tue Sep  6 14:38:44 2016: Command 'check_position 1' sent via stdin in date
+
+Tue Sep  6 14:38:47 2016: Command 'encode 1' sent via stdin in date
+
+Tue Sep  6 14:38:55 2016: Command 'help' sent via stdin in date
+
+Tue Sep  6 14:38:57 2016: Command 'help' sent via stdin in date
+
+Tue Sep  6 14:38:58 2016: Command 'help' sent via stdin in date
+
+Tue Sep  6 14:39:01 2016: Command 'check' sent via stdin in date
+
+Tue Sep  6 14:39:04 2016: Command 'e' sent via stdin in date
+
+Tue Sep  6 14:39:08 2016: Command 'check' sent via stdin in date
+
+Tue Sep  6 14:39:21 2016: Command 'check_position 1' sent via stdin in date
+
+Tue Sep  6 14:39:24 2016: Command 'encode 1' sent via stdin in date
+
+Tue Sep  6 14:39:35 2016: Command 'check_position 1' sent via stdin in date
+
+Tue Sep  6 14:39:40 2016: Command 'help' sent via stdin in date
+
+Tue Sep  6 14:39:57 2016: Command 'moveto 1 1000' sent via stdin in date
+
+Tue Sep  6 14:40:09 2016: Command 'move_to 1 1000' sent via stdin in date
+
+Tue Sep  6 14:40:20 2016: Command 'check_position' sent via stdin in date
+
+Tue Sep  6 14:40:23 2016: Command ' 1' sent via stdin in date
+
+Tue Sep  6 14:40:29 2016: Command 'check_position 1' sent via stdin in date
+
+Tue Sep  6 14:40:31 2016: Command 'exit' sent via stdin in date
+
+################################################
+Tue Sep  6 14:42:46 2016: Welcome! CollSoft software start
+################################################
+
+Tue Sep  6 14:42:50 2016: Assigned socket id 9 to client with ip 127.0.0.1
+
+Tue Sep  6 14:42:51 2016: Command 'device_list' sent via tcp/ip by user 9
+
+Tue Sep  6 14:43:00 2016: Command 'connect /dev/ttyUSB1' sent via tcp/ip by user 9
+
+Tue Sep  6 14:43:04 2016: Command 'get_par 1' sent via tcp/ip by user 9
+
+Tue Sep  6 14:43:09 2016: Command 'encode 1' sent via tcp/ip by user 9
+
+Tue Sep  6 14:43:48 2016: Command 'get_par 1' sent via tcp/ip by user 9
+
+Tue Sep  6 14:43:57 2016: Command 'help' sent via tcp/ip by user 9
+
+Tue Sep  6 14:43:59 2016: Command 'help' sent via tcp/ip by user 9
+
+Tue Sep  6 14:44:00 2016: Command 'help' sent via tcp/ip by user 9
+
+Tue Sep  6 14:44:00 2016: Command 'help' sent via tcp/ip by user 9
+
+Tue Sep  6 14:44:01 2016: Command 'help' sent via tcp/ip by user 9
+
+Tue Sep  6 14:44:01 2016: Command 'help' sent via tcp/ip by user 9
+
+Tue Sep  6 14:44:01 2016: Command 'help' sent via tcp/ip by user 9
+
+Tue Sep  6 14:44:02 2016: Command 'help' sent via tcp/ip by user 9
+
+Tue Sep  6 14:44:02 2016: Command 'help' sent via tcp/ip by user 9
+
+Tue Sep  6 14:44:02 2016: Command 'help' sent via tcp/ip by user 9
+
+Tue Sep  6 14:44:02 2016: Command 'help' sent via tcp/ip by user 9
+
+Tue Sep  6 14:44:03 2016: Command 'help' sent via tcp/ip by user 9
+
+Tue Sep  6 14:44:03 2016: Command 'help' sent via tcp/ip by user 9
+
+Tue Sep  6 14:44:07 2016: Command 'check_position 1' sent via tcp/ip by user 9
+
+Tue Sep  6 14:44:29 2016: User with socket id 9 disconnected
+
+################################################
+Tue Sep  6 14:55:07 2016: Welcome! CollSoft software start
+################################################
+
+Tue Sep  6 14:55:11 2016: Assigned socket id 10 to client with ip 127.0.0.1
+
+Tue Sep  6 14:55:17 2016: Command 'device_list' sent via tcp/ip by user 10
+
+Tue Sep  6 14:55:26 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 10
+
+Tue Sep  6 14:55:29 2016: Command 'get_par 1' sent via tcp/ip by user 10
+
+Tue Sep  6 14:55:34 2016: Command 'encode 1' sent via tcp/ip by user 10
+
+Tue Sep  6 14:55:45 2016: Command 'check_position 1' sent via tcp/ip by user 10
+
+Tue Sep  6 14:55:54 2016: Command 'help' sent via tcp/ip by user 10
+
+Tue Sep  6 14:55:56 2016: Command 'help' sent via tcp/ip by user 10
+
+Tue Sep  6 14:56:24 2016: Command 'help' sent via tcp/ip by user 10
+
+Tue Sep  6 14:56:25 2016: Command 'help' sent via tcp/ip by user 10
+
+Tue Sep  6 14:56:29 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 10
+
+Tue Sep  6 14:56:32 2016: Command 'get_par 1' sent via tcp/ip by user 10
+
+Tue Sep  6 14:56:46 2016: User with socket id 10 disconnected
+
+################################################
+Tue Sep  6 15:06:58 2016: Welcome! CollSoft software start
+################################################
+
+Tue Sep  6 15:06:59 2016: Assigned socket id 12 to client with ip 127.0.0.1
+
+Tue Sep  6 15:07:09 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 12
+
+Tue Sep  6 15:07:17 2016: Command 'get_par 1' sent via tcp/ip by user 12
+
+Tue Sep  6 15:07:19 2016: Command 'homing 1' sent via tcp/ip by user 12
+
+Tue Sep  6 15:07:25 2016: Command 'move_to 1 100' sent via tcp/ip by user 12
+
+Tue Sep  6 15:07:34 2016: Command 'encode 1' sent via tcp/ip by user 12
+
+Tue Sep  6 15:08:01 2016: User with socket id 12 disconnected
+
+Tue Sep  6 15:17:42 2016: Assigned socket id 13 to client with ip 127.0.0.1
+
+Tue Sep  6 15:17:54 2016: Command 'connect /dev/ttyUSB1' sent via tcp/ip by user 13
+
+Tue Sep  6 15:17:58 2016: Command 'get_par 1' sent via tcp/ip by user 13
+
+Tue Sep  6 15:18:00 2016: Command 'get_mov_par 1' sent via tcp/ip by user 13
+
+Tue Sep  6 15:18:00 2016: Command 'check_position 1' sent via tcp/ip by user 13
+
+Tue Sep  6 15:18:07 2016: Command 'encode 1' sent via tcp/ip by user 13
+
+Tue Sep  6 15:24:17 2016: User with socket id 13 disconnected
+
+Tue Sep  6 15:26:10 2016: Assigned socket id 15 to client with ip 127.0.0.1
+
+Tue Sep  6 15:26:16 2016: Command 'connect /dev/ttyUSB1' sent via tcp/ip by user 15
+
+Tue Sep  6 15:26:17 2016: Command 'connect /dev/ttyUSB1' sent via tcp/ip by user 15
+
+Tue Sep  6 15:26:18 2016: Command 'device_list' sent via tcp/ip by user 15
+
+Tue Sep  6 15:26:26 2016: Command 'connect /dev/ttyUSB2' sent via tcp/ip by user 15
+
+Tue Sep  6 15:26:29 2016: Command 'get_par 1' sent via tcp/ip by user 15
+
+Tue Sep  6 15:26:29 2016: Command 'get_par 1' sent via tcp/ip by user 15
+
+Tue Sep  6 15:26:39 2016: Command 'encode 1' sent via tcp/ip by user 15
+
+Tue Sep  6 15:27:03 2016: Command 'homing 1' sent via tcp/ip by user 15
+
+Tue Sep  6 15:27:10 2016: User with socket id 15 disconnected
+
+################################################
+Tue Sep  6 15:33:42 2016: Welcome! CollSoft software start
+################################################
+
+Tue Sep  6 15:33:47 2016: Assigned socket id 13 to client with ip 127.0.0.1
+
+Tue Sep  6 15:34:02 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 13
+
+Tue Sep  6 15:34:05 2016: Command 'get_par 1' sent via tcp/ip by user 13
+
+Tue Sep  6 15:34:08 2016: Command 'get_mov_par 1' sent via tcp/ip by user 13
+
+Tue Sep  6 15:34:09 2016: Command 'check_position 1' sent via tcp/ip by user 13
+
+Tue Sep  6 15:34:12 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 13
+
+Tue Sep  6 15:34:14 2016: Command 'check_position 1' sent via tcp/ip by user 13
+
+Tue Sep  6 15:34:20 2016: Command 'homing 1' sent via tcp/ip by user 13
+
+Tue Sep  6 15:34:40 2016: Command 'move_to 1 25600' sent via tcp/ip by user 13
+
+Tue Sep  6 15:34:47 2016: Command 'get_mov_par 1' sent via tcp/ip by user 13
+
+Tue Sep  6 15:34:48 2016: Command 'get_mov_par 1' sent via tcp/ip by user 13
+
+Tue Sep  6 15:34:49 2016: Command 'check_position 1' sent via tcp/ip by user 13
+
+Tue Sep  6 15:34:57 2016: Command 'move_to 1 0' sent via tcp/ip by user 13
+
+Tue Sep  6 15:35:01 2016: Command 'check_position 1' sent via tcp/ip by user 13
+
+Tue Sep  6 15:35:06 2016: Command 'get_mov_par 1' sent via tcp/ip by user 13
+
+Tue Sep  6 15:35:07 2016: Command 'get_mov_par 1' sent via tcp/ip by user 13
+
+Tue Sep  6 15:35:13 2016: Command 'get_mov_par 1' sent via tcp/ip by user 13
+
+Tue Sep  6 15:35:47 2016: Command 'move_to 1000' sent via tcp/ip by user 13
+
+Tue Sep  6 15:35:53 2016: Command 'move_to 1 1000' sent via tcp/ip by user 13
+
+Tue Sep  6 15:35:58 2016: Command 'get_mov_par 1' sent via tcp/ip by user 13
+
+Tue Sep  6 15:36:02 2016: User with socket id 13 disconnected
+
+Tue Sep  6 15:36:32 2016: Assigned socket id 14 to client with ip 127.0.0.1
+
+Tue Sep  6 15:36:34 2016: Command 'get_par 1' sent via tcp/ip by user 14
+
+Tue Sep  6 15:36:37 2016: Command 'get_mov_par 1' sent via tcp/ip by user 14
+
+Tue Sep  6 15:36:38 2016: Command 'check_position 1' sent via tcp/ip by user 14
+
+Tue Sep  6 15:36:44 2016: Command 'move_to 1 0' sent via tcp/ip by user 14
+
+Tue Sep  6 15:36:47 2016: Command 'move_to 1 1000' sent via tcp/ip by user 14
+
+Tue Sep  6 15:36:49 2016: Command 'get_mov_par 1' sent via tcp/ip by user 14
+
+Tue Sep  6 15:36:53 2016: Command 'move_to 1 25600' sent via tcp/ip by user 14
+
+Tue Sep  6 15:36:57 2016: Command 'get_mov_par 1' sent via tcp/ip by user 14
+
+Tue Sep  6 15:37:25 2016: Command 'read_log' sent via tcp/ip by user 14
+
+Tue Sep  6 15:37:29 2016: User with socket id 14 disconnected
+
+################################################
+Tue Sep  6 15:40:19 2016: Welcome! CollSoft software start
+################################################
+
+Tue Sep  6 15:40:21 2016: Command 'help' sent via stdin in date
+
+Tue Sep  6 15:40:36 2016: Command 'check_position 1' sent via stdin in date
+
+Tue Sep  6 15:40:46 2016: Command 'd' sent via stdin in date
+
+Tue Sep  6 15:40:48 2016: Command 'd' sent via stdin in date
+
+Tue Sep  6 15:40:59 2016: Command 'check_position' sent via stdin in date
+
+Tue Sep  6 15:41:05 2016: Command 'check_position 1' sent via stdin in date
+
+Tue Sep  6 15:41:09 2016: Command 'get_par 1' sent via stdin in date
+
+Tue Sep  6 15:41:19 2016: Command 'exit' sent via stdin in date
+
+################################################
+Tue Sep  6 15:44:04 2016: Welcome! CollSoft software start
+################################################
+
+Tue Sep  6 15:44:09 2016: Command 'check_position 1' sent via stdin in date
+
+Tue Sep  6 15:44:14 2016: Command 'exit' sent via stdin in date
+
+################################################
+Tue Sep  6 15:50:53 2016: Welcome! CollSoft software start
+################################################
+
+Tue Sep  6 15:51:14 2016: Assigned socket id 16 to client with ip 127.0.0.1
+
+Tue Sep  6 15:51:22 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 16
+
+Tue Sep  6 15:51:25 2016: Command 'connect /dev/ttyUSB0' sent via tcp/ip by user 16
+
+Tue Sep  6 15:51:32 2016: Command 'connect /dev/ttyUSB1' sent via tcp/ip by user 16
+
+Tue Sep  6 15:51:35 2016: Command 'read_serial_log' sent via tcp/ip by user 16
+
+Tue Sep  6 15:51:38 2016: Command 'read_serial_log' sent via tcp/ip by user 16
+
+Tue Sep  6 15:51:52 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 16
+
+Tue Sep  6 15:52:42 2016: Command 'help' sent via tcp/ip by user 16
+
+Tue Sep  6 15:53:01 2016: Command 'help' sent via tcp/ip by user 16
+
+Tue Sep  6 15:53:23 2016: Command 'exit' sent via tcp/ip by user 16
+
+Tue Sep  6 15:53:38 2016: User with socket id 16 disconnected
+
+Tue Sep  6 15:59:03 2016: Assigned socket id 15 to client with ip 127.0.0.1
+
+Tue Sep  6 15:59:09 2016: User with socket id 15 disconnected
+
+################################################
+Tue Sep  6 16:01:07 2016: Welcome! CollSoft software start
+################################################
+
+################################################
+Tue Sep  6 16:08:42 2016: Welcome! CollSoft software start
+################################################
+
+Tue Sep  6 16:08:56 2016: Assigned socket id 7 to client with ip 127.0.0.1
+
+Tue Sep  6 16:09:04 2016: Command 'connect /dev/ttyUSB1' sent via tcp/ip by user 7
+
+Tue Sep  6 16:09:16 2016: Command 'connect /dev/ttyUSB1' sent via tcp/ip by user 7
+
+Tue Sep  6 16:09:44 2016: Command 'read_par_log' sent via tcp/ip by user 7
+
+Tue Sep  6 16:09:48 2016: Command 'read_par_log' sent via tcp/ip by user 7
+
+Tue Sep  6 16:09:49 2016: Command 'read_par_log' sent via tcp/ip by user 7
+
+Tue Sep  6 16:09:50 2016: Command 'read_par_log' sent via tcp/ip by user 7
+
+Tue Sep  6 16:09:55 2016: Command 'read_par_log' sent via tcp/ip by user 7
+
+Tue Sep  6 16:09:56 2016: Command 'read_par_log' sent via tcp/ip by user 7
+
+Tue Sep  6 16:09:58 2016: Command 'read_serial_log' sent via tcp/ip by user 7
+
+Tue Sep  6 16:10:00 2016: Command 'read_serial_log' sent via tcp/ip by user 7
+
+Tue Sep  6 16:10:00 2016: Command 'read_serial_log' sent via tcp/ip by user 7
+
+Tue Sep  6 16:10:01 2016: Command 'read_serial_log' sent via tcp/ip by user 7
+
+Tue Sep  6 16:10:03 2016: Command 'read_serial_log' sent via tcp/ip by user 7
+
+Tue Sep  6 16:10:04 2016: Command 'read_serial_log' sent via tcp/ip by user 7
+
+Tue Sep  6 16:10:09 2016: Command 'read_serial_log' sent via tcp/ip by user 7
+
+Tue Sep  6 16:10:11 2016: Command 'read_serial_log' sent via tcp/ip by user 7
+
+Tue Sep  6 16:10:12 2016: Command 'read_serial_log' sent via tcp/ip by user 7
+
+Tue Sep  6 16:10:16 2016: Command 'read_serial_log' sent via tcp/ip by user 7
+
+Tue Sep  6 16:10:19 2016: Command 'load_encoder_from_file' sent via tcp/ip by user 7
+
+Tue Sep  6 16:10:34 2016: Command 'read_par_log' sent via tcp/ip by user 7
+
+Tue Sep  6 16:10:35 2016: Command 'read_par_log' sent via tcp/ip by user 7
+
+Tue Sep  6 16:10:37 2016: Command 'read_serial_log' sent via tcp/ip by user 7
+
+Tue Sep  6 16:10:48 2016: Command 'read_serial_log' sent via tcp/ip by user 7
+
+Tue Sep  6 16:10:49 2016: Command 'read_serial_log' sent via tcp/ip by user 7
+
+Tue Sep  6 16:10:50 2016: Command 'read_serial_log' sent via tcp/ip by user 7
+
+Tue Sep  6 16:10:51 2016: Command 'read_serial_log' sent via tcp/ip by user 7
+
+Tue Sep  6 16:10:55 2016: Command 'Read_actual_encoder_values' sent via tcp/ip by user 7
+
+Tue Sep  6 16:11:01 2016: Command 'Read_actual_encoder_values' sent via tcp/ip by user 7
+
+Tue Sep  6 16:11:22 2016: Command 'get_all_parameter' sent via tcp/ip by user 7
+
+Tue Sep  6 16:12:18 2016: Command 'read_par_log' sent via tcp/ip by user 7
+
+Tue Sep  6 16:12:19 2016: Command 'read_par_log' sent via tcp/ip by user 7
+
+Tue Sep  6 16:12:19 2016: Command 'read_par_log' sent via tcp/ip by user 7
+
+Tue Sep  6 16:12:31 2016: User with socket id 7 disconnected
+
+################################################
+Tue Sep  6 16:16:36 2016: Welcome! CollSoft software start
+################################################
+
+Tue Sep  6 16:16:45 2016: Assigned socket id 7 to client with ip 127.0.0.1
+
+Tue Sep  6 16:16:50 2016: Command 'help' sent via tcp/ip by user 7
+
+Tue Sep  6 16:16:58 2016: Command 'help' sent via tcp/ip by user 7
+
+Tue Sep  6 16:16:58 2016: Command 'help' sent via tcp/ip by user 7
+
+Tue Sep  6 16:17:11 2016: Command 'get_all_parameter' sent via tcp/ip by user 7
+
+Tue Sep  6 16:17:12 2016: Command 'get_all_parameter' sent via tcp/ip by user 7
+
+Tue Sep  6 16:17:25 2016: User with socket id 7 disconnected
+

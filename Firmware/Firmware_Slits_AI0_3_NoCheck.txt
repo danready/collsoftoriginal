@@ -1,0 +1,413 @@
+;%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+;LAM Technologies - 50019 Sesto Fiorentino (FI) ITALY - www.lamtechnologies.com
+;%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+;
+;UDP commander 1.72
+;
+; >>> Application Program details:
+;
+DESCRIPTION = ""
+   REVISION = "0.0"
+       NOTE = ""
+;
+; >>> Drive configuration - Fault:
+;
+   UNDERVOLTAGE = "Automatic"
+    OVERVOLTAGE = "Automatic"
+OVERTEMPERATURE = "Automatic"
+    PH_PH_SHORT = "ENABLE"
+   PH_GND_SHORT = "ENABLE"
+   PH_VPP_SHORT = "ENABLE"
+    PH_A_BROKEN = "ENABLE"
+    PH_B_BROKEN = "ENABLE"
+;
+; >>> Drive configuration - I Shape:
+;
+ ISHAPE = "0"
+IOFFSET = "0"
+;
+; >>> Drive configuration - Acceleration and Deceleration Coefficient:
+;
+ACCDECF = "1"
+;
+; >>> Drive configuration - User variables Retentive:
+;
+RETUVAR = "0"
+;
+; >>> Drive configuration - Analog Input used as Digital Input Threshold:
+;
+AI0SLG = "1,5"
+AI1SLG = "1,5"
+;
+; >>> User Variable:
+;
+VARIABLE = "state", 1    ;40961(0xA001)
+VARIABLE = "home_done", 1    ;40962(0xA002)
+VARIABLE = "ismoving_flag", 1    ;40963(0xA003)
+VARIABLE = "count_TargetPos", 4    ;40964(0xA004)
+VARIABLE = "status_state", 1    ;40966(0xA006)
+VARIABLE = "saved_config", 1    ;40967(0xA007)
+VARIABLE = "save_config", 1    ;40968(0xA008)
+VARIABLE = "request_state", 1    ;40969(0xA009)
+VARIABLE = "req_log_state", 1    ;40970(0xA00A)
+VARIABLE = "vel_home", 2    ;40971(0xA00B)
+;Modifica! prima prev_analoginput0 era a soli 2 bytes!!!!
+VARIABLE = "prev_analoginput0", 4    ;40972(0xA00C)
+VARIABLE = "LastPosition", 4    ;40973(0xA00D)
+VARIABLE = "check_T", 1    ;40975(0xA00F)
+VARIABLE = "T_limitHIGH", 1    ;40976(0xA010)
+VARIABLE = "T_limitLOW", 1    ;40977(0xA011)
+VARIABLE = "state_setConfig", 1    ;40978(0xA012)
+VARIABLE = "state_homing", 1    ;40979(0xA013)
+VARIABLE = "state_resetPos", 1    ;40980(0xA014)
+VARIABLE = "state_moveRel", 1    ;40981(0xA015)
+;
+; >>> Application Program block:
+;
+;---------------------------------------------------------------> Block:1
+Assign {
+  bEnable = INACTIVE_BOOL
+  ControlMode = 0
+  PhaseCurrent = 12
+  check_T = 0
+}
+;
+;
+;---------------------------------------------------------------> Block:2
+Assign {
+  home_done = 30
+  state_setConfig = 2
+  save_config = 0
+}
+;
+;
+;---------------------------------------------------------------> Block:3
+Assign {
+  state = 0
+  request_state = 0
+  req_log_state = 0
+  status_state = 0
+}
+;
+;
+;---------------------------------------------------------------> Block:4
+  Jump to initDefault if saved_config = 0
+;
+;
+;---------------------------------------------------------------> Block:5
+  Jump to mainLoop if saved_config = 1
+;
+;
+;---------------------------------------------------------------> Block:6
+mainLoop:
+  Jump to checkTemperature if check_T = 1
+;
+;
+;---------------------------------------------------------------> Block:7
+mainLoop_next:
+  Call selectState if status_state = 0
+;
+;
+;---------------------------------------------------------------> Block:8
+  Jump to setConfig if state = state_setConfig
+;
+;
+;---------------------------------------------------------------> Block:9
+  Jump to move if state = state_homing
+;
+;
+;---------------------------------------------------------------> Block:10
+  Jump to move if state = state_moveRel
+;
+;
+;---------------------------------------------------------------> Block:11
+  Jump to resetPosition if state = state_resetPos
+;
+;
+;---------------------------------------------------------------> Block:12
+  Jump to mainLoop always
+;
+;
+;---------------------------------------------------------------> Block:13
+selectState:
+  Logic req_log_state = request_state AND home_done
+;
+;
+;---------------------------------------------------------------> Block:14
+Assign status_state = 1 if req_log_state <> 0
+;
+;
+;---------------------------------------------------------------> Block:15
+Assign state = request_state if req_log_state <> 0
+;
+;
+;---------------------------------------------------------------> Block:16
+Assign request_state = 0 if req_log_state <> 0
+;
+;
+;---------------------------------------------------------------> Block:17
+  Return
+;
+;
+;---------------------------------------------------------------> Block:18
+checkTemperature:
+  Call stopMotor if AnalogInput(0) > T_limitHIGH
+;
+;
+;---------------------------------------------------------------> Block:19
+  Jump to mainLoop_next always
+;
+;
+;---------------------------------------------------------------> Block:20
+move:
+  Call initMov if status_state = 1
+;
+;
+;---------------------------------------------------------------> Block:21
+  Call checkRotation if status_state = 2
+;
+;
+;---------------------------------------------------------------> Block:22
+  Call stopMotor if ismoving_flag = 0
+;
+;
+;---------------------------------------------------------------> Block:23
+  Call checkMoveDone if status_state = 3
+;
+;
+;---------------------------------------------------------------> Block:24
+  Jump to mainLoop always
+;
+;
+;---------------------------------------------------------------> Block:25
+initMov:
+Assign ControlMode = 0 if state = state_moveRel
+;
+;
+;---------------------------------------------------------------> Block:26
+Assign ControlMode = 1 if state = state_homing
+;
+;
+;---------------------------------------------------------------> Block:27
+Assign {
+  prev_analoginput0 = 0
+  ismoving_flag = 0
+  bEnable = ACTIVE_BOOL
+}
+;
+;
+;---------------------------------------------------------------> Block:28
+Assign {
+  status_state = 2
+}
+;
+;
+;---------------------------------------------------------------> Block:29
+Assign RefVel = vel_home if state = state_homing
+;
+;
+;---------------------------------------------------------------> Block:30
+Assign TargetPos = count_TargetPos if state = state_moveRel
+;
+;
+;---------------------------------------------------------------> Block:31
+  Return
+;
+;
+;---------------------------------------------------------------> Block:32
+checkRotation:
+;Per far funzionare tutto senza encoder ho modificato il CheckRotation!!!!
+  Wait for 50 ms
+;
+;
+;---------------------------------------------------------------> Block:33
+
+;Modifica
+Assign ismoving_flag = 1 if Position <> prev_analoginput0
+;
+;
+;---------------------------------------------------------------> Block:34
+
+;Modifica!
+Assign ismoving_flag = 0 if Position = prev_analoginput0
+
+Assign ismoving_flag = 0 if state = state_homing
+;
+;
+;---------------------------------------------------------------> Block:35
+;Modifica!
+Assign {
+  prev_analoginput0 = Position
+}
+;Modifica!
+
+;
+;
+;---------------------------------------------------------------> Block:36
+  Return
+;
+;
+;---------------------------------------------------------------> Block:37
+stopMotor:
+Assign {
+  RefVel = 0
+}
+;
+;
+;---------------------------------------------------------------> Block:38
+Assign TargetPos = Position if bInStop <> 1
+;
+;
+;---------------------------------------------------------------> Block:39
+Assign status_state = 3 if bInStop = 1
+;
+;
+;---------------------------------------------------------------> Block:40
+Assign bEnable = INACTIVE_BOOL if bInStop = 1
+;
+;
+;---------------------------------------------------------------> Block:41
+Assign home_done = 31 if state = state_homing
+;
+;
+;---------------------------------------------------------------> Block:42
+  Return
+;
+;
+;---------------------------------------------------------------> Block:43
+checkMoveDone:
+Assign Position = 0 if state = state_homing
+;
+;
+;---------------------------------------------------------------> Block:44
+Assign TargetPos = 0 if state = state_homing
+;
+;
+;---------------------------------------------------------------> Block:45
+Assign {
+  LastPosition = Position
+  status_state = 5
+  state = 0
+}
+;
+;
+;---------------------------------------------------------------> Block:46
+  Return
+;
+;
+;---------------------------------------------------------------> Block:47
+resetPosition:
+Assign {
+  LastPosition = 0
+  Position = 0
+  TargetPos = Position
+}
+;
+;
+;---------------------------------------------------------------> Block:48
+Assign {
+  status_state = 5
+  state = 0
+}
+;
+;
+;---------------------------------------------------------------> Block:49
+  Jump to mainLoop always
+;
+;
+;---------------------------------------------------------------> Block:50
+initDefault:
+Assign {
+  state_homing = 4
+  state_resetPos = 6
+  state_moveRel = 17
+}
+;
+;
+;---------------------------------------------------------------> Block:51
+Assign {
+  check_T = 0
+  T_limitHIGH = 97
+  T_limitLOW = 94
+}
+;
+;
+;---------------------------------------------------------------> Block:52
+Assign {
+  check_T = 0
+  vel_home = 240
+  count_TargetPos = -10000
+}
+;
+;
+;---------------------------------------------------------------> Block:53
+Assign {
+  MaxVel = 240
+  Acceleration = 1000
+  Deceleration = 1000
+}
+;
+;
+;---------------------------------------------------------------> Block:54
+  Jump to mainLoop always
+;
+;
+;---------------------------------------------------------------> Block:55
+setConfig:
+  Call saveParamOnFLash if save_config = 1
+;
+;
+;---------------------------------------------------------------> Block:56
+Assign {
+  state = 0
+}
+;
+;
+;---------------------------------------------------------------> Block:57
+Assign status_state = 4 if bUVarSaved = 0
+;
+;
+;---------------------------------------------------------------> Block:58
+Assign status_state = 5 if bUVarSaved = 1
+;
+;
+;---------------------------------------------------------------> Block:59
+  Jump to mainLoop always
+;
+;
+;---------------------------------------------------------------> Block:60
+saveParamOnFlash:
+Assign {
+  bEnable = INACTIVE_BOOL
+  saved_config = 1
+}
+;
+;
+;---------------------------------------------------------------> Block:61
+Function Save Variables in Flash
+;
+;
+;---------------------------------------------------------------> Block:62
+Assign {
+  bEnable = ACTIVE_BOOL
+  save_config = 0
+}
+;
+;
+;---------------------------------------------------------------> Block:63
+Assign {
+  request_state = 0
+  state = 0
+  status_state = 2
+}
+;
+;
+;---------------------------------------------------------------> Block:64
+  Return
+;
+;
+;
+;%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+;LAM Technologies - 50019 Sesto Fiorentino (FI) ITALY - www.lamtechnologies.com
+;%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+;6/13/2016 2:31:04 PM
