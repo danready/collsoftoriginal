@@ -1401,3 +1401,7 @@ Wed Sep 21 09:39:32 2016 : Attempt to access the expert mode from octagonal movi
 #### User gui starting: Wed Sep 21 14:29:02 2016 ####
 Wed Sep 21 14:29:03 2016 : Attempt to access the expert mode from octagonal movimentation tab...
 Wed Sep 21 14:29:07 2016 : Attempt to access the expert mode from octagonal movimentation tab completed!
+
+#### User gui starting: Wed Sep 21 15:04:15 2016 ####
+Wed Sep 21 15:04:16 2016 : Attempt to access the expert mode from octagonal movimentation tab...
+Wed Sep 21 15:04:20 2016 : Attempt to access the expert mode from octagonal movimentation tab completed!

@@ -325,13 +325,13 @@ compiler_rcc_clean:
 	-$(DEL_FILE) ../bin/.rcc/qrc_file.cpp
 ../bin/.rcc/qrc_file.cpp: file.qrc \
 		ExpertIcon.png \
-		Driver.jpg \
-		world.png \
-		MultiDriver.jpg \
-		webBlue.png \
-		worldbig.png \
 		txtIcon.jpg \
-		txtIconNoBackground.png
+		txtIconNoBackground.png \
+		worldbig.png \
+		Driver.jpg \
+		MultiDriver.jpg \
+		world.png \
+		webBlue.png
 	/usr/lib/x86_64-linux-gnu/qt5/bin/rcc -name file file.qrc -o ../bin/.rcc/qrc_file.cpp
 
 compiler_moc_header_make_all: ../bin/.moc/moc_mainwindow.cpp ../bin/.moc/moc_dialog.cpp ../bin/.moc/moc_about.cpp ../bin/.moc/moc_alldriversettingscheck.cpp
