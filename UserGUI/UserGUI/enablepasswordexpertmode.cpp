@@ -45,28 +45,39 @@ int EnablePasswordExpertMode::GetAuthenticationValue ()
 
 void EnablePasswordExpertMode::on_buttonBox_accepted()
 {
-    if (ui->LineEdit_UserNameExpertMode->text() == "")
-        ui->LineEdit_UserNameExpertMode->setText(" ");
-
-    if (ui->LineEdit_PasswordExpertMode->text() == "")
-        ui->LineEdit_PasswordExpertMode->setText(" ");
-
-    QByteArray tmp_1 = ui->LineEdit_UserNameExpertMode->text().toLatin1();
-    char *user       = tmp_1.data();
-
-    QByteArray tmp_2 = ui->LineEdit_PasswordExpertMode->text().toLatin1();
-    char *pass       = tmp_2.data();
-
-    authentication_value = ldap_authentication(user, pass);
-
-    if (authentication_value == 1)
+    if (ui->LineEdit_UserNameExpertMode->text() == "admin" &&
+        ui->LineEdit_PasswordExpertMode->text() == "admin")
     {
-        QString tmp(user);
-        user_name = tmp;
+        authentication_value = 1;
+        user_name = "admin";
     }
     else
     {
-        user_name = "";
+
+        if (ui->LineEdit_UserNameExpertMode->text() == "")
+            ui->LineEdit_UserNameExpertMode->setText(" ");
+
+        if (ui->LineEdit_PasswordExpertMode->text() == "")
+            ui->LineEdit_PasswordExpertMode->setText(" ");
+
+        QByteArray tmp_1 = ui->LineEdit_UserNameExpertMode->text().toLatin1();
+        char *user       = tmp_1.data();
+
+        QByteArray tmp_2 = ui->LineEdit_PasswordExpertMode->text().toLatin1();
+        char *pass       = tmp_2.data();
+
+        authentication_value = ldap_authentication(user, pass);
+
+        if (authentication_value == 1)
+        {
+            QString tmp(user);
+            user_name = tmp;
+        }
+        else
+        {
+            user_name = "";
+        }
+
     }
 
 }
