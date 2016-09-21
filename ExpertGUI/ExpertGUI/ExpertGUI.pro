@@ -35,3 +35,9 @@ CONFIG  += c++11 stl
 
 QMAKE_CXXFLAGS = -std=c++11
 LIBS += -pthread
+
+DESTDIR = ../bin
+OBJECTS_DIR = ../bin/.obj
+MOC_DIR = ../bin/.moc
+RCC_DIR = ../bin/.rcc
+UI_DIR = ../bin/.ui

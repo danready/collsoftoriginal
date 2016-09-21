@@ -21939,3 +21939,6 @@ Tue Sep  6 16:16:58 2016 : Command sent to server by terminal: help
 Tue Sep  6 16:16:58 2016 : Command sent to server by terminal: help
 Tue Sep  6 16:17:11 2016 : Getting all parameters
 Tue Sep  6 16:17:12 2016 : Getting all parameters
+
+#### Expert gui starting: Wed Sep 21 14:29:07 2016 ####
+Wed Sep 21 14:29:07 2016 admin: User activated.

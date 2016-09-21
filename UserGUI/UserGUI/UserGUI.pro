@@ -44,3 +44,9 @@ FORMS    += mainwindow.ui \
 
 RESOURCES += \
     Resource.qrc
+
+DESTDIR = ../bin
+OBJECTS_DIR = ../bin/.obj
+MOC_DIR = ../bin/.moc
+RCC_DIR = ../bin/.rcc
+UI_DIR = ../bin/.ui
