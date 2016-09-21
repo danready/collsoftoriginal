@@ -1,5 +1,0 @@
-num_ciclo	spostamento	AnalogInput0	error_status
-1	-25600	225	0
-2	-25600	225	0
-1	-51200	235	0
-2	-51200	228	0
