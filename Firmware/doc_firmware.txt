@@ -1,3 +1,12 @@
+Firmware contenuti in questa cartella:
+Firmware_Slits_3.1_exported.txt: Il firmware originale descritto in questo documento
+Firmware_Slits_AI0_3.txt: Il firmware modificato per supportare l'output degli encoder in AnalogInput0. QUESTO È IL FIRMWARE DA USARE.
+Firmware_Slits_AI0_3_NoCheck.txt: Firmware analogo al Firmware_Slits_AI0_3.txt ma non esegue nessun test su AnalogInput0. Questo firmware è da usare senza encoder!
+
+
+Il firmware da utilizzare con gli encoder è il Firmware_Slits_AI0_3.txt .
+Per fare dei test senza encoder usare il Firmware_Slits_AI0_3_NoCheck.txt .
+
 
 SOFTWARE/FIRMWARE Driver motori collimatore / altre movimentazioni
 
@@ -85,9 +94,7 @@ Per eseguire i test senza encoder mantenendo la struttura logica del driver, l'h
 1. Ho reso prev_AnalogInput0 più capiente (cioè 4 bytes invece di 2)
 2. ho modificato la funzione checkrotation in modo tale che in caso di movimento relativo si fermi quando a raggiunto la target position e che in caso di homing si fermi subito.
 Chiaramente un driver così non ha senso di esistere in una situazione reale: serve, appunto, per fare test senza encoder....
-
-
-
+Il firmware così modificato è il Firmware_Slits_AI0_3_NoCheck.txt.
 
 
 
