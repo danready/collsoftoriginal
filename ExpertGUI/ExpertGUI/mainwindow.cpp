@@ -388,7 +388,7 @@ void MainWindow::readTcpData()
             AppendMessageToQtextEdit(ui->ProgrammerConnectionLog, data_string);
 
             //Checking if the connection status is okay
-            QRegularExpression re2("MODBUS CONNECTION SUCCESS");
+            QRegularExpression re2("(MODBUS CONNECTION SUCCESS)|(done)");
             QRegularExpressionMatch match = re2.match(data_string);
 
             if (re2.match(data_string).hasMatch()) {
