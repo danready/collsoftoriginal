@@ -14,6 +14,7 @@
 * @file Input.cpp 
 */
 
+#include "DefineGeneral.h"
 #include "Input.h"
 #include <stdio.h>
 #include <stdlib.h>
@@ -24,7 +25,7 @@
 #include <condition_variable>
 
 //Limite della lunghezza dell'input inserito da tastiera
-#define STANDARDBUFFERLIMIT 5000
+//#define STANDARDBUFFERLIMIT 5000
 
 using namespace std;
 
