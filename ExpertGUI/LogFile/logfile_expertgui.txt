@@ -21945,3 +21945,38 @@ Wed Sep 21 14:29:07 2016 admin: User activated.
 
 #### Expert gui starting: Wed Sep 21 15:04:20 2016 ####
 Wed Sep 21 15:04:20 2016 admin: User activated.
+
+#### Expert gui starting: Wed Jan 18 10:04:50 2017 ####
+Wed Jan 18 10:04:50 2017 : User activated.
+Wed Jan 18 10:05:12 2017 : Clicked the button to connect the ExpertGUI with the CheckExistence server.
+Wed Jan 18 10:05:19 2017 : Clicked the button to connect the ExpertGUI with the CheckExistence server.
+Wed Jan 18 10:07:43 2017 : Clicked the button to connect the ExpertGUI with the CheckExistence server.
+Wed Jan 18 10:07:45 2017 : Clicked the button to disconnect the CheckExistence server from the ExpertGUI.
+Wed Jan 18 10:08:00 2017 : Clicked the button to connect the ExpertGUI with the CheckExistence server.
+
+#### Expert gui starting: Wed Jan 18 11:03:58 2017 ####
+Wed Jan 18 11:03:58 2017 : User activated.
+Wed Jan 18 11:04:13 2017 : Clicked the button to connect the ExpertGUI with the CheckExistence server.
+Wed Jan 18 11:04:45 2017 : Clicked the button to connect the ExpertGUI with the CheckExistence server.
+Wed Jan 18 11:04:49 2017 : Clicked the button to disconnect the CheckExistence server from the ExpertGUI.
+
+#### Expert gui starting: Wed Jan 18 11:41:30 2017 ####
+Wed Jan 18 11:41:30 2017 : User activated.
+Wed Jan 18 11:41:35 2017 : Clicked the button to connect the ExpertGUI with the CheckExistence server.
+Wed Jan 18 11:41:40 2017 : Clicked the button to disconnect the CheckExistence server from the ExpertGUI.
+
+#### Expert gui starting: Wed Jan 18 11:59:05 2017 ####
+Wed Jan 18 11:59:05 2017 : User activated.
+Wed Jan 18 12:00:17 2017 : Clicked the button to connect the ExpertGUI with the CheckExistence server.
+Wed Jan 18 12:00:18 2017 : Clicked the button to check if the CollSoft process exists.
+Wed Jan 18 12:00:19 2017 : Clicked the button to create a new CollSoft process.
+Wed Jan 18 12:00:21 2017 : Clicked the button to check if the CollSoft process exists.
+Wed Jan 18 12:00:27 2017 : Connect to CollSoft server command clicked.
+Wed Jan 18 12:00:29 2017 : Clicked the button to disconnect the CollSoft server from the ExpertGUI.
+Wed Jan 18 12:00:33 2017 : Clicked the button to kill the CollSoft server process.
+Wed Jan 18 12:00:34 2017 : Clicked the button to disconnect the CheckExistence server from the ExpertGUI.
+
+#### Expert gui starting: Thu Jan 19 11:27:31 2017 ####
+Thu Jan 19 11:27:31 2017 : User activated.
+Thu Jan 19 11:28:25 2017 : Clicked the button to connect the ExpertGUI with the CheckExistence server.
+Thu Jan 19 11:28:27 2017 : Clicked the button to disconnect the CheckExistence server from the ExpertGUI.
